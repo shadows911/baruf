@@ -252,10 +252,3 @@ useless.
 Maybe unplottability still does prevent information transmission, and
 maybe it doesn't.  Either way it's basically useless, but that
 shouldn't be a big surprise.
-
-******
-
-*I got valuable feedback from
- [\@helenrobynne](https://twitter.com/helenrobynne) and
- [\@zayalhawa](https://twitter.com/zayalhawa). Let me know what I still
- got wrong [on Twitter](https://twitter.com/dunndunndunn).*

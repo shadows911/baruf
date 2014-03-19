@@ -316,9 +316,3 @@ Dudley's *not* important, though; he already knows about magic, so
 seeing *more* magic isn't a major breach of the Statute of Secrecy.
 The Ministry just *pretends* it is while they're trying to expel
 Harry.
-
-***
-
-*Yell at me about why I'm wrong
- [on Twitter](https://twitter.com/dunndunndunn "Twitter").*
- 
