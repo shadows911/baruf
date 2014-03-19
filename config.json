@@ -1,4 +1,8 @@
 {
-    "baseurl" : "http://sbshit.com/",
-    "title": "Santa Barbara Bullshit — sbshit.com"
+    "baseurl" : "http://baruffio.com/",
+    "title": "Baruffio: a blog about Harry Potter — baruffio.com"
+	"indexes": {
+		"tag": "tags"
+		"post": "posts"
+	}
 }
