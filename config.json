@@ -1,8 +1,8 @@
 {
     "baseurl" : "http://baruffio.com/",
-    "title": "Baruffio: a blog about Harry Potter — baruffio.com"
+    "title": "Baruffio: a blog about Harry Potter — baruffio.com",
 	"indexes": {
-		"tag": "tags"
+		"tag": "tags",
 		"post": "posts"
 	}
 }

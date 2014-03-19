@@ -1,0 +1,542 @@
+
+@import "base";
+
+// ==============
+// DIMENSIONS
+// ==============
+$wide: 10%;
+$wide-stance: 80%;
+$narrow: 5%;
+$tiny: 2%;
+
+$box-border: .2em;
+$thin-border: .125em;
+$default-corner: .25em;
+
+$break1: 900px;
+$break2: 500px;
+
+///////// colors /////
+$sb1: #3d6b99;
+$sb2: #477db2;
+$sb3: #528fcc;
+$sb4: #c9dff5;
+$sb5: #e0f0ff;
+$sb6: #f0f7ff;
+
+$dn1: #993d45;
+$dn2: #b24751;
+$dn3: #cc525c;
+$dn4: #f5c9cc;
+$dn5: #ffe0e3;
+$dn6: #fff0f1;
+
+/////////////////////////// LAYOUT ///////////////////////////
+
+/////////////// colors ///////////////
+
+.shit {
+  body {
+    background: $sb1;
+    & > header > h1 {
+      border-bottom: $box-border solid $sb3;
+    }
+    & > header,
+    & > footer {
+      border-bottom: $box-border solid $sb3;
+      border-top: $box-border solid $sb3;
+    }
+  }
+
+  .about {
+    background-color: $sb2;
+    border: .125em solid $sb3;
+
+    color: $sb6;
+    h2 {
+      border-bottom: $box-border solid $sb4;
+    }
+    hr {
+      background-color: $sb6;
+      color: $sb6;
+    }
+    a {
+      color: $dn6;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $dn5;
+      }
+    }
+  }
+
+  article {
+    border: $thin-border solid $sb4;
+  }
+  article,
+  article > footer,
+  body > header,
+  body > footer {
+    & > footer {
+      border-top: $box-border solid $sb2;
+    }
+    background-color: $sb6;
+    color: $sb1;
+    a {
+      color: $dn2;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $dn1;
+      }
+    }
+    img {
+      border: $box-border solid $dn1;
+    }
+  }
+
+  section.single {
+    border-left: $thin-border solid $sb2;
+    border-right: $thin-border solid $sb2;
+  }
+  section.single,
+  section.list,
+  footer {
+    color: $sb6;
+    a {
+      color: $dn5;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $dn4;
+      }
+    }
+  }
+  section.list {
+    time {
+      color: $sb4;
+    }
+    li + li {
+      border-top: $box-border solid $sb2;
+    }
+  }
+  section.nonsense,
+  p.skiplink {
+    background-color: $dn2;
+    border: $thin-border solid $dn3;
+    color: $dn6;
+    h2 {
+      border-bottom: $box-border solid $dn4;
+    }
+    hr {
+      background-color: $dn1;
+      color: $dn1;
+    }
+    a {
+      color: $sb6;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $sb5;
+      }
+    }
+  }
+  article.nonsense {
+    border: $thin-border solid $dn4;
+  }
+  article.nonsense,
+  article.nonsense > footer {
+    & > footer {
+      border-top: $box-border solid $dn2;
+    }
+    background-color: $dn6;
+    color: $dn1;
+    a {
+      color: $sb2;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $sb1;
+      }
+    }
+    img {
+      border: $box-border solid $sb1;
+    }
+  }
+  hr {
+    background-color: $sb5;
+    color: $sb5;
+  }
+}
+
+.single {
+  body > header > h1 {
+    border: none;
+  }
+}
+
+.nonsense {
+  body {
+    background: $dn1;
+    & > header > h1 {
+      border-bottom: $box-border solid $dn3;
+    }
+    & > header,
+    & > footer {
+      border-bottom: $box-border solid $dn3;
+      border-top: $box-border solid $dn3;
+    }
+  }
+
+  .about {
+    background-color: $dn2;
+    border: .125em solid $dn3;
+
+    color: $dn6;
+    h2 {
+      border-bottom: $box-border solid $dn4;
+    }
+    hr {
+      background-color: $dn6;
+      color: $dn6;
+    }
+    a {
+      color: $sb6;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $sb5;
+      }
+    }
+  }
+
+  article {
+    border: $thin-border solid $dn4;
+  }
+  article,
+  article > footer,
+  body > header,
+  body > footer {
+    & > footer {
+      border-top: $box-border solid $dn2;
+    }
+    background-color: $dn6;
+    color: $dn1;
+    a {
+      color: $sb2;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $sb1;
+      }
+    }
+    img {
+      border: $box-border solid $sb1;
+    }
+  }
+
+  section.single {
+    border-left: $thin-border solid $dn2;
+    border-right: $thin-border solid $dn2;
+  }
+  section.single,
+  section.list,
+  footer {
+    color: $dn6;
+    a {
+      color: $sb5;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $sb4;
+      }
+    }
+  }
+  section.list {
+    time {
+      color: $dn4;
+    }
+    li + li {
+      border-top: $box-border solid $dn2;
+    }
+  }
+  section.shit,
+  p.skiplink {
+    background-color: $sb2;
+    border: $thin-border solid $sb3;
+    color: $sb6;
+    h2 {
+      border-bottom: $box-border solid $sb4;
+    }
+    hr {
+      background-color: $sb1;
+      color: $sb1;
+    }
+    a {
+      color: $dn6;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $dn5;
+      }
+    }
+  }
+  article.shit {
+    border: $thin-border solid $sb4;
+  }
+  article.shit,
+  article.shit > footer {
+    & > footer {
+      border-top: $box-border solid $sb2;
+    }
+    background-color: $sb6;
+    color: $sb1;
+    a {
+      color: $dn2;
+      &:hover,
+      &:active,
+      &:visited {
+        color: $dn1;
+      }
+    }
+    img {
+      border: $box-border solid $dn1;
+    }
+  }
+  hr {
+    background-color: $dn5;
+    color: $dn5;
+  }
+}
+
+.single {
+  body > header > h1 {
+    border: none;
+  }
+}
+
+
+//////////////////////
+
+body {
+  font-size: 16pt;
+}
+
+body {
+  & > header,
+  & > footer {
+    clear: both;
+    text-align: center;
+    padding: 0 1em;
+  }
+}
+
+.primary {
+    float: left;
+    width: 65%;
+}
+
+.secondary {
+    float: right;
+    width: 30%;
+}
+
+.secondary section {
+  margin-top: 1em;
+}
+
+section.about,
+p.skiplink {
+  padding-right: 1em;
+  padding-bottom: .1em;
+  padding-left: 1em;
+  @include border-radius($default-corner, $default-corner);
+}
+section.about {
+  text-align: left;
+  h2 {
+    margin-top: .375em;
+  }
+}
+
+section.index {
+  margin-bottom: 1em;
+}
+
+main {
+  width: 90%;
+
+  margin: 0 auto;
+  text-align: center;
+}
+
+article {
+  @include border-radius($default-corner, $default-corner);
+
+  margin-top: 1em;
+
+  padding-right: 1em;
+  padding-bottom: .25em;
+  padding-left: 1em;
+
+  h2 {
+    margin-top: .375em;
+  }
+}
+
+article,
+section.single,
+section.list {
+  text-align: left;
+}
+
+section.single,
+section.list {
+  width: 60%;
+  margin: inherit;
+  padding: 0 2%;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 225%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+h4 {
+  font-size: 131.25%;
+}
+
+h5,
+h6 {
+  font-size: 112.5%;
+}
+
+h1 + h2 {
+  margin-top: -.5em;
+}
+
+/* http://unstoppablerobotninja.com/entry/fluid-images/ */
+// /* needs width: 100% in IE stylesheet */
+img,
+object,
+iframe {
+  max-width: 100%;
+  @include border-radius($default-corner, $default-corner);
+}
+img {
+  margin: .5em 0 .5em 0;
+  height: auto;
+  @media screen and (max-width: $break2) {
+    float: none;
+  }
+}
+
+hr {
+  height: $thin-border;
+  width: 50%;
+  border: 0;
+}
+
+article hr {
+  height: $thin-border;
+  width: 50%;
+  border: 0;
+}
+
+//////////////////////// media queries ..................///////////////
+@media screen and (min-width: $break1) {
+  .skiplink {
+    position: absolute;
+    left: -999em;
+    /* apparently this second push is for old Opera:
+    /* http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/ */
+    top: -999px;
+  }
+}
+
+@media screen and (max-width: $break1) {
+    body {
+      font-size: 14pt;
+    }
+  .primary,
+  .secondary {
+    float: none;
+    width: 80%;
+    margin: inherit;
+  }
+  section.about {
+    padding: inherit 1em;
+  }
+  section.single,
+  section.list {
+    width: 80%;
+  }
+  h1 {
+    font-size: 225%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 131.25%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 112.5%;
+  }
+}
+
+@media screen and (max-width: $break2) {
+  body {
+    font-size: 12pt;
+  }
+	main {
+    width: auto;
+    margin: 0 2%;
+	}
+  .primary,
+  .secondary {
+    width: auto;
+    margin: 0;
+  }
+  section.single,
+  section.list {
+    width: auto;
+  }
+  .shit section.single,
+  .nonsense section.single {
+    border-left: none;
+    border-right: none;
+  }
+  section.list ul {
+    display: inline;
+  }
+  h1 {
+    font-size: 171.5%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 128.5%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 114.3%;
+  }
+}
