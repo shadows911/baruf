@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html class="shit" lang="en">
+{{ template "global/head.html" . }}
+<body>
+
+<header role="banner">
+	<h1>Santa Barbara Bullshit</h1>
+	<h2 class="slogan">Treating the BS in SB with as much seriousness as it deserves</h2>
+</header>
+
+<main role="main">
+<p class="skiplink"><a href="#content-start" title="skip to
+                                                    content">Skip to
+                                                    primary content</a></p>
+
+<div class="secondary">
+<section class="about">
+	<h2>About <em>SBBS</em></h2>
+
+	<p>Santa Barbara is full of Serious People with Serious Problems. If they aren’t heroically defending the city’s Mediterranean architecture, or battling against City Council’s perpetual War on Cars, they are fretting about the lack of civility shown by today’s youths and marvelling at the impudence of the homeless population’s continued existence.</p>
+
+	<p><em>Santa Barbara Bullshit</em> treats all these concerns with the deadly earnestness they deserve.
+
+	<p>Follow us on <a href="https://twitter.com/sbshit">Twitter</a> and <a href="https://www.facebook.com/SantaBarbaraBullshit">Facebook</a> or subscribe to the <a href="/index.xml">RSS feed</a> for updates.</p>
+</section>
+	</div>
+
+<section id="content-start" class="primary list">
+	<ul>
+		{{ range .Data.Pages }}
+			{{ if eq .Type "shit" }}
+				{{ .Render "li" }}
+		    {{ end }}
+		{{ end }}
+	</ul>
+</section>
+
+</main>
+
+{{ template "global/footer.html" }}
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html class="nonsense" lang="en">
+{{ template "global/head.html" . }}
+<body>
+
+<header role="banner">
+
+<h1>The Daily Nonsense</h1>
+<h2 class="slogan">We're bad, but not as bad as the <em>Nexus</em>.</h2>
+
+</header>
+
+<main role="main">
+<p class="skiplink"><a href="#content-start" title="skip to
+                                                    content">Skip to
+                                                    primary content</a></p>
+
+<div class="secondary">
+<section class="about">
+	<h2>About <em>The Daily Nonsense</em></h2>
+	<p><em>The Daily Nonsense</em> is the only campus publication at UCSB with any moral compass at all. Upon learning of our existence, a group of campus Republicans went back in time and started something called <a href="http://dailynexus.com/" title="WARNING WARNING FAKE SITE">“The Daily Nexus”</a> in an attempt to undermine our credibility. Support the <em>Nonsense</em> and recognize the <em>Nexus</em> for the cabal of hacks they are!</p>
+	<p><em>The Daily Nonsense</em> is a subsidiary of <em><a href="/">Santa Barbara Bullshit</a></em>, but has separate <a href="https://twitter.com/thedailynexus">Twitter</a> and <a href="https://facebook.com/thedailynexus">Facebook</a> accounts, as well as a dedicated <a href="/nonsense/index.xml">RSS feed</a>.</p>
+
+</section>
+	</div>
+
+<section id="content-start" class="primary list">
+	<ul>
+		{{ range .Data.Pages }}
+			{{ if eq .Type "nonsense" }}
+				{{ .Render "li" }}
+		    {{ end }}
+		{{ end }}
+	</ul>
+</section>
+
+</main>
+
+{{ template "global/footer.html" }}
+
+</footer>
+
+</body>
+</html>

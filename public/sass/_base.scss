@@ -1,0 +1,43 @@
+@import "compass";
+
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
+
+/* variables and mixins */
+
+// _normalize.scss
+@import "normalize";
+
+/////// stuff for print and screen
+
+body {
+  font-family: "Merriweather", serif;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+.slogan,
+dt,
+footer {
+  font-style: italic;
+}
+
+.slogan em {
+	font-style: normal;
+}
+
+section.list {
+  ul {
+    list-style-type: none;
+  }
+  h4 {
+    margin-bottom: 0em;
+  }
+  a {
+    font-weight: bold;
+  }
+  time {
+    font-style: italic;
+  }
+}

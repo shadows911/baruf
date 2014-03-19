@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html class="{{ .Type }} single" lang="en">
+{{ template "global/head.html" . }}
+<body>
+
+<header role="banner">
+<h1>{{ .Title }}</h1>
+</header>
+
+<main id="content-start" role="main">
+
+<section class="single">
+{{ .Content }}
+</section>
+
+<hr />
+
+{{ template "global/subfooter.html" . }}
+
+</main>
+
+{{ template "global/footer.html" }}
+
+</body>
+</html>
