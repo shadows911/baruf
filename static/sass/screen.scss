@@ -17,29 +17,53 @@ $break1: 900px;
 $break2: 500px;
 
 ///////// colors /////
-//// need some!!!!
+///////// colors /////
+$adobe: #955c2f;
+$stone: #938d7d;
+$grass: #6e652a;
+$sky: #d6b78b;
+$water: #ddd0c7;
 
+///////// colors + art /////
+///////// colors + art /////
+body {
+  min-height: 1036px;
+  background: $sky url(/img/castle.min.png) no-repeat center bottom scroll;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
+  & > header {
+    color: $adobe;
+  }
+}
+
+section.primary {
+  background-color: $water;
+  background-color: rgba(221, 208, 199, .75);
+}
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
-body > header {
+.page-header {
   float: left;
   width: 50%;
   padding: 0 3em;
   h1 + h2 {
-    line-height: 200%;
+    margin-top: -1em;
   }
 }
 
-body > footer {
+.page-footer {
   clear: both;
   text-align: center;
   padding: 0 1em;
 }
 
 .primary {
-  width: 70%;
+  width: 60%;
   float: left;
 }
 
@@ -105,6 +129,9 @@ section.list {
   padding: 0 2%;
 }
 
+.clear {
+  clear: both;
+}
 
 ///////// text //////
 ///////// text //////
@@ -189,11 +216,11 @@ article hr {
 @media screen and (max-width: $break1) {
   body {
     font-size: 14pt;
-    & > header {
-      clear: both;
-      width: auto;
-      margin: 0;
-    }
+  }
+  .page-header {
+    clear: both;
+    width: auto;
+    margin: 0;
   }
   main {
     clear: both;
