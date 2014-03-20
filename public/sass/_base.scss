@@ -35,3 +35,9 @@ section.list {
     font-style: italic;
   }
 }
+
+a.tag:nth-last-of-type(n+2) {
+  &::after {
+    content: ",";
+  }
+}

@@ -3,9 +3,9 @@ Posted
 {{ if isset .Params "author" }} by {{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}
 	{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>{{ end }}{{ end }}
 	{{ if isset .Params "tags" }}
-	 in {{ range .Params.tags }}
-	 	<a href="/tags/{{ . | urlize }}">{{ . }}</a> 
-	{{end}}
+	 in <span class="tags">{{ range .Params.tags }}
+	 	<a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+	{{end}}</span>
 	{{ end }}
- on <time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time>. <a href="/{{ .Type }}">See more {{ .Type }}</a>.</p>
+ on <time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time>.</p>
 </footer>

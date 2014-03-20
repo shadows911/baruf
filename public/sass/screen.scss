@@ -17,328 +17,35 @@ $break1: 900px;
 $break2: 500px;
 
 ///////// colors /////
-$sb1: #3d6b99;
-$sb2: #477db2;
-$sb3: #528fcc;
-$sb4: #c9dff5;
-$sb5: #e0f0ff;
-$sb6: #f0f7ff;
-
-$dn1: #993d45;
-$dn2: #b24751;
-$dn3: #cc525c;
-$dn4: #f5c9cc;
-$dn5: #ffe0e3;
-$dn6: #fff0f1;
+//// need some!!!!
 
 /////////////////////////// LAYOUT ///////////////////////////
-
-/////////////// colors ///////////////
-
-.shit {
-  body {
-    background: $sb1;
-    & > header > h1 {
-      border-bottom: $box-border solid $sb3;
-    }
-    & > header,
-    & > footer {
-      border-bottom: $box-border solid $sb3;
-      border-top: $box-border solid $sb3;
-    }
-  }
-
-  .about {
-    background-color: $sb2;
-    border: .125em solid $sb3;
-
-    color: $sb6;
-    h2 {
-      border-bottom: $box-border solid $sb4;
-    }
-    hr {
-      background-color: $sb6;
-      color: $sb6;
-    }
-    a {
-      color: $dn6;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $dn5;
-      }
-    }
-  }
-
-  article {
-    border: $thin-border solid $sb4;
-  }
-  article,
-  article > footer,
-  body > header,
-  body > footer {
-    & > footer {
-      border-top: $box-border solid $sb2;
-    }
-    background-color: $sb6;
-    color: $sb1;
-    a {
-      color: $dn2;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $dn1;
-      }
-    }
-    img {
-      border: $box-border solid $dn1;
-    }
-  }
-
-  section.single {
-    border-left: $thin-border solid $sb2;
-    border-right: $thin-border solid $sb2;
-  }
-  section.single,
-  section.list,
-  footer {
-    color: $sb6;
-    a {
-      color: $dn5;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $dn4;
-      }
-    }
-  }
-  section.list {
-    time {
-      color: $sb4;
-    }
-    li + li {
-      border-top: $box-border solid $sb2;
-    }
-  }
-  section.nonsense,
-  p.skiplink {
-    background-color: $dn2;
-    border: $thin-border solid $dn3;
-    color: $dn6;
-    h2 {
-      border-bottom: $box-border solid $dn4;
-    }
-    hr {
-      background-color: $dn1;
-      color: $dn1;
-    }
-    a {
-      color: $sb6;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $sb5;
-      }
-    }
-  }
-  article.nonsense {
-    border: $thin-border solid $dn4;
-  }
-  article.nonsense,
-  article.nonsense > footer {
-    & > footer {
-      border-top: $box-border solid $dn2;
-    }
-    background-color: $dn6;
-    color: $dn1;
-    a {
-      color: $sb2;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $sb1;
-      }
-    }
-    img {
-      border: $box-border solid $sb1;
-    }
-  }
-  hr {
-    background-color: $sb5;
-    color: $sb5;
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+body > header {
+  float: left;
+  width: 50%;
+  padding: 0 3em;
+  h1 + h2 {
+    line-height: 200%;
   }
 }
 
-.single {
-  body > header > h1 {
-    border: none;
-  }
-}
-
-.nonsense {
-  body {
-    background: $dn1;
-    & > header > h1 {
-      border-bottom: $box-border solid $dn3;
-    }
-    & > header,
-    & > footer {
-      border-bottom: $box-border solid $dn3;
-      border-top: $box-border solid $dn3;
-    }
-  }
-
-  .about {
-    background-color: $dn2;
-    border: .125em solid $dn3;
-
-    color: $dn6;
-    h2 {
-      border-bottom: $box-border solid $dn4;
-    }
-    hr {
-      background-color: $dn6;
-      color: $dn6;
-    }
-    a {
-      color: $sb6;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $sb5;
-      }
-    }
-  }
-
-  article {
-    border: $thin-border solid $dn4;
-  }
-  article,
-  article > footer,
-  body > header,
-  body > footer {
-    & > footer {
-      border-top: $box-border solid $dn2;
-    }
-    background-color: $dn6;
-    color: $dn1;
-    a {
-      color: $sb2;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $sb1;
-      }
-    }
-    img {
-      border: $box-border solid $sb1;
-    }
-  }
-
-  section.single {
-    border-left: $thin-border solid $dn2;
-    border-right: $thin-border solid $dn2;
-  }
-  section.single,
-  section.list,
-  footer {
-    color: $dn6;
-    a {
-      color: $sb5;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $sb4;
-      }
-    }
-  }
-  section.list {
-    time {
-      color: $dn4;
-    }
-    li + li {
-      border-top: $box-border solid $dn2;
-    }
-  }
-  section.shit,
-  p.skiplink {
-    background-color: $sb2;
-    border: $thin-border solid $sb3;
-    color: $sb6;
-    h2 {
-      border-bottom: $box-border solid $sb4;
-    }
-    hr {
-      background-color: $sb1;
-      color: $sb1;
-    }
-    a {
-      color: $dn6;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $dn5;
-      }
-    }
-  }
-  article.shit {
-    border: $thin-border solid $sb4;
-  }
-  article.shit,
-  article.shit > footer {
-    & > footer {
-      border-top: $box-border solid $sb2;
-    }
-    background-color: $sb6;
-    color: $sb1;
-    a {
-      color: $dn2;
-      &:hover,
-      &:active,
-      &:visited {
-        color: $dn1;
-      }
-    }
-    img {
-      border: $box-border solid $dn1;
-    }
-  }
-  hr {
-    background-color: $dn5;
-    color: $dn5;
-  }
-}
-
-.single {
-  body > header > h1 {
-    border: none;
-  }
-}
-
-
-//////////////////////
-
-body {
-  font-size: 16pt;
-}
-
-body {
-  & > header,
-  & > footer {
-    clear: both;
-    text-align: center;
-    padding: 0 1em;
-  }
+body > footer {
+  clear: both;
+  text-align: center;
+  padding: 0 1em;
 }
 
 .primary {
-    float: left;
-    width: 65%;
+  width: 70%;
+  float: left;
 }
 
 .secondary {
-    float: right;
-    width: 30%;
+  float: right;
+  width: 30%;
 }
 
 .secondary section {
@@ -355,7 +62,8 @@ p.skiplink {
 section.about {
   text-align: left;
   h2 {
-    margin-top: .375em;
+    margin-top: .75em;
+    line-height: 100%;
   }
 }
 
@@ -397,6 +105,17 @@ section.list {
   padding: 0 2%;
 }
 
+
+///////// text //////
+///////// text //////
+///////// text //////
+///////// text //////
+///////// text //////
+
+body {
+  font-size: 16pt;
+}
+
 h1 {
   font-size: 300%;
 }
@@ -422,6 +141,10 @@ h1 + h2 {
   margin-top: -.5em;
 }
 
+
+/////// VISUAL CHAFF
+/////// VISUAL CHAFF
+/////// VISUAL CHAFF
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
 // /* needs width: 100% in IE stylesheet */
 img,
@@ -451,6 +174,8 @@ article hr {
 }
 
 //////////////////////// media queries ..................///////////////
+//////////////////////// media queries ..................///////////////
+//////////////////////// media queries ..................///////////////
 @media screen and (min-width: $break1) {
   .skiplink {
     position: absolute;
@@ -462,9 +187,17 @@ article hr {
 }
 
 @media screen and (max-width: $break1) {
-    body {
-      font-size: 14pt;
+  body {
+    font-size: 14pt;
+    & > header {
+      clear: both;
+      width: auto;
+      margin: 0;
     }
+  }
+  main {
+    clear: both;
+  }
   .primary,
   .secondary {
     float: none;

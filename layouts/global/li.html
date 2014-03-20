@@ -5,7 +5,7 @@
 		{{ if isset .Params "tags" }}
 		<p class="tags">Tagged:
 		{{ range .Params.tags }}
-		 	<a href="/tags/{{ . | urlize }}">{{ . }}</a> 
+		 	<a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
 		{{end}}
 		</p>
 		{{ end }}

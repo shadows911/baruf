@@ -241,3 +241,8 @@ section.list ul {
 section.list time {
   font-style: italic;
 }
+
+/* line 40, ../sass/_base.scss */
+a.tag:nth-last-of-type(n+2)::after {
+  content: ",";
+}
