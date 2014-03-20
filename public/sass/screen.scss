@@ -20,7 +20,7 @@ $break2: 500px;
 ///////// colors /////
 $adobe: #955c2f;
 $stone: #938d7d;
-$grass: #6e652a;
+$grass: #506e2a;
 $sky: #d6b78b;
 $water: #ddd0c7;
 
@@ -42,6 +42,24 @@ body {
 section.primary {
   background-color: $water;
   background-color: rgba(221, 208, 199, .75);
+}
+
+div.secondary {
+  background-color: $grass;
+  width: 15.95em;
+/* http://css-tricks.com/snippets/css/ribbon/ */
+  &:after {
+    display: block;
+    position: absolute;
+    z-index: -1;
+    bottom: -2em;
+
+    content: "";
+    border: 8em solid $grass;
+  }
+  &:after {
+    border-color: $grass $grass transparent $grass;
+  }
 }
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
