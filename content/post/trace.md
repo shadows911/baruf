@@ -16,6 +16,8 @@ Much is made in *Harry Potter* about "the Trace", the charm on
 underage witches and wizards that is used by the Ministry to detect
 illegal spellwork.  The problem is that there is no such thing.
 
+<!--more-->
+
 ## What is "the Trace" supposed to be?
 
 > "Second problem: you're under-age, which means you've still got the

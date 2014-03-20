@@ -12,9 +12,16 @@
 <h1>{{ .Title }}</h1>
 </header>
 
-<main id="content-start" role="main">
+<main role="main">
+<p class="skiplink"><a href="#content-start" title="skip to
+                                                    content">Skip to
+                                                    primary content</a></p>
 
-<section class="single">
+<div class="secondary">
+{{ template "global/who.html" }}
+</div>
+
+<section id="content-start" class="single">
 {{ .Content }}
 </section>
 
