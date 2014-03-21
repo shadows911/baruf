@@ -5,7 +5,7 @@
 	"date": "2013-03-14",
 	"tags": [
 		"wands",
-		"research"
+		"alex-dunn"
 		],
 	"description": "To figure out whose wand is whose and what really happened, let's catalog every instance of disarming ever!"
 }

@@ -4,9 +4,9 @@
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-11-21",
 	"tags": [
-		"unplottability",
 		"hogwarts",
 		"map",
+		"alex-dunn"
 		],
 	"description": "Unplottability is a scam that doesn't really work."
 }

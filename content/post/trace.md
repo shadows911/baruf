@@ -2,12 +2,11 @@
 	"title": "There's No Such Thing as the Trace",
 	"author": "Alex Dunn",
 	"authorlink": "https://twitter.com/dunndunndunn",
-	"date": "2013-05-14",
+	"date": "2013-05-15",
 	"tags": [
-		"trace",
 		"harry",
 		"figg",
-		"ministry"
+		"alex-dunn"
 		],
 	"description": "Much has been made about \"the Trace\", the charm on underage witches and wizards that is used by the Ministry to detect illegal spellwork.  The problem is that there is no such thing."
 }

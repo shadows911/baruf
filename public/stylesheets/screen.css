@@ -268,99 +268,93 @@ section.single {
   background-color: #d1dde1 transparent;
   background-color: rgba(209, 221, 225, 0.75);
 }
+/* line 48, ../sass/screen.scss */
+section.primary a,
+section.single a {
+  color: #395059;
+  text-decoration: none;
+  text-shadow: #cabba8 1px 1px 0;
+}
 
-/* line 49, ../sass/screen.scss */
+/* line 55, ../sass/screen.scss */
 div.secondary {
   background-color: #506e2a;
   width: 15.95em;
   /* http://css-tricks.com/snippets/css/ribbon/ */
   color: #cabba8;
 }
-/* line 53, ../sass/screen.scss */
+/* line 59, ../sass/screen.scss */
 div.secondary:after {
   position: relative;
   bottom: -8em;
   content: "";
   border: 8em solid;
 }
-/* line 61, ../sass/screen.scss */
+/* line 67, ../sass/screen.scss */
 div.secondary:after {
   border-color: #506e2a #506e2a transparent #506e2a;
 }
-/* line 66, ../sass/screen.scss */
+/* line 72, ../sass/screen.scss */
 div.secondary a {
   color: #d1dde1;
 }
-/* line 70, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 div.secondary a:hover, div.secondary a:active, div.secondary a:visited {
   color: #d1dde1;
 }
 
-/* line 76, ../sass/screen.scss */
+/* line 82, ../sass/screen.scss */
 .page-footer {
-  background-color: #cabba8 transparent;
-  background-color: rgba(202, 187, 168, 0.75);
+  background-color: #95422f;
+  background-color: rgba(149, 66, 47, 0.9);
+  color: #d1dde1;
+}
+/* line 87, ../sass/screen.scss */
+.page-footer a {
+  color: #cabba8;
+}
+/* line 91, ../sass/screen.scss */
+.page-footer a:hover, .page-footer a:active, .page-footer a:visited {
+  color: #cabba8;
 }
 
-/* line 84, ../sass/screen.scss */
+/* line 102, ../sass/screen.scss */
 .page-header {
   float: left;
   width: 50%;
   padding: 0 3em;
 }
-/* line 88, ../sass/screen.scss */
-.page-header h1 + h2 {
+
+/* line 107, ../sass/screen.scss */
+.slogan {
   margin-top: -1em;
 }
 
-/* line 93, ../sass/screen.scss */
+/* line 111, ../sass/screen.scss */
 .primary {
   width: 60%;
   float: left;
 }
 
-/* line 97, ../sass/screen.scss */
-.page-footer {
-  width: 100%;
-  float: left;
-  margin: 1em auto;
-  padding-bottom: 1em;
-}
-/* line 104, ../sass/screen.scss */
-.page-footer .left-foot {
+/* line 116, ../sass/screen.scss */
+main {
+  width: 90%;
+  margin: 0 auto;
   text-align: center;
-  float: left;
-  width: 65%;
-}
-/* line 109, ../sass/screen.scss */
-.page-footer p {
-  margin-bottom: 0;
-}
-/* line 113, ../sass/screen.scss */
-.page-footer ul,
-.page-footer li {
-  /* http://www.alistapart.com/articles/taminglists/ */
-  display: inline;
-  margin: 0;
-  padding-left: 0;
-}
-/* line 120, ../sass/screen.scss */
-.page-footer li:nth-last-of-type(n+2)::after {
-  content: " |";
 }
 
-/* line 126, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 .secondary {
   float: right;
   width: 30%;
 }
 
-/* line 131, ../sass/screen.scss */
+/* line 128, ../sass/screen.scss */
 .secondary section {
   margin-top: 1em;
 }
 
-/* line 136, ../sass/screen.scss */
+/* line 133, ../sass/screen.scss */
 section.about,
 p.skiplink {
   padding-right: 1em;
@@ -371,29 +365,22 @@ p.skiplink {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 142, ../sass/screen.scss */
+/* line 139, ../sass/screen.scss */
 section.about {
   text-align: left;
 }
-/* line 144, ../sass/screen.scss */
+/* line 141, ../sass/screen.scss */
 section.about h2 {
   margin-top: .75em;
   line-height: 100%;
 }
 
-/* line 150, ../sass/screen.scss */
+/* line 147, ../sass/screen.scss */
 section.index {
   margin-bottom: 1em;
 }
 
-/* line 154, ../sass/screen.scss */
-main {
-  width: 90%;
-  margin: 0 auto;
-  text-align: center;
-}
-
-/* line 161, ../sass/screen.scss */
+/* line 151, ../sass/screen.scss */
 article {
   -webkit-border-radius: 0.25em 0.25em;
   -moz-border-radius: 0.25em / 0.25em;
@@ -403,74 +390,117 @@ article {
   padding-bottom: .25em;
   padding-left: 1em;
 }
-/* line 170, ../sass/screen.scss */
+/* line 160, ../sass/screen.scss */
 article h2 {
   margin-top: .375em;
 }
 
-/* line 175, ../sass/screen.scss */
-.single h1 {
+/* line 166, ../sass/screen.scss */
+.single h1,
+.primary h2 {
   line-height: 100%;
 }
 
-/* line 181, ../sass/screen.scss */
+/* line 172, ../sass/screen.scss */
 article,
 section.single,
 section.list {
   text-align: left;
 }
 
-/* line 186, ../sass/screen.scss */
+/* line 177, ../sass/screen.scss */
 section.single,
 section.list {
   width: 60%;
   margin: inherit;
   padding: 0 2%;
+  margin-bottom: 1em;
 }
 
-/* line 192, ../sass/screen.scss */
+/* line 187, ../sass/screen.scss */
+h2.author,
+h2.author a,
+h3.pubdate {
+  color: #395059;
+}
+
+/* line 191, ../sass/screen.scss */
+h2.author {
+  float: left;
+  margin-top: -.125em;
+}
+
+/* line 196, ../sass/screen.scss */
+h3.pubdate {
+  float: right;
+  margin-top: .25em;
+}
+
+/* line 201, ../sass/screen.scss */
 .clear {
   clear: both;
 }
 
-/* line 202, ../sass/screen.scss */
+/* line 205, ../sass/screen.scss */
+.page-footer {
+  clear: both;
+  text-align: left;
+  margin: 1em auto;
+  padding-bottom: 1em;
+  padding-top: .75em;
+  padding-left: 6%;
+}
+/* line 216, ../sass/screen.scss */
+.page-footer p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+/* line 221, ../sass/screen.scss */
+.page-footer ul,
+.page-footer li {
+  /* http://www.alistapart.com/articles/taminglists/ */
+  display: inline;
+  margin: 0;
+  padding-left: 0;
+}
+/* line 228, ../sass/screen.scss */
+.page-footer li:nth-last-of-type(n+2)::after {
+  content: " |";
+}
+
+/* line 240, ../sass/screen.scss */
 body {
   font-size: 16pt;
 }
 
-/* line 206, ../sass/screen.scss */
+/* line 244, ../sass/screen.scss */
 h1 {
   font-size: 300%;
 }
 
-/* line 210, ../sass/screen.scss */
+/* line 248, ../sass/screen.scss */
 h2 {
   font-size: 225%;
 }
 
-/* line 214, ../sass/screen.scss */
+/* line 252, ../sass/screen.scss */
 h3 {
   font-size: 150%;
 }
 
-/* line 218, ../sass/screen.scss */
+/* line 256, ../sass/screen.scss */
 h4 {
   font-size: 131.25%;
 }
 
-/* line 223, ../sass/screen.scss */
+/* line 261, ../sass/screen.scss */
 h5,
 h6 {
   font-size: 112.5%;
 }
 
-/* line 227, ../sass/screen.scss */
-h1 + h2 {
-  margin-top: -.5em;
-}
-
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 239, ../sass/screen.scss */
+/* line 273, ../sass/screen.scss */
 img,
 object,
 iframe {
@@ -480,26 +510,26 @@ iframe {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 243, ../sass/screen.scss */
+/* line 277, ../sass/screen.scss */
 img {
   margin: .5em 0 .5em 0;
   height: auto;
 }
 @media screen and (max-width: 500px) {
-  /* line 243, ../sass/screen.scss */
+  /* line 277, ../sass/screen.scss */
   img {
     float: none;
   }
 }
 
-/* line 251, ../sass/screen.scss */
+/* line 285, ../sass/screen.scss */
 hr {
   height: 0.125em;
   width: 50%;
   border: 0;
 }
 
-/* line 257, ../sass/screen.scss */
+/* line 291, ../sass/screen.scss */
 article hr {
   height: 0.125em;
   width: 50%;
@@ -507,7 +537,7 @@ article hr {
 }
 
 @media screen and (min-width: 900px) {
-  /* line 267, ../sass/screen.scss */
+  /* line 301, ../sass/screen.scss */
   .skiplink {
     position: absolute;
     left: -999em;
@@ -517,24 +547,24 @@ article hr {
   }
 }
 @media screen and (max-width: 900px) {
-  /* line 277, ../sass/screen.scss */
+  /* line 311, ../sass/screen.scss */
   body {
     font-size: 14pt;
   }
 
-  /* line 280, ../sass/screen.scss */
+  /* line 314, ../sass/screen.scss */
   .page-header {
     clear: both;
     width: auto;
     margin: 0;
   }
 
-  /* line 285, ../sass/screen.scss */
+  /* line 319, ../sass/screen.scss */
   main {
     clear: both;
   }
 
-  /* line 289, ../sass/screen.scss */
+  /* line 323, ../sass/screen.scss */
   .primary,
   .secondary {
     float: none;
@@ -542,33 +572,33 @@ article hr {
     margin: inherit;
   }
 
-  /* line 294, ../sass/screen.scss */
+  /* line 328, ../sass/screen.scss */
   section.about {
     padding: inherit 1em;
   }
 
-  /* line 298, ../sass/screen.scss */
+  /* line 332, ../sass/screen.scss */
   section.single,
   section.list {
     width: 80%;
   }
 
-  /* line 301, ../sass/screen.scss */
+  /* line 335, ../sass/screen.scss */
   h1 {
     font-size: 225%;
   }
 
-  /* line 305, ../sass/screen.scss */
+  /* line 339, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 309, ../sass/screen.scss */
+  /* line 343, ../sass/screen.scss */
   h3 {
     font-size: 131.25%;
   }
 
-  /* line 315, ../sass/screen.scss */
+  /* line 349, ../sass/screen.scss */
   h4,
   h5,
   h6 {
@@ -576,58 +606,58 @@ article hr {
   }
 }
 @media screen and (max-width: 500px) {
-  /* line 321, ../sass/screen.scss */
+  /* line 355, ../sass/screen.scss */
   body {
     font-size: 12pt;
   }
 
-  /* line 324, ../sass/screen.scss */
+  /* line 358, ../sass/screen.scss */
   main {
     width: auto;
     margin: 0 2%;
   }
 
-  /* line 329, ../sass/screen.scss */
+  /* line 363, ../sass/screen.scss */
   .primary,
   .secondary {
     width: auto;
     margin: 0;
   }
 
-  /* line 334, ../sass/screen.scss */
+  /* line 368, ../sass/screen.scss */
   section.single,
   section.list {
     width: auto;
   }
 
-  /* line 338, ../sass/screen.scss */
+  /* line 372, ../sass/screen.scss */
   .shit section.single,
   .nonsense section.single {
     border-left: none;
     border-right: none;
   }
 
-  /* line 342, ../sass/screen.scss */
+  /* line 376, ../sass/screen.scss */
   section.list ul {
     display: inline;
   }
 
-  /* line 345, ../sass/screen.scss */
+  /* line 379, ../sass/screen.scss */
   h1 {
     font-size: 171.5%;
   }
 
-  /* line 349, ../sass/screen.scss */
+  /* line 383, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 353, ../sass/screen.scss */
+  /* line 387, ../sass/screen.scss */
   h3 {
     font-size: 128.5%;
   }
 
-  /* line 359, ../sass/screen.scss */
+  /* line 393, ../sass/screen.scss */
   h4,
   h5,
   h6 {

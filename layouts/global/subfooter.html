@@ -1,7 +1,7 @@
 <footer><p>
-Posted
-{{ if isset .Params "author" }} by {{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}
-	{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>{{ end }}{{ end }}
+{{ if isset .Params "author" }} By {{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}
+	{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>.{{ end }}{{ end }}
+	 Posted
 	{{ if isset .Params "tags" }}
 	 in <span class="tags">{{ range .Params.tags }}
 	 	<a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>

@@ -7,7 +7,8 @@
 		"ronbledore",
 		"luna",
 		"ron",
-		"dumbledore"
+		"dumbledore",
+		"alex-dunn"
 		],
 	"description": "The truth of the Ronbledore Theory has by now been pretty well established, but I would like to shore up its foundations with some new evidence, evidence that will help explain why Ronbledore went back in time, as well as—roughly—when."
 }

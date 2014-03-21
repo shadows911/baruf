@@ -19,7 +19,7 @@ $break2: 500px;
 ///////// colors /////
 ///////// colors /////
 $adobe: #95422f;
-$stone: #938d7d;
+$stone: #395059;
 $grass: #506e2a;
 $sky: #cabba8;
 $water: #d1dde1;
@@ -44,6 +44,12 @@ section.primary,
 section.single {
   background-color: $water transparent;
   background-color: rgba(209, 221, 225, .75);
+
+  a {
+    color: $stone;
+    text-decoration: none;
+    @include text-shadow($sky 1px 1px 0);
+  }
 }
 
 div.secondary {
@@ -74,53 +80,44 @@ div.secondary {
 }
 
 .page-footer {
-  background-color: $sky transparent;
-  background-color: rgba(202, 187, 168, .75);
+  background-color: $adobe;
+  background-color: rgba(149, 66, 47, .90);
+
+  color: $water;
+  a {
+    color: $sky;
+    &:hover,
+    &:active,
+    &:visited {
+      color: $sky;
+    }
+  }
+
 }
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
+
 .page-header {
   float: left;
   width: 50%;
   padding: 0 3em;
-  h1 + h2 {
-    margin-top: -1em;
-  }
+}
+.slogan {
+	margin-top: -1em;
 }
 
 .primary {
   width: 60%;
   float: left;
 }
-.page-footer {
-  width: 100%;
-  float: left;
 
-  margin: 1em auto;
-  padding-bottom: 1em;
+main {
+  width: 90%;
 
-  .left-foot {
-	  text-align: center;
-	  float: left;
-	  width: 65%;
-  }
-  p {
-    margin-bottom: 0;
-  }
-  ul,
-  li {
-  /* http://www.alistapart.com/articles/taminglists/ */
-    display: inline;
-    margin: 0;
-    padding-left: 0;
-  }
-  li:nth-last-of-type(n+2) {
-    &::after {
-      content: " |";
-    }
-  }
+  margin: 0 auto;
+  text-align: center;
 }
 
 .secondary {
@@ -151,13 +148,6 @@ section.index {
   margin-bottom: 1em;
 }
 
-main {
-  width: 90%;
-
-  margin: 0 auto;
-  text-align: center;
-}
-
 article {
   @include border-radius($default-corner, $default-corner);
 
@@ -172,7 +162,8 @@ article {
   }
 }
 
-.single h1 {
+.single h1,
+.primary h2 {
   line-height: 100%;
 }
 
@@ -187,10 +178,57 @@ section.list {
   width: 60%;
   margin: inherit;
   padding: 0 2%;
+
+  margin-bottom: 1em;
+}
+
+h2.author,
+h2.author a,
+h3.pubdate {
+  color: $stone;
+}
+
+h2.author {
+  float: left;
+  margin-top: -.125em;
+}
+
+h3.pubdate {
+  float: right;
+  margin-top: .25em;
 }
 
 .clear {
   clear: both;
+}
+
+.page-footer {
+//  width: 100%;
+//  float: left;
+  clear: both;
+  text-align: left;
+
+  margin: 1em auto;
+  padding-bottom: 1em;
+  padding-top: .75em;
+  padding-left: 6%;
+
+  p {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  ul,
+  li {
+  /* http://www.alistapart.com/articles/taminglists/ */
+    display: inline;
+    margin: 0;
+    padding-left: 0;
+  }
+  li:nth-last-of-type(n+2) {
+    &::after {
+      content: " |";
+    }
+  }
 }
 
 ///////// text //////
@@ -222,10 +260,6 @@ h4 {
 h5,
 h6 {
   font-size: 112.5%;
-}
-
-h1 + h2 {
-  margin-top: -.5em;
 }
 
 
