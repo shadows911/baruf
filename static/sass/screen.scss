@@ -36,12 +36,13 @@ body {
 
   & > header {
     color: $adobe;
+    @include text-shadow($water 1px 2px 0);
   }
 }
 
 section.primary,
 section.single {
-  background-color: $water;
+  background-color: $water transparent;
   background-color: rgba(209, 221, 225, .75);
 }
 
@@ -50,10 +51,9 @@ div.secondary {
   width: 15.95em;
 /* http://css-tricks.com/snippets/css/ribbon/ */
   &:after {
-    display: block;
-    position: absolute;
-    z-index: -1;
-    bottom: -2em;
+    position: relative;
+//    z-index: -1;
+    bottom: -8em;
 
     content: "";
     border: 8em solid;
@@ -68,9 +68,14 @@ div.secondary {
     &:hover,
     &:active,
     &:visited {
-      color: $sky;
+      color: $water;
     }
   }
+}
+
+.page-footer {
+  background-color: $sky transparent;
+  background-color: rgba(202, 187, 168, .75);
 }
 /////////////////////////// LAYOUT ///////////////////////////
 /////////////////////////// LAYOUT ///////////////////////////
@@ -85,15 +90,37 @@ div.secondary {
   }
 }
 
-.page-footer {
-  clear: both;
-  text-align: center;
-  padding: 0 1em;
-}
-
 .primary {
   width: 60%;
   float: left;
+}
+.page-footer {
+  width: 100%;
+  float: left;
+
+  margin: 1em auto;
+  padding-bottom: 1em;
+
+  .left-foot {
+	  text-align: center;
+	  float: left;
+	  width: 65%;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  ul,
+  li {
+  /* http://www.alistapart.com/articles/taminglists/ */
+    display: inline;
+    margin: 0;
+    padding-left: 0;
+  }
+  li:nth-last-of-type(n+2) {
+    &::after {
+      content: " |";
+    }
+  }
 }
 
 .secondary {
@@ -143,6 +170,10 @@ article {
   h2 {
     margin-top: .375em;
   }
+}
+
+.single h1 {
+  line-height: 100%;
 }
 
 article,

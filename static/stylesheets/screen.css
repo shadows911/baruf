@@ -259,28 +259,27 @@ body {
 /* line 37, ../sass/screen.scss */
 body > header {
   color: #95422f;
+  text-shadow: #d1dde1 1px 2px 0;
 }
 
-/* line 43, ../sass/screen.scss */
+/* line 44, ../sass/screen.scss */
 section.primary,
 section.single {
-  background-color: #d1dde1;
+  background-color: #d1dde1 transparent;
   background-color: rgba(209, 221, 225, 0.75);
 }
 
-/* line 48, ../sass/screen.scss */
+/* line 49, ../sass/screen.scss */
 div.secondary {
   background-color: #506e2a;
   width: 15.95em;
   /* http://css-tricks.com/snippets/css/ribbon/ */
   color: #cabba8;
 }
-/* line 52, ../sass/screen.scss */
+/* line 53, ../sass/screen.scss */
 div.secondary:after {
-  display: block;
-  position: absolute;
-  z-index: -1;
-  bottom: -2em;
+  position: relative;
+  bottom: -8em;
   content: "";
   border: 8em solid;
 }
@@ -294,45 +293,74 @@ div.secondary a {
 }
 /* line 70, ../sass/screen.scss */
 div.secondary a:hover, div.secondary a:active, div.secondary a:visited {
-  color: #cabba8;
+  color: #d1dde1;
 }
 
-/* line 79, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
+.page-footer {
+  background-color: #cabba8 transparent;
+  background-color: rgba(202, 187, 168, 0.75);
+}
+
+/* line 84, ../sass/screen.scss */
 .page-header {
   float: left;
   width: 50%;
   padding: 0 3em;
 }
-/* line 83, ../sass/screen.scss */
+/* line 88, ../sass/screen.scss */
 .page-header h1 + h2 {
   margin-top: -1em;
 }
 
-/* line 88, ../sass/screen.scss */
-.page-footer {
-  clear: both;
-  text-align: center;
-  padding: 0 1em;
-}
-
-/* line 94, ../sass/screen.scss */
+/* line 93, ../sass/screen.scss */
 .primary {
   width: 60%;
   float: left;
 }
 
-/* line 99, ../sass/screen.scss */
+/* line 97, ../sass/screen.scss */
+.page-footer {
+  width: 100%;
+  float: left;
+  margin: 1em auto;
+  padding-bottom: 1em;
+}
+/* line 104, ../sass/screen.scss */
+.page-footer .left-foot {
+  text-align: center;
+  float: left;
+  width: 65%;
+}
+/* line 109, ../sass/screen.scss */
+.page-footer p {
+  margin-bottom: 0;
+}
+/* line 113, ../sass/screen.scss */
+.page-footer ul,
+.page-footer li {
+  /* http://www.alistapart.com/articles/taminglists/ */
+  display: inline;
+  margin: 0;
+  padding-left: 0;
+}
+/* line 120, ../sass/screen.scss */
+.page-footer li:nth-last-of-type(n+2)::after {
+  content: " |";
+}
+
+/* line 126, ../sass/screen.scss */
 .secondary {
   float: right;
   width: 30%;
 }
 
-/* line 104, ../sass/screen.scss */
+/* line 131, ../sass/screen.scss */
 .secondary section {
   margin-top: 1em;
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 136, ../sass/screen.scss */
 section.about,
 p.skiplink {
   padding-right: 1em;
@@ -343,29 +371,29 @@ p.skiplink {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 115, ../sass/screen.scss */
+/* line 142, ../sass/screen.scss */
 section.about {
   text-align: left;
 }
-/* line 117, ../sass/screen.scss */
+/* line 144, ../sass/screen.scss */
 section.about h2 {
   margin-top: .75em;
   line-height: 100%;
 }
 
-/* line 123, ../sass/screen.scss */
+/* line 150, ../sass/screen.scss */
 section.index {
   margin-bottom: 1em;
 }
 
-/* line 127, ../sass/screen.scss */
+/* line 154, ../sass/screen.scss */
 main {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 134, ../sass/screen.scss */
+/* line 161, ../sass/screen.scss */
 article {
   -webkit-border-radius: 0.25em 0.25em;
   -moz-border-radius: 0.25em / 0.25em;
@@ -375,19 +403,24 @@ article {
   padding-bottom: .25em;
   padding-left: 1em;
 }
-/* line 143, ../sass/screen.scss */
+/* line 170, ../sass/screen.scss */
 article h2 {
   margin-top: .375em;
 }
 
-/* line 150, ../sass/screen.scss */
+/* line 175, ../sass/screen.scss */
+.single h1 {
+  line-height: 100%;
+}
+
+/* line 181, ../sass/screen.scss */
 article,
 section.single,
 section.list {
   text-align: left;
 }
 
-/* line 155, ../sass/screen.scss */
+/* line 186, ../sass/screen.scss */
 section.single,
 section.list {
   width: 60%;
@@ -395,49 +428,49 @@ section.list {
   padding: 0 2%;
 }
 
-/* line 161, ../sass/screen.scss */
+/* line 192, ../sass/screen.scss */
 .clear {
   clear: both;
 }
 
-/* line 171, ../sass/screen.scss */
+/* line 202, ../sass/screen.scss */
 body {
   font-size: 16pt;
 }
 
-/* line 175, ../sass/screen.scss */
+/* line 206, ../sass/screen.scss */
 h1 {
   font-size: 300%;
 }
 
-/* line 179, ../sass/screen.scss */
+/* line 210, ../sass/screen.scss */
 h2 {
   font-size: 225%;
 }
 
-/* line 183, ../sass/screen.scss */
+/* line 214, ../sass/screen.scss */
 h3 {
   font-size: 150%;
 }
 
-/* line 187, ../sass/screen.scss */
+/* line 218, ../sass/screen.scss */
 h4 {
   font-size: 131.25%;
 }
 
-/* line 192, ../sass/screen.scss */
+/* line 223, ../sass/screen.scss */
 h5,
 h6 {
   font-size: 112.5%;
 }
 
-/* line 196, ../sass/screen.scss */
+/* line 227, ../sass/screen.scss */
 h1 + h2 {
   margin-top: -.5em;
 }
 
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 208, ../sass/screen.scss */
+/* line 239, ../sass/screen.scss */
 img,
 object,
 iframe {
@@ -447,26 +480,26 @@ iframe {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 212, ../sass/screen.scss */
+/* line 243, ../sass/screen.scss */
 img {
   margin: .5em 0 .5em 0;
   height: auto;
 }
 @media screen and (max-width: 500px) {
-  /* line 212, ../sass/screen.scss */
+  /* line 243, ../sass/screen.scss */
   img {
     float: none;
   }
 }
 
-/* line 220, ../sass/screen.scss */
+/* line 251, ../sass/screen.scss */
 hr {
   height: 0.125em;
   width: 50%;
   border: 0;
 }
 
-/* line 226, ../sass/screen.scss */
+/* line 257, ../sass/screen.scss */
 article hr {
   height: 0.125em;
   width: 50%;
@@ -474,7 +507,7 @@ article hr {
 }
 
 @media screen and (min-width: 900px) {
-  /* line 236, ../sass/screen.scss */
+  /* line 267, ../sass/screen.scss */
   .skiplink {
     position: absolute;
     left: -999em;
@@ -484,24 +517,24 @@ article hr {
   }
 }
 @media screen and (max-width: 900px) {
-  /* line 246, ../sass/screen.scss */
+  /* line 277, ../sass/screen.scss */
   body {
     font-size: 14pt;
   }
 
-  /* line 249, ../sass/screen.scss */
+  /* line 280, ../sass/screen.scss */
   .page-header {
     clear: both;
     width: auto;
     margin: 0;
   }
 
-  /* line 254, ../sass/screen.scss */
+  /* line 285, ../sass/screen.scss */
   main {
     clear: both;
   }
 
-  /* line 258, ../sass/screen.scss */
+  /* line 289, ../sass/screen.scss */
   .primary,
   .secondary {
     float: none;
@@ -509,33 +542,33 @@ article hr {
     margin: inherit;
   }
 
-  /* line 263, ../sass/screen.scss */
+  /* line 294, ../sass/screen.scss */
   section.about {
     padding: inherit 1em;
   }
 
-  /* line 267, ../sass/screen.scss */
+  /* line 298, ../sass/screen.scss */
   section.single,
   section.list {
     width: 80%;
   }
 
-  /* line 270, ../sass/screen.scss */
+  /* line 301, ../sass/screen.scss */
   h1 {
     font-size: 225%;
   }
 
-  /* line 274, ../sass/screen.scss */
+  /* line 305, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 278, ../sass/screen.scss */
+  /* line 309, ../sass/screen.scss */
   h3 {
     font-size: 131.25%;
   }
 
-  /* line 284, ../sass/screen.scss */
+  /* line 315, ../sass/screen.scss */
   h4,
   h5,
   h6 {
@@ -543,58 +576,58 @@ article hr {
   }
 }
 @media screen and (max-width: 500px) {
-  /* line 290, ../sass/screen.scss */
+  /* line 321, ../sass/screen.scss */
   body {
     font-size: 12pt;
   }
 
-  /* line 293, ../sass/screen.scss */
+  /* line 324, ../sass/screen.scss */
   main {
     width: auto;
     margin: 0 2%;
   }
 
-  /* line 298, ../sass/screen.scss */
+  /* line 329, ../sass/screen.scss */
   .primary,
   .secondary {
     width: auto;
     margin: 0;
   }
 
-  /* line 303, ../sass/screen.scss */
+  /* line 334, ../sass/screen.scss */
   section.single,
   section.list {
     width: auto;
   }
 
-  /* line 307, ../sass/screen.scss */
+  /* line 338, ../sass/screen.scss */
   .shit section.single,
   .nonsense section.single {
     border-left: none;
     border-right: none;
   }
 
-  /* line 311, ../sass/screen.scss */
+  /* line 342, ../sass/screen.scss */
   section.list ul {
     display: inline;
   }
 
-  /* line 314, ../sass/screen.scss */
+  /* line 345, ../sass/screen.scss */
   h1 {
     font-size: 171.5%;
   }
 
-  /* line 318, ../sass/screen.scss */
+  /* line 349, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 322, ../sass/screen.scss */
+  /* line 353, ../sass/screen.scss */
   h3 {
     font-size: 128.5%;
   }
 
-  /* line 328, ../sass/screen.scss */
+  /* line 359, ../sass/screen.scss */
   h4,
   h5,
   h6 {
