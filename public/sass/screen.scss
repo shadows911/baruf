@@ -1,4 +1,4 @@
-
+@charset "UTF-8";
 @import "base";
 
 // ==============
@@ -13,8 +13,9 @@ $box-border: .2em;
 $thin-border: .125em;
 $default-corner: .25em;
 
-$break1: 900px;
-$break2: 500px;
+$break1: 1150px;
+$break2: 980px;
+$break3: 500px;
 
 ///////// colors /////
 ///////// colors /////
@@ -47,6 +48,8 @@ section.single {
 
   a {
     color: $stone;
+  }
+  h2 a {
     @include text-shadow($sky 1px 1px 0);
   }
 }
@@ -60,7 +63,6 @@ div.secondary {
 /* http://css-tricks.com/snippets/css/ribbon/ */
   &:after {
     position: relative;
-//    z-index: -1;
     bottom: -8em;
 
     content: "";
@@ -104,7 +106,7 @@ div.secondary {
 .page-header {
   float: left;
   width: 50%;
-  padding: 0 3em;
+  padding: 0 1em 0 3em;
 }
 .slogan {
 	margin-top: -1em;
@@ -113,6 +115,8 @@ div.secondary {
 .primary {
   width: 60%;
   float: left;
+  margin-bottom: 1em;
+  padding: .1em 1em;
 }
 
 main {
@@ -122,32 +126,52 @@ main {
   text-align: center;
 }
 
-.secondary {
-  float: right;
-  width: 30%;
+section {
+	text-align: left;
 }
-
 .secondary section {
   margin-top: 1em;
 }
-
-section.about,
-p.skiplink {
+section.about {
   padding-right: 1em;
   padding-bottom: .1em;
   padding-left: 1em;
   @include border-radius($default-corner, $default-corner);
-}
-section.about {
-  text-align: left;
   h2 {
     margin-top: .75em;
     line-height: 100%;
   }
 }
-
 section.index {
   margin-bottom: 1em;
+}
+section.single {
+  padding: .1em 1em;
+}
+section.single,
+section.primary {
+  @include border-radius($default-corner, $default-corner);
+}
+
+div.secondary {
+  float: right;
+  margin-left: 1em;
+}
+
+p.skiplink {
+  background-color: $stone;
+  padding: .125em;
+  a {
+    color: $sky;
+  }
+  font-style: italic;
+  color: $sky;
+  &:before {
+    content: "↯ "
+  }
+  &:after {
+    content: " ↯"
+  }
 }
 
 article {
@@ -169,39 +193,20 @@ article {
   line-height: 100%;
 }
 
-article,
-section.single,
-section.list {
-  text-align: left;
-}
-
-section.single,
-section.list {
-  width: 60%;
-  margin: inherit;
-  padding: 0 2%;
-
-  margin-bottom: 1em;
-}
-
-section.single,
-section.primary {
-  @include border-radius($default-corner, $default-corner);
-}
-
 h2.author,
 h2.author a,
 h3.pubdate {
   color: $stone;
 }
-
 h2.author {
   float: left;
   margin-top: -.125em;
 }
-
 h3.pubdate {
   float: right;
+}
+h3.pubdate,
+.submit h2 {
   margin-top: .25em;
 }
 
@@ -210,8 +215,6 @@ h3.pubdate {
 }
 
 .page-footer {
-//  width: 100%;
-//  float: left;
   clear: both;
   text-align: left;
 
@@ -269,7 +272,6 @@ h6 {
   font-size: 112.5%;
 }
 
-
 /////// VISUAL CHAFF
 /////// VISUAL CHAFF
 /////// VISUAL CHAFF
@@ -294,16 +296,33 @@ hr {
   border: 0;
 }
 
-article hr {
-  height: $thin-border;
-  width: 50%;
-  border: 0;
+/////////////////////// LISTSSSSSSS /////////////////////////////////
+/////////////////////// LISTSSSSSSS /////////////////////////////////
+/////////////////////// LISTSSSSSSS /////////////////////////////////
+/////////////////////// LISTSSSSSSS /////////////////////////////////
+section.list {
+  ul {
+	display: inline;
+    list-style-type: none;
+  }
+//  li + li {
+//	  border-top: $box-border solid $stone;
+//	  border-top-color: rgba(57, 80, 89, .25);
+//	  padding-top: 1.5em;
+//  }
+  time {
+    font-style: italic;
+  }
+  h4 {
+	  margin-top: 0;
+	  margin-bottom: .125em;
+  }
 }
 
 //////////////////////// media queries ..................///////////////
 //////////////////////// media queries ..................///////////////
 //////////////////////// media queries ..................///////////////
-@media screen and (min-width: $break1) {
+@media screen and (min-width: $break2) {
   .skiplink {
     position: absolute;
     left: -999em;
@@ -314,29 +333,12 @@ article hr {
 }
 
 @media screen and (max-width: $break1) {
+  div.secondary {
+    width: 16em;
+  }
+
   body {
     font-size: 14pt;
-  }
-  .page-header {
-    clear: both;
-    width: auto;
-    margin: 0;
-  }
-  main {
-    clear: both;
-  }
-  .primary,
-  .secondary {
-    float: none;
-    width: 80%;
-    margin: inherit;
-  }
-  section.about {
-    padding: inherit 1em;
-  }
-  section.single,
-  section.list {
-    width: 80%;
   }
   h1 {
     font-size: 225%;
@@ -358,29 +360,44 @@ article hr {
 }
 
 @media screen and (max-width: $break2) {
-  body {
-    font-size: 12pt;
-  }
-	main {
-    width: auto;
-    margin: 0 2%;
-	}
-  .primary,
-  .secondary {
+  .page-header {
+    clear: both;
     width: auto;
     margin: 0;
+    padding: 0 3em;
+  }
+  main {
+    clear: both;
+    width: 100%;
+  }
+  .primary {
+    float: none;
+    width: 80%;
+    margin: 0 auto;
+  }
+  div.secondary {
+    float: none;
+    width: 100%;
+    margin: 1em 0;
+    padding-top: .1em;
+    padding-bottom: .125em;
+    &:after {
+      bottom: 0;
+      border: none;
+      width: 0;
+    }
+  }
+  section.about {
+    padding: inherit 1em;
   }
   section.single,
   section.list {
-    width: auto;
+    width: 80%;
+    padding: .125em 1em;
   }
-  .shit section.single,
-  .nonsense section.single {
-    border-left: none;
-    border-right: none;
-  }
-  section.list ul {
-    display: inline;
+
+  body {
+    font-size: 12pt;
   }
   h1 {
     font-size: 171.5%;
@@ -398,5 +415,24 @@ article hr {
   h5,
   h6 {
     font-size: 114.3%;
+  }
+}
+
+@media screen and (max-width: $break3) {
+  .primary,
+  .secondary {
+    width: auto;
+    margin: 0;
+  }
+  section.single,
+  section.list,
+  section.index {
+    width: auto;
+	margin: 0 $tiny;
+  }
+  .shit section.single,
+  .nonsense section.single {
+    border-left: none;
+    border-right: none;
   }
 }

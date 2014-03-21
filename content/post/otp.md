@@ -47,7 +47,7 @@ intention to exert his prefect powers over Gregory Goyle:
 > ‘I’ll make Goyle do lines, it’ll kill him, he hates writing,’ said
 > Ron happily. He lowered his voice to Goyle’s low grunt and, screwing
 > up his face in a look of pained concentration, mimed writing in
-> midair. ‘*I … must … not … look … like … a … baboon’s … backside.*’
+> midair. *‘I … must … not … look … like … a … baboon’s … backside.’*
 
 > Everyone laughed, but nobody laughed harder than Luna Lovegood. She
 > let out a scream of mirth that caused Hedwig to wake up and flap her
