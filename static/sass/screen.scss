@@ -18,11 +18,11 @@ $break2: 500px;
 
 ///////// colors /////
 ///////// colors /////
-$adobe: #955c2f;
+$adobe: #95422f;
 $stone: #938d7d;
 $grass: #506e2a;
-$sky: #d6b78b;
-$water: #ddd0c7;
+$sky: #cabba8;
+$water: #d1dde1;
 
 ///////// colors + art /////
 ///////// colors + art /////
@@ -39,9 +39,10 @@ body {
   }
 }
 
-section.primary {
+section.primary,
+section.single {
   background-color: $water;
-  background-color: rgba(221, 208, 199, .75);
+  background-color: rgba(209, 221, 225, .75);
 }
 
 div.secondary {
@@ -55,10 +56,20 @@ div.secondary {
     bottom: -2em;
 
     content: "";
-    border: 8em solid $grass;
+    border: 8em solid;
   }
   &:after {
     border-color: $grass $grass transparent $grass;
+  }
+
+  color: $sky;
+  a {
+    color: $water;
+    &:hover,
+    &:active,
+    &:visited {
+      color: $sky;
+    }
   }
 }
 /////////////////////////// LAYOUT ///////////////////////////
