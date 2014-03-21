@@ -47,9 +47,11 @@ section.single {
 
   a {
     color: $stone;
-    text-decoration: none;
     @include text-shadow($sky 1px 1px 0);
   }
+}
+.primary h2 a {
+  text-decoration: none;
 }
 
 div.secondary {
@@ -182,6 +184,11 @@ section.list {
   margin-bottom: 1em;
 }
 
+section.single,
+section.primary {
+  @include border-radius($default-corner, $default-corner);
+}
+
 h2.author,
 h2.author a,
 h3.pubdate {
@@ -277,9 +284,8 @@ iframe {
 img {
   margin: .5em 0 .5em 0;
   height: auto;
-  @media screen and (max-width: $break2) {
-    float: none;
-  }
+
+  border: $box-border solid $sky;
 }
 
 hr {
