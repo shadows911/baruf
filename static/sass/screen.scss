@@ -74,10 +74,15 @@ section.single {
   a {
     color: $grass;
   }
+  h2,
+  h3,
+  h4 {
+	a {
+	  @include text-shadow($sky 1px 1px 0);
+	  text-decoration: none;
+	  }
+  }
   @include border-radius($default-corner, $default-corner);
-}
-.primary h2 a {
-  text-decoration: none;
 }
 
 div.secondary {

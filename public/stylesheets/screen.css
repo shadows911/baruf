@@ -298,93 +298,98 @@ section.primary a,
 section.single a {
   color: #506e2a;
 }
-
-/* line 79, ../sass/screen.scss */
-.primary h2 a {
+/* line 80, ../sass/screen.scss */
+section.primary h2 a,
+section.primary h3 a,
+section.primary h4 a,
+section.single h2 a,
+section.single h3 a,
+section.single h4 a {
+  text-shadow: #cabba8 1px 1px 0;
   text-decoration: none;
 }
 
-/* line 83, ../sass/screen.scss */
+/* line 88, ../sass/screen.scss */
 div.secondary {
   background-color: #506e2a;
   width: 15.95em;
   /* http://css-tricks.com/snippets/css/ribbon/ */
   color: #cabba8;
 }
-/* line 87, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 div.secondary:after {
   position: relative;
   bottom: -8em;
   content: "";
   border: 8em solid;
 }
-/* line 94, ../sass/screen.scss */
+/* line 99, ../sass/screen.scss */
 div.secondary:after {
   border-color: #506e2a #506e2a transparent #506e2a;
 }
-/* line 99, ../sass/screen.scss */
+/* line 104, ../sass/screen.scss */
 div.secondary a {
   color: #d1dde1;
 }
-/* line 103, ../sass/screen.scss */
+/* line 108, ../sass/screen.scss */
 div.secondary a:hover, div.secondary a:active, div.secondary a:visited {
   color: #d1dde1;
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 114, ../sass/screen.scss */
 .page-footer {
   background-color: #95422f;
   background-color: rgba(149, 66, 47, 0.9);
   color: #d1dde1;
 }
-/* line 114, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 .page-footer a {
   color: #cabba8;
 }
-/* line 118, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 .page-footer a:hover, .page-footer a:active, .page-footer a:visited {
   color: #cabba8;
 }
 
-/* line 123, ../sass/screen.scss */
+/* line 128, ../sass/screen.scss */
 p.skiplink {
   background-color: #395059;
   color: #cabba8;
   font-style: italic;
 }
-/* line 125, ../sass/screen.scss */
+/* line 130, ../sass/screen.scss */
 p.skiplink a {
   color: #cabba8;
 }
-/* line 130, ../sass/screen.scss */
+/* line 135, ../sass/screen.scss */
 p.skiplink:before {
   content: "↯ ";
 }
-/* line 133, ../sass/screen.scss */
+/* line 138, ../sass/screen.scss */
 p.skiplink:after {
   content: " ↯";
 }
 
-/* line 139, ../sass/screen.scss */
+/* line 144, ../sass/screen.scss */
 h2.author,
 h2.author a,
 h3.pubdate {
   color: #395059;
 }
 
-/* line 147, ../sass/screen.scss */
+/* line 152, ../sass/screen.scss */
 .page-header {
   float: left;
   width: 50%;
   padding: 0 1em 0 3em;
 }
 
-/* line 152, ../sass/screen.scss */
+/* line 157, ../sass/screen.scss */
 .slogan {
   margin-top: -1em;
 }
 
-/* line 156, ../sass/screen.scss */
+/* line 161, ../sass/screen.scss */
 .primary {
   width: 60%;
   float: left;
@@ -392,92 +397,92 @@ h3.pubdate {
   padding: .1em 1em;
 }
 
-/* line 163, ../sass/screen.scss */
+/* line 168, ../sass/screen.scss */
 main {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 169, ../sass/screen.scss */
+/* line 174, ../sass/screen.scss */
 section {
   text-align: left;
 }
 
-/* line 172, ../sass/screen.scss */
+/* line 177, ../sass/screen.scss */
 .secondary section {
   margin-top: 1em;
 }
 
-/* line 175, ../sass/screen.scss */
+/* line 180, ../sass/screen.scss */
 section.about {
   padding-right: 1em;
   padding-bottom: .1em;
   padding-left: 1em;
 }
-/* line 179, ../sass/screen.scss */
+/* line 184, ../sass/screen.scss */
 section.about h2 {
   margin-top: .75em;
   line-height: 100%;
 }
 
-/* line 184, ../sass/screen.scss */
+/* line 189, ../sass/screen.scss */
 section.index {
   margin-bottom: 1em;
 }
 
-/* line 187, ../sass/screen.scss */
+/* line 192, ../sass/screen.scss */
 section.single {
   padding: .1em 1em;
 }
 
-/* line 191, ../sass/screen.scss */
+/* line 196, ../sass/screen.scss */
 div.secondary {
   float: right;
   margin-left: 1em;
 }
 
-/* line 196, ../sass/screen.scss */
+/* line 201, ../sass/screen.scss */
 p.skiplink {
   padding: .125em;
 }
 
-/* line 200, ../sass/screen.scss */
+/* line 205, ../sass/screen.scss */
 article {
   margin-top: 1em;
   padding-right: 1em;
   padding-bottom: .25em;
   padding-left: 1em;
 }
-/* line 206, ../sass/screen.scss */
+/* line 211, ../sass/screen.scss */
 article h2 {
   margin-top: .375em;
 }
 
-/* line 212, ../sass/screen.scss */
+/* line 217, ../sass/screen.scss */
 .single h1,
 .primary h2 {
   line-height: 100%;
 }
 
-/* line 216, ../sass/screen.scss */
+/* line 221, ../sass/screen.scss */
 h2.author {
   float: left;
   margin-top: -.125em;
 }
 
-/* line 220, ../sass/screen.scss */
+/* line 225, ../sass/screen.scss */
 h3.pubdate {
   float: right;
 }
 
-/* line 224, ../sass/screen.scss */
+/* line 229, ../sass/screen.scss */
 h3.pubdate,
 .submit h2 {
   margin-top: .25em;
 }
 
-/* line 228, ../sass/screen.scss */
+/* line 233, ../sass/screen.scss */
 .page-footer {
   clear: both;
   text-align: left;
@@ -487,12 +492,12 @@ h3.pubdate,
   padding-left: 6%;
   padding-right: 20em;
 }
-/* line 238, ../sass/screen.scss */
+/* line 243, ../sass/screen.scss */
 .page-footer p {
   margin-bottom: 0;
   margin-top: 0;
 }
-/* line 243, ../sass/screen.scss */
+/* line 248, ../sass/screen.scss */
 .page-footer ul,
 .page-footer li {
   /* http://www.alistapart.com/articles/taminglists/ */
@@ -500,44 +505,44 @@ h3.pubdate,
   margin: 0;
   padding-left: 0;
 }
-/* line 250, ../sass/screen.scss */
+/* line 255, ../sass/screen.scss */
 .page-footer li:nth-last-of-type(n+2)::after {
   content: " |";
 }
 
-/* line 262, ../sass/screen.scss */
+/* line 267, ../sass/screen.scss */
 body {
   font-size: 16pt;
 }
 
-/* line 266, ../sass/screen.scss */
+/* line 271, ../sass/screen.scss */
 h1 {
   font-size: 300%;
 }
 
-/* line 270, ../sass/screen.scss */
+/* line 275, ../sass/screen.scss */
 h2 {
   font-size: 225%;
 }
 
-/* line 274, ../sass/screen.scss */
+/* line 279, ../sass/screen.scss */
 h3 {
   font-size: 150%;
 }
 
-/* line 278, ../sass/screen.scss */
+/* line 283, ../sass/screen.scss */
 h4 {
   font-size: 131.25%;
 }
 
-/* line 283, ../sass/screen.scss */
+/* line 288, ../sass/screen.scss */
 h5,
 h6 {
   font-size: 112.5%;
 }
 
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 294, ../sass/screen.scss */
+/* line 299, ../sass/screen.scss */
 img,
 object,
 iframe {
@@ -547,41 +552,41 @@ iframe {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 298, ../sass/screen.scss */
+/* line 303, ../sass/screen.scss */
 img {
   margin: .5em 0 .5em 0;
   height: auto;
   border: 0.2em solid #506e2a;
 }
 
-/* line 303, ../sass/screen.scss */
+/* line 308, ../sass/screen.scss */
 hr {
   height: 0.125em;
   width: 50%;
   border: 0;
 }
 
-/* line 313, ../sass/screen.scss */
+/* line 318, ../sass/screen.scss */
 section.list {
   padding: .1em 1em .1em 1.5em;
 }
-/* line 315, ../sass/screen.scss */
+/* line 320, ../sass/screen.scss */
 section.list ul {
   display: inline;
   list-style-type: none;
 }
-/* line 319, ../sass/screen.scss */
+/* line 324, ../sass/screen.scss */
 section.list time {
   font-style: italic;
 }
-/* line 322, ../sass/screen.scss */
+/* line 327, ../sass/screen.scss */
 section.list h4 {
   margin-top: 0;
   margin-bottom: .125em;
 }
 
 @media screen and (min-width: 980px) {
-  /* line 332, ../sass/screen.scss */
+  /* line 337, ../sass/screen.scss */
   .skiplink {
     position: absolute;
     left: -999em;
@@ -591,32 +596,32 @@ section.list h4 {
   }
 }
 @media screen and (max-width: 1150px) {
-  /* line 342, ../sass/screen.scss */
+  /* line 347, ../sass/screen.scss */
   div.secondary {
     width: 16em;
   }
 
-  /* line 346, ../sass/screen.scss */
+  /* line 351, ../sass/screen.scss */
   body {
     font-size: 14pt;
   }
 
-  /* line 349, ../sass/screen.scss */
+  /* line 354, ../sass/screen.scss */
   h1 {
     font-size: 225%;
   }
 
-  /* line 353, ../sass/screen.scss */
+  /* line 358, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 357, ../sass/screen.scss */
+  /* line 362, ../sass/screen.scss */
   h3 {
     font-size: 131.25%;
   }
 
-  /* line 363, ../sass/screen.scss */
+  /* line 368, ../sass/screen.scss */
   h4,
   h5,
   h6 {
@@ -624,7 +629,7 @@ section.list h4 {
   }
 }
 @media screen and (max-width: 980px) {
-  /* line 369, ../sass/screen.scss */
+  /* line 374, ../sass/screen.scss */
   .page-header {
     clear: both;
     width: auto;
@@ -632,20 +637,20 @@ section.list h4 {
     padding: 0 3em;
   }
 
-  /* line 375, ../sass/screen.scss */
+  /* line 380, ../sass/screen.scss */
   main {
     clear: both;
     width: 100%;
   }
 
-  /* line 379, ../sass/screen.scss */
+  /* line 384, ../sass/screen.scss */
   .primary {
     float: none;
     width: 80%;
     margin: 0 auto;
   }
 
-  /* line 384, ../sass/screen.scss */
+  /* line 389, ../sass/screen.scss */
   div.secondary {
     float: none;
     width: 100%;
@@ -653,51 +658,51 @@ section.list h4 {
     padding-top: .1em;
     padding-bottom: .125em;
   }
-  /* line 390, ../sass/screen.scss */
+  /* line 395, ../sass/screen.scss */
   div.secondary:after {
     bottom: 0;
     border: none;
     width: 0;
   }
 
-  /* line 396, ../sass/screen.scss */
+  /* line 401, ../sass/screen.scss */
   section.about {
     padding: inherit 1em;
   }
 
-  /* line 400, ../sass/screen.scss */
+  /* line 405, ../sass/screen.scss */
   section.single,
   section.list {
     width: 80%;
     padding: .125em 1em;
   }
 
-  /* line 405, ../sass/screen.scss */
+  /* line 410, ../sass/screen.scss */
   .page-footer {
     padding-right: 6%;
   }
 
-  /* line 409, ../sass/screen.scss */
+  /* line 414, ../sass/screen.scss */
   body {
     font-size: 12pt;
   }
 
-  /* line 412, ../sass/screen.scss */
+  /* line 417, ../sass/screen.scss */
   h1 {
     font-size: 171.5%;
   }
 
-  /* line 416, ../sass/screen.scss */
+  /* line 421, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 420, ../sass/screen.scss */
+  /* line 425, ../sass/screen.scss */
   h3 {
     font-size: 128.5%;
   }
 
-  /* line 426, ../sass/screen.scss */
+  /* line 431, ../sass/screen.scss */
   h4,
   h5,
   h6 {
@@ -705,14 +710,14 @@ section.list h4 {
   }
 }
 @media screen and (max-width: 500px) {
-  /* line 433, ../sass/screen.scss */
+  /* line 438, ../sass/screen.scss */
   .primary,
   .secondary {
     width: auto;
     margin: 0;
   }
 
-  /* line 439, ../sass/screen.scss */
+  /* line 444, ../sass/screen.scss */
   section.single,
   section.list,
   section.index {
@@ -720,7 +725,7 @@ section.list h4 {
     margin: 0 2%;
   }
 
-  /* line 444, ../sass/screen.scss */
+  /* line 449, ../sass/screen.scss */
   .shit section.single,
   .nonsense section.single {
     border-left: none;

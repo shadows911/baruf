@@ -3,3 +3,5 @@
 	<!--[if lt IE 9]>
     <script src="scripts/html5shiv-printshiv.js"></script>
 	<![endif]-->
+		
+	{{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
