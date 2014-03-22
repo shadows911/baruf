@@ -60,7 +60,6 @@ section.single footer {
   border-top: $thin-border solid $sky;
   border-top-color: rgba(202, 187, 168, .75);
 }
-section.list li + li,
 article + article {
   border-top: $thin-border solid $sky;
   border-top-color: rgba(202, 187, 168, .5);
@@ -112,10 +111,6 @@ div.secondary {
     &:visited {
       color: $water;
     }
-  }
-  h2 {
-    word-break: break-all;
-    word-wrap: break-word;
   }
 }
 
@@ -172,7 +167,7 @@ h3.pubdate {
   width: 60%;
   float: left;
   margin-bottom: 1em;
-  padding: .1em 1em;
+  padding: 0 1em;
 }
 
 main {
@@ -315,25 +310,6 @@ hr {
   height: $thin-border;
   width: 50%;
   border: 0;
-}
-
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-section.list {
-	padding: .1em 1em .1em 1.5em;
-  ul {
-	display: inline;
-    list-style-type: none;
-  }
-  time {
-    font-style: italic;
-  }
-  h4 {
-	  margin-top: 0;
-	  margin-bottom: .125em;
-  }
 }
 
 //////////////////////// media queries ..................///////////////

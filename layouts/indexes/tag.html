@@ -25,12 +25,10 @@
 </section>
 	</div>
 
-<section id="content-start" class="primary list">
-	<ul>
+<section id="content-start" class="primary">
 		{{ range .Data.Pages }}
-			{{ .Render "li" }}
+			{{ .Render "short" }}
 		{{ end }}
-	</ul>
 </section>
 
 </main>

@@ -1,4 +1,4 @@
-<footer><p>
+<p>
 {{ if isset .Params "author" }} By {{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}
 	{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>.{{ end }}{{ end }}
 	 Posted
@@ -8,4 +8,3 @@
 	{{end}}</span>
 	{{ end }}
  on <time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time>.</p>
-</footer>

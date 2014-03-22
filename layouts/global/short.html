@@ -1,8 +1,8 @@
 <article role="article">
 <header>
-<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 </header>
 {{ template "global/byline.html" . }}
-<p>{{ .Summary }}</p>
+<p>{{ .Description }}</p>
 <p><a href="{{ .Permalink }}" title="Full post">Continue…</a></p>
 </article>
