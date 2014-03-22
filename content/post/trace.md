@@ -4,6 +4,7 @@
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-05-15",
 	"tags": [
+        "conspiracies",
 		"harry",
 		"figg",
 		"alex-dunn"
@@ -129,7 +130,7 @@ A few theories have surfaced to explain this inconsistency:
     Triwizard Tournament.  Wikia user Thanksherman proposes that
     Voldemort was similarly old for his age, allowing him to come of
     age and act without the Trace in his sixth year.
-    
+
     The problem with this theory is twofold: Not only does Dumbledore
     not contradict Harry above when Harry asks how Voldemort could
     have done magic without it being detected by the Ministry,
@@ -137,12 +138,12 @@ A few theories have surfaced to explain this inconsistency:
     age---and Harry wouldn't turn 17 for some time.  When discussing
     Voldemort's conversation with Horace Slughorn (which occurs after
     the Riddle House incident), Dumbledore says to Harry:
-    
+
     > "I am sure you understood the significance of what we just
     > heard.  At the same age as you are now, give or take a few
     > months, Tom Riddle was doing all he could to find out how to
     > make himself immortal" (*HBP* 332).
-    
+
 2.  The Trace works in strange ways.
 
     There are only sketchy descriptions of the Trace in the books,
@@ -159,11 +160,11 @@ A few theories have surfaced to explain this inconsistency:
     know that Harry casts his Patronus in *Order of the Phoenix* "in
     the presence of a Muggle"---Dudley---would be another troubling
     question, if the Trace exists.  But it doesn't.)
-    
+
     But the Ministry can't track the locations of underage witches and
     wizards *either*.  You'd be forgiven for thinking so, since as
     much is implied in *DH*:
-    
+
     > "We wondered," said Hermione tentatively, "whether Harry could
     > still have the Trace on him?"
 
@@ -184,18 +185,18 @@ A few theories have surfaced to explain this inconsistency:
 
     With all this in mind, *how* can the Ministry know whether a bit
     of magic, performed near a Traced person, is plausibly underage
-    sorcery or not?  
+    sorcery or not?
 
     The Ministry might keep a list of underage wizards *known to be
     alone* or otherwise without magical supervision.  Harry would fall
     in this category, as well as Muggleborns and other special cases
     (like Voldemort at the orphanage).  Warnings are only sent when
     magic is performed in the vicinity of these people's homes.
-  
+
     But this this just doesn't seem true: when the Advance Guard
     removes Harry from Privet Drive, Tonks casts several spells,
     apparently with no repercussions.
-    
+
     The
     [usual reply here](http://harrypotter.wikia.com/wiki/The_Trace#Limitations
     "Harry Potter Wikia entry for \"The Trace\", section on
@@ -209,7 +210,7 @@ A few theories have surfaced to explain this inconsistency:
     Fudge administration would do.  Moreover, during Harry's
     disciplinary hearing, it's made explicit that the Ministry
     believes him to be still residing at Privet Drive:
-    
+
     > "You're late."
 
     > "Sorry," said Harry nervously.  "I---I didn't know the time
@@ -218,7 +219,7 @@ A few theories have surfaced to explain this inconsistency:
     > "That is not the Wizengamot's fault," said the voice. "An
     > owl was sent to you this morning. Take your seat" (*OotP*
     > 108).
-    
+
     Of course there's some wiggle-room here as well; Fudge and
     Umbridge are trying to get Harry expelled, so it's possible they
     arranged to have the letter sent to the wrong address.  But if
@@ -227,7 +228,7 @@ A few theories have surfaced to explain this inconsistency:
     surely suspect him of having contact with the last Black family
     member (a fine excuse to detain him for questioning and
     harassment).
-    
+
 3.  No way is there such a thing as "the Trace".
 
 ## What's really going on?
@@ -268,7 +269,7 @@ My best guess at an answer to all three is ... Mrs Figg.
 Yeah, I don't like these sorts of conspiracy theories either.  But
 she's always near Privet Drive, and the only not-obviously-canon claim
 I'm making is that she works for the Ministry rather than for
-Dumbledore.  
+Dumbledore.
 
 She---or one of her cats---saw the Hover Charm (whether or not they
 saw Dobby), saw Marge explode, and saw the Patronus.  She did *not*
@@ -310,7 +311,7 @@ above, when the Ministry takes Harry to task for his Patronus in
 know: that Harry performed magic in the presence of a Muggle: Dudley.
 If the Ministry doesn't track the relatively small adult magical
 population, the idea that they might be tracking all Muggles is pretty
-wild.  
+wild.
 
 "Couldn't they be tracking just a *few* Muggles of importance?"
 Dudley's *not* important, though; he already knows about magic, so

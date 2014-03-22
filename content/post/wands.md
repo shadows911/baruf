@@ -14,7 +14,7 @@ Until *Deathly Hallows*, we all thought *Expelliarmus* was just a
 nifty spell that causes people to drop their wands and sometimes
 knocks them over (which is why we had all those Tower Truthers saying
 that [Dumbledore wasn't
-dead](http://www.beyondhogwarts.com/harry-potter/articles/dumbledore-clues.html "Beyond Hogwarts")). 
+dead](http://www.beyondhogwarts.com/harry-potter/articles/dumbledore-clues.html "Beyond Hogwarts")).
 But then it turns out that it's *totally bonkers*. Apparently
 disarming someone actually *transfers their wand's loyalty to you*.
 
@@ -23,7 +23,7 @@ point.  So to figure out whose wand is whose and what *really*
 happened, let's catalog every instance of disarming ever!
 
 Before we do that, though, we need to figure out when exactly a wand
-changes owners.  
+changes owners.
 
 Well, maybe not *exactly.*
 
@@ -96,7 +96,7 @@ battle with Voldy:
 > it does ... I am the true master of the Elder Wand" (*DH* 497).
 
 You don't even have to *touch* a wand to win it. And not only that,
-when you disarm someone *you get all the wands **they've** won*.
+when you disarm someone *you get all the wands* ***they've*** *won*.
 That's how Harry gets the Elder Wand by disarming Draco, even though
 it's tucked away in Dumbledore's tomb.
 
@@ -157,7 +157,7 @@ Let's write that down:
 > attack: dropping his bag, he plunged his hand inside his robes and
 > his wand was halfway into the air when James shouted,
 > "*Expelliarmus!*"
-  
+
 Poor Snivellus can never catch a break.
 
 - **James** has Snape's and his own wands.
@@ -264,7 +264,7 @@ Dang, Lockhart already lost his wands.  Ron is actually throwing
 > face.
 
 Why doesn't Harry just *Expelliarmus* him again here? Possibly
-because Harry's an idiot; but who knows, really.
+because Harry is pathetic; but who knows, really.
 
 - **Lockhart** has Ron's wand.
 
@@ -285,16 +285,16 @@ he disarmed everyone else.  That makes sense, right?
 
 - **Harry** has Hermione's, Fred's, George's, Ginny's and his own
   wands, and Draco's books.
-  
+
 Let's review the scores:
 
 - **Harry** has Hermione's, Fred's, George's, Ginny's and his own
   wands, and Draco's books.
-  
+
 - **Hermione** has nothing.
 
 - **Fred** has nothing.
-  
+
 - **George** has nothing.
 
 - **Ginny** has nothing.
@@ -387,12 +387,12 @@ wins whatever wands are Hermione's and Harry's, which are none.
 
 > Harry made up his mind in a split second. Before Snape could take
 > even one step towards him, he had raised his wand.
-> 
+>
 > "*Expelliarmus!*" he yelled---except that his wasn't the only voice
 > that shouted. There was a blast that made the door rattle on its
 > hinges; Snape was lifted off his feet and slammed into the wall,
 > then slid down it to the floor, a trickle of blood oozing from under
-> his hair. He had been knocked out 
+> his hair. He had been knocked out
 >
 > Harry looked around. Both Ron and Hermione had tried to disarm Snape
 > at exactly the same moment.  Snape's wand soared in a high arc and
@@ -414,7 +414,7 @@ wand lands!
 > bandaged leg, fell. There was a bang, a burst of light---and Ron lay
 > motionless on the ground.  Another bang---Crookshanks flew into the
 > air and back to the earth in a heap.
->  
+>
 > "*Expelliarmus!*" Harry yelled, pointing his own wand at Pettigrew;
 > Lupin's wand flew high into the air and out of sight.
 
@@ -434,7 +434,7 @@ wand lands!
 - **Hermione** has nothing.
 
 - **Fred** has nothing.
-  
+
 - **George** has nothing.
 
 - **Ginny** has nothing.
@@ -511,7 +511,7 @@ tree, because ...
 After disarming the spider, Harry no longer feels alienated from his
 own body. He finds that he is more comfortable in his own skin and in
 fact has better motor control too. (Now you might say, "Alex, that's
-stupid."  Yes.  *But how else could he survive the graveyard?*)
+ridiculous."  Yes.  *But how else could he survive the graveyard?*)
 
 *GoF* 444:
 
@@ -558,7 +558,7 @@ Oh, shit.
 
 > "*Expelliarmus!*" said Neville, and Harry, caught unawares, felt his
 > wand fly out of his hand.
-  
+
 - **Neville** has his wand.
 
 - **Harry** has Draco's books.
@@ -658,7 +658,7 @@ other Slytherins are unnamed.
 
 - **Warrington** has Harry's, Hermione's, Fred's, George's, Ginny's
   and Sirius' wands and Ron's new wand, as well as his own.
-  
+
 - **Crabbe** has Neville's and his wands.
 
 - **Slytherin A** has Michael's wand and her own.
@@ -709,7 +709,7 @@ wasn't her. So let's say Ron disarmed Millicent.
   well as Justin's hair and clothing.
 
 - **Hermione** has nothing.
-  
+
 - **Warrington** has nothing.
 
 - **Millicent** has nothing.
@@ -726,7 +726,7 @@ wasn't her. So let's say Ron disarmed Millicent.
 > around the knees, causing him to topple and his aim to go awry.
 > Neville overturned a desk in his anxiety to help; and pointing his
 > wand wildly at the struggling pair, he cried:
->  
+>
 > "*EXPELLIARMUS!*"
 >
 > Both Harry's and the Death Eater's wands flew out of their hands and
@@ -764,7 +764,7 @@ finally realized how inept he is.
   well as Justin's hair and clothing.
 
 - **Hermione** has nothing.
-  
+
 - **Warrington** has nothing.
 
 - **Millicent** has nothing.
@@ -819,7 +819,7 @@ finally realized how inept he is.
 > his hand had only just closed upon the iron ring of the door when he
 > heard running footsteps on the other side.  He looked round at
 > Dumbledore, who gestured to him to retreat.  Harry backed away,
-> drawing his wand as he did so.  
+> drawing his wand as he did so.
 >
 > The door burst open and somebody erupted through it and shouted
 > "*Expelliarmus!*"
@@ -833,7 +833,7 @@ finally realized how inept he is.
 > an arc over the edge of the ramparts and understood ... Dumbledore
 > had wordlessly immobilised Harry, and the second he had taken to
 > perform the spell had cost him the chance of defending himself.
-  
+
 Oooh, this is the important one.
 
 - **Draco** has Dumbledore's, Grindelwald's, Gregorovitch's, and his
@@ -915,12 +915,12 @@ sure, but that probably doesn't count.
 > "They took my Luna," he whispered. "Because of what I’ve been
 > writing. They took my Luna and I don't know where she is, what
 > they've done to her. But they might give her back to me if I---if
-> I---""
+> I---"
 
 As we learn later, Luna lost her wand when she got pulled off the
 Hogwarts Express.  Presumably a Death Eater took it.
 
-- **Some Death Eater** Justin's and some Slytherin's and Luna's and
+- **Some Death Eater** has Justin's and some Slytherin's and Luna's and
   his own wands, as well as Justin's hair and clothing.
 
 - **Luna** has nothing.
@@ -974,7 +974,7 @@ So I think all we can say is this:
 
 - **Snatcher 2** has Ron's, Harry's, Hermione's, Fred's, George's,
   Ginny's, Sirius', and his own wands.
-  
+
 - **Snatcher 3** has Dean's and his own wands (Dean is picked by the
   same group of Snatchers).
 
@@ -1003,7 +1003,7 @@ So I think all we can say is this:
 > pulled his wand out of his unresisting grip.
 
 It's really too bad that Greyback didn't disarm Harry et al., instead
-of Scabior and the other idiot Snatchers. Too bad Bellatrix didn't
+of Scabior and the other shitheart Snatchers. Too bad Bellatrix didn't
 disarm instead of stun them. Then she would have *everything*. Oh
 well; the truth is sacred.
 
@@ -1038,7 +1038,7 @@ have been the true owner of the Elder Wand?)
 - **Ron** has Bellatrix's and Greyback's wand.
 
 - **Bellatrix** has nothing.
-  
+
 *DH* 322:
 
 > The chandelier crashed to the floor in an explosion of crystal and
@@ -1110,7 +1110,7 @@ Draco didn't really own his mother's wand, and he certainly doesn't
 own his own, so Crabbe doesn't get anything out of disarming his
 boss. But he's about to die, so that's really the least of his
 worries.
-  
+
 - **Harry** has Goyle's, Dumbledore's, Grindelwald's and Draco's
   wands.
 
@@ -1161,7 +1161,7 @@ But **no changes** occur, because neither of these jerks have wands.
 > "It is Neville Longbottom, my Lord! The boy who has been giving the
 > Carrows so much trouble! The son of the Aurors, remember?"
 
-Don't throw Neville's wand away, idiot!
+Don't throw Neville's wand away!  It's all you've got!
 
 - **Voldemort** has Neville's new wand.
 
@@ -1200,14 +1200,14 @@ Oh well.
 
 - **Harry** has Goyle's, Dumbledore's, Grindelwald's and Draco's
   wands, and Neville's new wand.
-  
+
 - **Voldemort** has nothing (and is dead).
 
 ## The final tally
 
 - **Harry** has Goyle's, Dumbledore's, Grindelwald's and Draco's
   wands, and Neville's new wand.
-  
+
 - **Voldemort** has nothing.
 
 - **Neville** has nothing.
@@ -1237,7 +1237,7 @@ Oh well.
 
 - **Snatcher 2** has Ron's, Harry's, Hermione's, Sirius' and his own
   wands.
-  
+
 - **Snatcher 3** has Dean's and his own wands.
 
 - **Hermione** has nothing.
@@ -1254,7 +1254,7 @@ Oh well.
   own.
 
 - **Ginny** has Michael's wand and some Slytherin's wand.
-  
+
 - **Warrington** has nothing.
 
 - **Millicent** has nothing.

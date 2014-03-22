@@ -4,7 +4,7 @@
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2014-02-21",
 	"tags": [
-		"ronbledore",
+		"conspiracies",
 		"luna",
 		"ron",
 		"dumbledore",
@@ -24,8 +24,11 @@ which maintains that Ron *is* Dumbledore, and at some point went back
 in time to live the majority of his life as the eldest son of Percival
 and Kendra Dumbledore.
 
-![*Figure 1: The blue line represents the "Ron" period of Ronbledore's life, and the green represents the "Dumbledore" period.  The exact point at which Ronbledore went back in time (represented by the cyan line) is unknown, but this essay will help to narrow the possibilites.*](/img/time.jpg
- "Figure illustrating the Ronbledore theory")
+<!--more-->
+
+![Figure illustrating the Ronbledore theory](/img/time.jpg "Figure illustrating the Ronbledore theory")
+
+(*Figure 1, above: The blue line represents the "Ron" period of Ronbledore's life, and the green represents the "Dumbledore" period.  The exact point at which Ronbledore went back in time (represented by the cyan line) is unknown, but this essay will help to narrow the possibilites.*)
 
 The truth of the Ronbledore Theory has by now been pretty well
 established, but I would like to shore up its foundations with some

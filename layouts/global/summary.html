@@ -2,8 +2,7 @@
 <header>
 <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 </header>
-<p>{{ .Summary }}</p>
-
 {{ template "global/subfooter.html" . }}
-
+<p>{{ .Summary }}</p>
+<p><a href="{{ .Permalink }}" title="Full post">Continue…</a></p>
 </article>
