@@ -2,9 +2,9 @@
 {{ if isset .Params "author" }} By {{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}
 	{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>.{{ end }}{{ end }}
 	 Posted
-	{{ if isset .Params "tags" }}
-	 in <span class="tags">{{ range .Params.tags }}
-	 	<a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+	{{ if isset .Params "t" }}
+	 in <span class="tags">{{ range .Params.t }}
+	 	<a class="tag" href="/t/{{ . | urlize }}">{{ . }}</a>
 	{{end}}</span>
 	{{ end }}
  on <time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time>.</p>
