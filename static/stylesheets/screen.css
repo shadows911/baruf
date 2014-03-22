@@ -239,7 +239,7 @@ a.tag:nth-last-of-type(n+2)::after {
 /* line 33, ../sass/screen.scss */
 html {
   min-height: 1036px;
-  background: #cabba8 url(/img/castle.min.png) no-repeat center bottom scroll;
+  background: #cabba8 url(../img/castle.min.png) no-repeat center bottom scroll;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -248,7 +248,7 @@ html {
 
 /* line 42, ../sass/screen.scss */
 body {
-  background: url(/img/sky.png) no-repeat center top scroll;
+  background: url(../img/sky.png) no-repeat center top scroll;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -258,7 +258,7 @@ body {
 /* line 50, ../sass/screen.scss */
 .page-header {
   color: #95422f;
-  text-shadow: #d1dde1 1px 2px 0;
+  text-shadow: #d1dde1 1px 1px 0;
 }
 
 /* line 55, ../sass/screen.scss */
@@ -375,21 +375,22 @@ h2.author,
 h2.author a,
 h3.pubdate {
   color: #395059;
+  text-decoration: none;
 }
 
-/* line 152, ../sass/screen.scss */
+/* line 154, ../sass/screen.scss */
 .page-header {
   float: left;
   width: 50%;
   padding: 0 1em 0 3em;
 }
 
-/* line 157, ../sass/screen.scss */
+/* line 159, ../sass/screen.scss */
 .slogan {
   margin-top: -1em;
 }
 
-/* line 161, ../sass/screen.scss */
+/* line 163, ../sass/screen.scss */
 .primary {
   width: 60%;
   float: left;
@@ -397,92 +398,92 @@ h3.pubdate {
   padding: .1em 1em;
 }
 
-/* line 168, ../sass/screen.scss */
+/* line 170, ../sass/screen.scss */
 main {
   width: 90%;
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 174, ../sass/screen.scss */
+/* line 176, ../sass/screen.scss */
 section {
   text-align: left;
 }
 
-/* line 177, ../sass/screen.scss */
+/* line 179, ../sass/screen.scss */
 .secondary section {
   margin-top: 1em;
 }
 
-/* line 180, ../sass/screen.scss */
+/* line 182, ../sass/screen.scss */
 section.about {
   padding-right: 1em;
   padding-bottom: .1em;
   padding-left: 1em;
 }
-/* line 184, ../sass/screen.scss */
+/* line 186, ../sass/screen.scss */
 section.about h2 {
   margin-top: .75em;
   line-height: 100%;
 }
 
-/* line 189, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 section.index {
   margin-bottom: 1em;
 }
 
-/* line 192, ../sass/screen.scss */
+/* line 194, ../sass/screen.scss */
 section.single {
   padding: .1em 1em;
 }
 
-/* line 196, ../sass/screen.scss */
+/* line 198, ../sass/screen.scss */
 div.secondary {
   float: right;
   margin-left: 1em;
 }
 
-/* line 201, ../sass/screen.scss */
+/* line 203, ../sass/screen.scss */
 p.skiplink {
   padding: .125em;
 }
 
-/* line 205, ../sass/screen.scss */
+/* line 207, ../sass/screen.scss */
 article {
   margin-top: 1em;
   padding-right: 1em;
   padding-bottom: .25em;
   padding-left: 1em;
 }
-/* line 211, ../sass/screen.scss */
+/* line 213, ../sass/screen.scss */
 article h2 {
   margin-top: .375em;
 }
 
-/* line 217, ../sass/screen.scss */
+/* line 219, ../sass/screen.scss */
 .single h1,
 .primary h2 {
   line-height: 100%;
 }
 
-/* line 221, ../sass/screen.scss */
+/* line 223, ../sass/screen.scss */
 h2.author {
   float: left;
   margin-top: -.125em;
 }
 
-/* line 225, ../sass/screen.scss */
+/* line 227, ../sass/screen.scss */
 h3.pubdate {
   float: right;
 }
 
-/* line 229, ../sass/screen.scss */
+/* line 231, ../sass/screen.scss */
 h3.pubdate,
 .submit h2 {
   margin-top: .25em;
 }
 
-/* line 233, ../sass/screen.scss */
+/* line 235, ../sass/screen.scss */
 .page-footer {
   clear: both;
   text-align: left;
@@ -492,12 +493,12 @@ h3.pubdate,
   padding-left: 6%;
   padding-right: 20em;
 }
-/* line 243, ../sass/screen.scss */
+/* line 245, ../sass/screen.scss */
 .page-footer p {
   margin-bottom: 0;
   margin-top: 0;
 }
-/* line 248, ../sass/screen.scss */
+/* line 250, ../sass/screen.scss */
 .page-footer ul,
 .page-footer li {
   /* http://www.alistapart.com/articles/taminglists/ */
@@ -505,44 +506,44 @@ h3.pubdate,
   margin: 0;
   padding-left: 0;
 }
-/* line 255, ../sass/screen.scss */
+/* line 257, ../sass/screen.scss */
 .page-footer li:nth-last-of-type(n+2)::after {
   content: " |";
 }
 
-/* line 267, ../sass/screen.scss */
+/* line 269, ../sass/screen.scss */
 body {
   font-size: 16pt;
 }
 
-/* line 271, ../sass/screen.scss */
+/* line 273, ../sass/screen.scss */
 h1 {
   font-size: 300%;
 }
 
-/* line 275, ../sass/screen.scss */
+/* line 277, ../sass/screen.scss */
 h2 {
   font-size: 225%;
 }
 
-/* line 279, ../sass/screen.scss */
+/* line 281, ../sass/screen.scss */
 h3 {
   font-size: 150%;
 }
 
-/* line 283, ../sass/screen.scss */
+/* line 285, ../sass/screen.scss */
 h4 {
   font-size: 131.25%;
 }
 
-/* line 288, ../sass/screen.scss */
+/* line 290, ../sass/screen.scss */
 h5,
 h6 {
   font-size: 112.5%;
 }
 
 /* http://unstoppablerobotninja.com/entry/fluid-images/ */
-/* line 299, ../sass/screen.scss */
+/* line 301, ../sass/screen.scss */
 img,
 object,
 iframe {
@@ -552,41 +553,41 @@ iframe {
   border-radius: 0.25em / 0.25em;
 }
 
-/* line 303, ../sass/screen.scss */
+/* line 305, ../sass/screen.scss */
 img {
   margin: .5em 0 .5em 0;
   height: auto;
   border: 0.2em solid #506e2a;
 }
 
-/* line 308, ../sass/screen.scss */
+/* line 310, ../sass/screen.scss */
 hr {
   height: 0.125em;
   width: 50%;
   border: 0;
 }
 
-/* line 318, ../sass/screen.scss */
+/* line 320, ../sass/screen.scss */
 section.list {
   padding: .1em 1em .1em 1.5em;
 }
-/* line 320, ../sass/screen.scss */
+/* line 322, ../sass/screen.scss */
 section.list ul {
   display: inline;
   list-style-type: none;
 }
-/* line 324, ../sass/screen.scss */
+/* line 326, ../sass/screen.scss */
 section.list time {
   font-style: italic;
 }
-/* line 327, ../sass/screen.scss */
+/* line 329, ../sass/screen.scss */
 section.list h4 {
   margin-top: 0;
   margin-bottom: .125em;
 }
 
-@media screen and (min-width: 980px) {
-  /* line 337, ../sass/screen.scss */
+@media screen and (min-width: 990px) {
+  /* line 339, ../sass/screen.scss */
   .skiplink {
     position: absolute;
     left: -999em;
@@ -596,40 +597,40 @@ section.list h4 {
   }
 }
 @media screen and (max-width: 1150px) {
-  /* line 347, ../sass/screen.scss */
+  /* line 349, ../sass/screen.scss */
   div.secondary {
     width: 16em;
   }
 
-  /* line 351, ../sass/screen.scss */
+  /* line 353, ../sass/screen.scss */
   body {
     font-size: 14pt;
   }
 
-  /* line 354, ../sass/screen.scss */
+  /* line 356, ../sass/screen.scss */
   h1 {
     font-size: 225%;
   }
 
-  /* line 358, ../sass/screen.scss */
+  /* line 360, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 362, ../sass/screen.scss */
+  /* line 364, ../sass/screen.scss */
   h3 {
     font-size: 131.25%;
   }
 
-  /* line 368, ../sass/screen.scss */
+  /* line 370, ../sass/screen.scss */
   h4,
   h5,
   h6 {
     font-size: 112.5%;
   }
 }
-@media screen and (max-width: 980px) {
-  /* line 374, ../sass/screen.scss */
+@media screen and (max-width: 990px) {
+  /* line 376, ../sass/screen.scss */
   .page-header {
     clear: both;
     width: auto;
@@ -637,20 +638,20 @@ section.list h4 {
     padding: 0 3em;
   }
 
-  /* line 380, ../sass/screen.scss */
+  /* line 382, ../sass/screen.scss */
   main {
     clear: both;
     width: 100%;
   }
 
-  /* line 384, ../sass/screen.scss */
+  /* line 386, ../sass/screen.scss */
   .primary {
     float: none;
     width: 80%;
     margin: 0 auto;
   }
 
-  /* line 389, ../sass/screen.scss */
+  /* line 391, ../sass/screen.scss */
   div.secondary {
     float: none;
     width: 100%;
@@ -658,51 +659,51 @@ section.list h4 {
     padding-top: .1em;
     padding-bottom: .125em;
   }
-  /* line 395, ../sass/screen.scss */
+  /* line 397, ../sass/screen.scss */
   div.secondary:after {
     bottom: 0;
     border: none;
     width: 0;
   }
 
-  /* line 401, ../sass/screen.scss */
+  /* line 403, ../sass/screen.scss */
   section.about {
     padding: inherit 1em;
   }
 
-  /* line 405, ../sass/screen.scss */
+  /* line 407, ../sass/screen.scss */
   section.single,
   section.list {
     width: 80%;
     padding: .125em 1em;
   }
 
-  /* line 410, ../sass/screen.scss */
+  /* line 412, ../sass/screen.scss */
   .page-footer {
     padding-right: 6%;
   }
 
-  /* line 414, ../sass/screen.scss */
+  /* line 416, ../sass/screen.scss */
   body {
     font-size: 12pt;
   }
 
-  /* line 417, ../sass/screen.scss */
+  /* line 419, ../sass/screen.scss */
   h1 {
     font-size: 171.5%;
   }
 
-  /* line 421, ../sass/screen.scss */
+  /* line 423, ../sass/screen.scss */
   h2 {
     font-size: 150%;
   }
 
-  /* line 425, ../sass/screen.scss */
+  /* line 427, ../sass/screen.scss */
   h3 {
     font-size: 128.5%;
   }
 
-  /* line 431, ../sass/screen.scss */
+  /* line 433, ../sass/screen.scss */
   h4,
   h5,
   h6 {
@@ -710,14 +711,14 @@ section.list h4 {
   }
 }
 @media screen and (max-width: 500px) {
-  /* line 438, ../sass/screen.scss */
+  /* line 440, ../sass/screen.scss */
   .primary,
   .secondary {
     width: auto;
     margin: 0;
   }
 
-  /* line 444, ../sass/screen.scss */
+  /* line 446, ../sass/screen.scss */
   section.single,
   section.list,
   section.index {
@@ -725,7 +726,7 @@ section.list h4 {
     margin: 0 2%;
   }
 
-  /* line 449, ../sass/screen.scss */
+  /* line 451, ../sass/screen.scss */
   .shit section.single,
   .nonsense section.single {
     border-left: none;
