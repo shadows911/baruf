@@ -307,9 +307,11 @@ img {
   border: $box-border solid $grass;
 }
 hr {
-  height: $thin-border;
-  width: 50%;
-  border: 0;
+  border: none;
+  &:before {
+    content: "✽";
+    padding-left: 47.5%;
+  }
 }
 
 //////////////////////// media queries ..................///////////////
