@@ -1,7 +1,7 @@
 {
 	"title": "There&#8217;s no such thing as the Trace",
 	"a": ["Alex Dunn"],
-	"date": "2013-05-15",
+	"date": "2014-03-23 12:00:00-07:00",
 	"t": [
         "conspiracies",
 		"harry",

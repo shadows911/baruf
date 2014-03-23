@@ -1,7 +1,7 @@
 {
 	"title": "The complete guide to wand ownership in <em>Harry Potter</em>",
 	"a": ["Alex Dunn"],
-	"date": "2013-03-14",
+	"date": "2014-03-23 08:00:00-07:00",
 	"t": [
 		"wands"
 		],
