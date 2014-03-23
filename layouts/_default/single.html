@@ -10,7 +10,7 @@
 
 <header class="page-header" role="banner">
 <h1>{{ .Title }}</h1>
-<h2 class="author">{{ if isset .Params "authorlink" }}<a href="{{ .Params.authorlink }}">{{ end }}{{ .Params.author }}{{ if isset .Params "authorlink" }}</a>{{ end }}</h2>
+{{ if isset .Params "a" }}<h2 class="author">{{ range .Params.a }}<a href="/a/{{ . | urlize }}">{{ . }}</a>{{ end }}</h2>{{ end }}
 <h3 class="pubdate"><time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time></h3>
 </header>
 

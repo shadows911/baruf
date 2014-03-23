@@ -2,6 +2,7 @@
     "baseurl" : "http://baruffio.com/v2",
     "title": "Baruffio: a blog about Harry Potter — baruffio.com",
 	"indexes": {
-		"t": "t"
+		"t": "t",
+		"a": "a"
 	}
 }

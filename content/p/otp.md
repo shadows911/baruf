@@ -1,14 +1,13 @@
 {
 	"title": "You Can't Spell OTP without \"OotP\": An Essay in Ronbledore Apologetics",
-	"author": "Alex Dunn",
+	"a": ["Alex Dunn"],
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2014-02-21",
 	"t": [
 		"conspiracies",
 		"luna",
 		"ron",
-		"dumbledore",
-		"alex-dunn"
+		"dumbledore"
 		],
 	"description": "The truth of the Ronbledore Theory has by now been pretty well established, but I would like to shore up its foundations with some new evidence, evidence that will help explain why Ronbledore went back in time, as well as—roughly—when."
 }

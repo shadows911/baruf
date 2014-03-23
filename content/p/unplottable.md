@@ -1,12 +1,11 @@
 {
 	"title": "\"Unplottable\" is Unpossible",
-	"author": "Alex Dunn",
+	"a": ["Alex Dunn"],
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-11-21",
 	"t": [
 		"hogwarts",
-		"map",
-		"alex-dunn"
+		"map"
 		],
 	"description": "Unplottability is a scam that doesn't really work."
 }

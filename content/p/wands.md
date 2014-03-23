@@ -1,11 +1,10 @@
 {
 	"title": "The complete guide to wand ownership",
-	"author": "Alex Dunn",
+	"a": ["Alex Dunn"],
 	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-03-14",
 	"t": [
-		"wands",
-		"alex-dunn"
+		"wands"
 		],
 	"description": "To figure out whose wand is whose and what really happened, let's catalog every instance of disarming ever!"
 }
