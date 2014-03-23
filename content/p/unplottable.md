@@ -1,7 +1,6 @@
 {
 	"title": "\"Unplottable\" is Unpossible",
 	"a": ["Alex Dunn"],
-	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-11-21",
 	"t": [
 		"hogwarts",

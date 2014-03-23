@@ -1,7 +1,6 @@
 {
 	"title": "There's No Such Thing as the Trace",
 	"a": ["Alex Dunn"],
-	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-05-15",
 	"t": [
         "conspiracies",

@@ -1,7 +1,6 @@
 {
 	"title": "You Can't Spell OTP without \"OotP\": An Essay in Ronbledore Apologetics",
 	"a": ["Alex Dunn"],
-	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2014-02-21",
 	"t": [
 		"conspiracies",

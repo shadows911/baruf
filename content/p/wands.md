@@ -1,7 +1,6 @@
 {
 	"title": "The complete guide to wand ownership",
 	"a": ["Alex Dunn"],
-	"authorlink": "https://twitter.com/dunndunndunn",
 	"date": "2013-03-14",
 	"t": [
 		"wands"
