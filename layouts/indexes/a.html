@@ -4,7 +4,7 @@
   {{ template "global/meta.html" . }}
   {{ template "global/assets.html" . }}
 
-  <title>{{ .Title }} — baruffio.com</title>
+  <title>{{ if eq .Title "Alex-Dunn" }}Alex Dunn{{ end }} — baruffio.com</title>
 </head>
 <body>
 <!--http://css-tricks.com/snippets/css/sticky-footer/-->

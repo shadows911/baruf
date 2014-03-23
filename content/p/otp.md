@@ -1,5 +1,5 @@
 {
-	"title": "You Can't Spell OTP without \"OotP\": An Essay in Ronbledore Apologetics",
+	"title": "You can't spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics",
 	"a": ["Alex Dunn"],
 	"date": "2014-02-21",
 	"t": [

@@ -9,7 +9,7 @@
 <body>
 
 <header class="page-header" role="banner">
-<h1>{{ .Title }}</h1>
+<h1>{{ .Title | safeHtml }}</h1>
 {{ if isset .Params "a" }}<h2 class="author">{{ range .Params.a }}<a href="/a/{{ . | urlize }}">{{ . }}</a>{{ end }}</h2>{{ end }}
 <h3 class="pubdate"><time datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time></h3>
 </header>
@@ -26,7 +26,7 @@
 <section id="content-start" class="primary single">
 {{ .Content }}
 
-{{ if isset .Params "t" }} 
+{{ if isset .Params "t" }}
 <footer><p>
 Posted in <span class="tags">{{ range .Params.t }}	<a class="tag" href="/t/{{ . | urlize }}">{{ . }}</a>{{ end }}</span></p>
 </footer>

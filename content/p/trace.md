@@ -1,5 +1,5 @@
 {
-	"title": "There's No Such Thing as the Trace",
+	"title": "There&#8217;s no such thing as the Trace",
 	"a": ["Alex Dunn"],
 	"date": "2013-05-15",
 	"t": [

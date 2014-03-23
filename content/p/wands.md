@@ -1,5 +1,5 @@
 {
-	"title": "The complete guide to wand ownership",
+	"title": "The complete guide to wand ownership in <em>Harry Potter</em>",
 	"a": ["Alex Dunn"],
 	"date": "2013-03-14",
 	"t": [

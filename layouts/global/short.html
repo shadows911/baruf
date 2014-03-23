@@ -1,6 +1,6 @@
 <article role="article">
 <header>
-<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<h3><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a></h3>
 </header>
 {{ template "global/byline.html" . }}
 <p>{{ .Description }}</p>
