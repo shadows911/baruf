@@ -126,7 +126,7 @@ A few theories have surfaced to explain this inconsistency:
 
     Cedric Diggory was 17 in his sixth year, allowing him to enter the
     Triwizard Tournament.  Wikia user Thanksherman proposes that
-    Voldemort was similarly old for his age, allowing him to come of
+    Voldemort was similarly old for his cohort, allowing him to come of
     age and act without the Trace in his sixth year.
 
     The problem with this theory is twofold: Not only does Dumbledore
