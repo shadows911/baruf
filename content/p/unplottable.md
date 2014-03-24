@@ -6,7 +6,7 @@
 		"hogwarts",
 		"map"
 		],
-	"description": "Unplottability works not by saying anything about what I can or can't draw on a map, or by preventing maps from transmitting information, but rather by preventing us from inferring the location of an Unplottable place from a map."
+	"description": "Unplottability works not by saying anything about what I can or can&#8217;t draw on a map, or by preventing maps from transmitting information, but rather by preventing us from <em>inferring</em> the location of an Unplottable place."
 }
 
 In *Harry Potter*, places like Hogwarts are hidden from unwelcome eyes
@@ -28,6 +28,8 @@ preserves the spirit of Unplottability, which is to prevent people
 from figuring out *where Hogwarts is.*
 
 ## What we know about unplottability
+
+The first mention of Unplottability is in *Goblet of Fire*:
 
 > "But Hogwarts *is* hidden," said Hermione, in surprise, "everyone
 > knows that ... well, everyone who's read *Hogwarts: A History*,
@@ -52,122 +54,97 @@ from figuring out *where Hogwarts is.*
 > "Well, you can enchant a building so it's impossible to plot on a
 > map, can't you?"
 
-> "Er ... if you say so," said Harry (*GoF* 121; page references are
-> from the UK versions of the *Pottermore* ebooks).
+> "Er ... if you say so," said Harry.
 
 I'm not really sure how disguising Hogwarts as a ruin will keep out
-Muggle archaeologists, but that's beside the point.  Just what on
-earth does it *mean* for something to be Unplottable?  (The text is
-silent on whether Hogwarts itself is Unplottable, but
-[Durmstrang is](http://www.gaiaonline.com/forum/harry-potter/if-hogwarts-castle-is-unplottable/t.13491169_15/#15
-"\"If Hogwarts castle is unplottable...\" at Gaia Online"), so
-it's likely that Hogwarts is as well.)
+Muggle archaeologists, but that's beside the point.  We've got one
+fact about Unplottability: it can apply to buildings and it makes it
+impossible to plot them on a map.  But we learn in *Half-Blood Prince*
+that it applies to individual rooms as well:
 
-## I can draw a map and write "Hogwarts" on it
+> "Harry Potter, sir," squeaked Dobby, his great orblike eyes shining
+> in the firelight, "the Malfoy boy is breaking no rules that Dobby
+> can discover, but he is still keen to avoid detection. He has been
+> making regular visits to the seventh floor with a variety of other
+> students, who keep watch for him while he enters---"
 
-Above I said that Unplottability can't say anything about what I can
-or can't draw on a piece of paper.  More precisely, there's no way to
-stop me from encoding certain information on a map.  But why not?
+> "The Room of Requirement!" said Harry, smacking himself hard on the
+> forehead with *Advanced Potion-Making*. Hermione and Ron stared at
+> him. "That's where he’s been sneaking off to!  That's where he's
+> doing … whatever he's doing! And I bet that's why he's been
+> disappearing off the map---come to think of it, I've never seen the
+> Room of Requirement on there!"
 
-Let's look at how someone might try to prevent us from encoding that
-sort of information.  Whatever they do, I don't think they'll manage
-it:
+> "Maybe the Marauders never knew the Room was there," said Ron.
 
-1. Suppose a witch or wizard managed to cast an enchantment that had
-   the following effect: whenever someone writes "Hogwarts" (or
-   something sufficiently similar) at roughly the point where Hogwarts
-   is located on a map, the enchantment erases what you've written.
-   This obviously isn't good enough, because you could refer to
-   Hogwarts using a different name.  This is a ban on *using
-   "Hogwarts" to refer to Hogwarts*.  It is not a ban on plotting
-   Hogwarts on a map.  If I am trying to make you a map with Hogwarts
-   on it, I could tell you "I will write 'Pigfarts' instead of
-   'Hogwarts'", and then when I write "Pigfarts", I am plotting
-   Hogwarts on the map.
+> "I think it'll be part of the magic of the Room," said Hermione. "If
+> you need it to be Unplottable, it will be."
 
-    A second problem with this approach is that if the enchantment
-    only detects when I've written "Hogwarts", my writing will be
-    visible until I finish that string of letters.  If you are
-    watching over my shoulder as I work, you will see me get at least
-    as far as "Hogwart" and will probably infer my intention (to plot
-    Hogwarts on this map), and the enchantment will be foiled.  In
-    order to work, the enchantment would have to determine our
-    *intentions* and act before we can even start writing.
+Setting aside whether the Room *is* Unplottable or not, all the
+evidence we've got so far is compatible with Unplottability being
+nothing more than a restriction on what can be written down on a map.
+But if the *point* of Unplottability is to keep the location of a
+place secret, this hardly seems sufficient.
 
-    The subject of *intention* brings us to a second possible method
-    to make it impossible to encode information about a place's
-    location.
+Fortunately there's textual support in *Order of the Phoenix* for
+Unplottability being more than this sort of limited restriction:
 
-2. Suppose it's possible, somehow, to determine when I'm *intending*
-   to plot Hogwarts on a map.  Maybe an enchantment could figure out
-   when I'm thinking about Hogwarts in a certain way while mapmaking,
-   or whatever.  When this happens, the enchantment makes me forget
-   what I'm doing, or triggers something like the Tongue-Tying Curse
-   except for writing, or in some other way prevents me from
-   fulfilling my intention to plot Hogwarts on a map.  Why wouldn't
-   this work?
+> "[Number 12, Grimmauld Place is] ideal for Headquarters, of course,"
+> Sirius said. "My father put every security measure known to
+> wizardkind on it when he lived here. It's unplottable, so Muggles
+> could never come and call---as if they'd ever have wanted to---and
+> now Dumbledore's added his protection, you'd be hard put to find a
+> safer house anywhere."
 
-    This wouldn't work because it's possible for someone to make
-    something that *functions* as a map showing the location of
-    Hogwarts without intending to.  Suppose a Muggle child is drawing
-    fake maps for fun and *accidentally* draws one with a castle in
-    just the right place on an accurate representation of the Scottish
-    highlands.  It's even possible that---by a massive
-    coincidence---the child could decide to label this castle
-    "Hogwarts".
+As a matter of fact, Sirius can't be right when he says that Muggles
+could *never* come and call.  Durmstrang---and, we'll assume,
+Hogwarts---are Unplottable, but students have to be able to get there
+somehow.  Likewise, if it weren't for the fact that Number 12 is
+*also* protected by the Fidelius Charm, I don't see how any sort of
+*Unplottability* could have prevented a Muggle from walking up to the
+front door, unaided by any map.
 
-    Now, while there's definitely a sense in which this Muggle child
-    hasn't really plotted Hogwarts on a map, the following scenario
-    could still occur, if this is all Unplottability amounts to: the
-    child drops their map while leaving King's Cross, and it is picked
-    up by a witch or wizard, who has been seeking the location of
-    Hogwarts.  They assume that someone plotted Hogwarts on a map and
-    then dropped it.  They guide themselves using this map, and as a
-    result arrive at Hogwarts.
+But if Unplottability can at least *sometimes* prevent Muggles from
+finding Number 12, then it's clearly more than a restriction on what
+can be drawn on a map.  But this leaves unexplained exactly what
+Unplottability is and how it *works.*
 
-Our first solution was obviously insufficient, in part because it
-failed to account for a mapmaker's intention.  But in our examination
-of the second solution, we can see that accounting for the mapmaker's
-intention won't work either.  Our scenario, involving the child
-serendipitously writing "Hogwarts" in exactly the right place on a map
-of the Scottish highlands, might be a scenario in which it's *strictly
-false* that Hogwarts was plotted on a map, but the spirit of the idea
-has clearly been violated.  The *point* of unplottability is to keep
-people from *using* maps to locate Hogwarts.
+So let's figure that out.
 
-So we should look next at how a witch or wizard would *use* a map to
-find Hogwarts.
+## Maybe I can draw you a map, but you can't understand it
 
-## But I can't use that map to find Hogwarts
+We've seen that Unplottability can't just be about what I can or can't
+draw on a piece of paper.  More precisely, it doesn't just prevent me
+encoding certain information on a map.  It has to also keep people
+from *getting* to the place that's Unplottable.  So the obvious idea
+is that Unplottability somehow prevents us from *using* a map to
+locate Hogwarts (or any other Unplottable location).  How would that work?
 
-The crucial detail of our scenario above was that the witch or wizard
-who finds the child's map *assumes* that the author *intended* to plot
-Hogwarts on their map.  They believe---incorrectly, in this
-case---that the map was written with a *communicative intention*.  The
-witch or wizard believes---again incorrectly---that they *recognize
-the communicative intention* of the author, which is to communicate to
-the reader the location of Hogwarts.
+When I read a map, I assume that the author *intended* to plot the
+locations of certain places on their map.  I read the map with the
+belief that it is written with a *communicative intention*.  When I
+find the location of a place on the map, I believe that I am
+*recognizing the communicative intention* of the author, which is to
+communicate to me the location of the place.
 
-Suppose our witch or wizard had not made this mistake.  Suppose they
-overheard the Muggle child taking about the map before dropping it,
-and realized that it was pure coincidence that led the child to label
-a map with "Hogwarts".  If the witch or wizard nonetheless picked up
-the map, they would not mistake it for a map showing the location of
-Hogwarts because they would *not* take themselves to recognize the
-author's communicative intention.  They would not think that the map
-was written with a communicative intent.  They would not learn
-anything from the map because they wouldn't imagine that there is
-anything to learn.  Information transmission of this sort requires the
-belief in a communicative intention, and when this is missing it will
-not occur.
+If I do not believe that there is this sort of communicative
+intention, I will probably not assume that I can use the map to find
+the locations of places.  If I am a schoolteacher and I have my
+students create maps of imaginary places, I will not pore over them
+later to learn the locations of the places "plotted" on the maps.  I
+know that they were *not* drawn with that sort of communicative
+intention, and so I would not---mistakenly---take them to be real maps
+of real geographic areas.  I would not *learn* anything from the maps
+because I can't imagine that there is anything to learn.
 
-If this was how Unplottability works, even if a witch or wizard finds
-a map on which Hogwarts *has* been plotted, the effect of
-Unplottability would be to block the recognition of the mapmaker's
-communicative intention.  The reader would *not* believe that they are
-reading a map showing the location of Hogwarts, but will instead be in
-a situation similar to the witch or wizard who knows that they are
-looking at the scrawlings of a Muggle child.
+So here's a possible explanation for how Unplottability works: it
+prevents us from recognizing the *communicative intention* behind maps
+of Unplottable locations.  Even if a witch or wizard finds a map on
+which Hogwarts *has* been plotted, the effect of Unplottability would
+be to block the recognition of the mapmaker's communicative intention.
+The reader would *not* believe that they are reading a map showing the
+location of Hogwarts, but will instead be in a situation similar to
+the schoolteacher looking over the students' maps.
 
 This kind of unplottability would play out in strange ways.  If I
 plotted a map of Hogwarts, then pushed it across the table at you,
@@ -175,15 +152,15 @@ saying "Look!  I plotted Hogwarts on this map; you can use it to learn
 its location", you would somehow nonetheless fail to recognize the
 communicative intention of the map.  You might suppose that I
 *believe* I have plotted Hogwarts but haven't, or that I am only
-*pretending* to plot a map, like the Muggle child.
+*pretending* to plot a map, like the students were.
 
 It's hard to imagine what it would be like to experience this
-situation, but that's no objection to the theory: it's magic.
+situation, but that's no objection to the theory: *it's magic.*
 
 The problem is that there *is* an objection to this theory (which was
 brought to my attention by [@helenoftroyius](https://twitter.com/helenoftroyius)).
 
-## The Marauder's Map
+## I can still find Hogwarts if I can't read your map
 
 The Marauder's Map is a "internal" map of Hogwarts, so it doesn't,
 strictly speaking, show the location of the castle.  But since it
