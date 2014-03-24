@@ -3,6 +3,6 @@
 <h3><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a></h3>
 </header>
 {{ template "global/byline.html" . }}
-<p>{{ .Description }}</p>
+<p>{{ .Description | safeHtml }}</p>
 <p><a href="{{ .Permalink }}" title="Full post">Continue…</a></p>
 </article>

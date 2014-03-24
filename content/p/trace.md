@@ -7,7 +7,7 @@
 		"harry",
 		"figg"
 		],
-	"description": "Much has been made about \"the Trace\", the charm on underage witches and wizards that is used by the Ministry to detect illegal spellwork.  The problem is that there is no such thing."
+	"description": "Much has been made about &#8220;the Trace&#8221;, the charm on underage witches and wizards that is used by the Ministry to detect illegal spellwork.  The problem is that there is no such thing."
 }
 
 Much is made in *Harry Potter* about "the Trace", the charm on
