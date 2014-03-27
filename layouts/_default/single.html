@@ -4,7 +4,7 @@
   {{ template "global/meta.html" . }}
   {{ template "global/assets.html" . }}
 
-  <title>{{ .Title }} — baruffio.com</title>
+  <title>{{ .Title | safeHtml }} — baruffio.com</title>
 </head>
 <body>
 
