@@ -233,12 +233,12 @@ A few theories have surfaced to explain this inconsistency:
 
 If the Trace doesn't exist, why does everyone think it does?
 
-Well, the characters in *Harry Potter* are pretty stupid.  Dumbledore
+The characters in *Harry Potter* aren't, well, *optimally rational*.  Dumbledore
 *tells* Harry that underage witches and wizards can do magic in the
 home of an adult witch or wizard, and Harry *still* doesn't do magic
 at the Burrow until he turns 17 and gets all excited.  Dumbledore
-nearly allows Katie Bell *and* Ron to die because he doesn't feel like
-confronting Malfoy about his whole assassination plan in *Half-Blood
+nearly allows Katie Bell *and* Ron to die because he can't think of a plausible pretext to 
+confront Malfoy about his whole assassination plan in *Half-Blood
 Prince*.  Ron never realized he's allowed to do magic at home and
 peels sprouts by hand for 17 years.  Hermione's pretty smart I guess,
 but she doesn't really show a strong understanding of the Trace
@@ -246,8 +246,8 @@ either.
 
 So it's not a *huge* stretch to assume that it's a lie spread by the
 (equally inept) Ministry to control the magical population.  The
-Ministry is too stupid to actually implement the Trace, and the rest
-are stupid enough to believe in it anyway.
+Ministry isn't competent enough to actually implement the Trace, but the rest
+are willing to believe in it anyway.
 
 But questions remain:
 
@@ -298,7 +298,7 @@ but rather the Ministry is just really bad about following up on the
 instances of magic it detects.  Depending on how the Trace works,
 either they just didn't notice Voldemort's magic performed at the
 Riddle House, or they failed to see that Tonks cast *Lumos* and some
-stupid trunk-packing spell when the Advance Guard came to get Harry.
+silly trunk-packing spell when the Advance Guard came to get Harry.
 See, no need to drag poor Mrs Figg into your wild imagination!"  (This
 objection is from [Aziza](https://twitter.com/zayalhawa "Twitter
 profile").)
