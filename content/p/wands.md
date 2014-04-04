@@ -25,7 +25,7 @@ changes owners.
 
 Well, maybe not *exactly.*
 
-## Disarming for Dummies
+## How *Expelliarmus* works (maybe)
 
 For some reason Harry has to finish He-Who-Must-Not-Be-Named in the
 *very same way* that he beats You-Know-Who when he's only a baby;
