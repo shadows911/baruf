@@ -54,7 +54,7 @@ The first mention of Unplottability is in *Goblet of Fire*:
 > "Well, you can enchant a building so it's impossible to plot on a
 > map, can't you?"
 
-> "Er ... if you say so," said Harry.
+> "Er ... if you say so," said Harry (*GoF,* chapter 11).
 
 I'm not really sure how disguising Hogwarts as a ruin will keep out
 Muggle archaeologists, but that's beside the point.  We've got one
@@ -78,7 +78,7 @@ that it applies to individual rooms as well:
 > "Maybe the Marauders never knew the Room was there," said Ron.
 
 > "I think it'll be part of the magic of the Room," said Hermione. "If
-> you need it to be Unplottable, it will be."
+> you need it to be Unplottable, it will be" (*HBP,* chapter 21).
 
 Setting aside whether the Room *is* Unplottable or not, all the
 evidence we've got so far is compatible with Unplottability being
@@ -94,7 +94,7 @@ Unplottability being more than this sort of limited restriction:
 > wizardkind on it when he lived here. It's unplottable, so Muggles
 > could never come and call---as if they'd ever have wanted to---and
 > now Dumbledore's added his protection, you'd be hard put to find a
-> safer house anywhere."
+> safer house anywhere" (*OotP,* chapter 6).
 
 As a matter of fact, Sirius can't be right when he says that Muggles
 could *never* come and call.  Durmstrang---and, we'll assume,

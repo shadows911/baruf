@@ -51,7 +51,8 @@ Rowling drops this tidbit on us two-thirds of the way through
 > use it safely?"
 >
 > "I think so. Subtle laws govern wand ownership, but the conquered
-> wand will usually bend its will to its new master" (*DH* 334--335).
+> wand will usually bend its will to its new master" (*DH,* chapter
+> 24).
 
 If you're prone to fits of charitability, you might think that all
 this means is that, when you disarm someone else by force and take
@@ -91,7 +92,8 @@ battle with Voldy:
 >
 > "So it all comes down to this, doesn't it?" whispered Harry.  "Does
 > the wand in your hand know its last master was Disarmed?  Because if
-> it does ... I am the true master of the Elder Wand" (*DH* 497).
+> it does ... I am the true master of the Elder Wand" (*DH,* chapter
+> 36).
 
 You don't even have to *touch* a wand to win it. And not only that,
 when you disarm someone *you get all the wands* ***they've*** *won*.
@@ -110,7 +112,7 @@ Ollivander says, right?  WRONG AGAIN:
 > second that the lantern's light illuminated him, Harry saw the
 > delight upon his handsome face, then the intruder shot a Stunning
 > Spell from his wand and jumped neatly backwards out of the window
-> with a crow of laughter (*DH* 194).
+> with a crow of laughter (*DH,* chapter 14).
 
 Grindelwald wins the Elder Wand by just sneaking into Gregorovitch's
 bedroom and nicking it.
@@ -135,7 +137,7 @@ Let's write that down:
 
 - **Gregorovitch** has nothing.
 
-*DH* 482:
+### *DH,* chapter 35
 
 > "I think he knew it, I think he knew what frightened me.  I delayed
 > meeting him until, finally, it would have been too shameful to
@@ -149,7 +151,7 @@ Let's write that down:
 
 - **Grindelwald** has nothing.  He lost Dumbledore long ago.
 
-*OotP* 476:
+### *OotP,* chapter 28
 
 > Snape reacted so fast it was as though he had been expecting an
 > attack: dropping his bag, he plunged his hand inside his robes and
@@ -163,7 +165,7 @@ Poor Snivellus can never catch a break.
 - **Snape** has nothing. No wand, no dignity (we all saw his undies,
   remember?), no Lily.
 
-*DH* 454:
+### *DH,* chapter 33
 
 > Then a blinding, jagged jet of white light flew through the air:
 > Harry thought of lightning, but Snape had dropped to his knees and
@@ -197,7 +199,7 @@ Here's how things stand going into the first book:
 
 ## *Philosopher's Stone*
 
-*PS* 121:
+### *PS,* chapter 10
 
 > Hermione had sunk to the floor in fright; Ron pulled out his own
 > wand---not knowing what he was going to do he heard himself cry the
@@ -215,7 +217,7 @@ machine, too. (Ron is pretty mindless, so the club chose well here.)
 
 ## *Chamber of Secrets*
 
-*CoS* 130:
+### *CoS,* chapter 11
 
 > Both of them swung their wands up and over their shoulders. Snape
 > cried: "*Expelliarmus!*"  There was a dazzling flash of scarlet light
@@ -229,7 +231,7 @@ Good for Snivellus, he owns a wand again!
 
 - **Lockhart** has nothing but his looks.
 
-*CoS* 162:
+### *CoS* chapter 13
 
 > Percy said, "As a school Prefect---", but Harry had lost his temper.
 > He pulled out his wand and shouted, "*Expelliarmus!*" and just as
@@ -240,7 +242,7 @@ Good for Snivellus, he owns a wand again!
 
 - **Draco** is going to have to buy new books.
 
-*CoS* 200:
+### *CoS,* chapter 16
 
 > Harry reached his wand just in time. Lockhart had barely raised his,
 > when Harry bellowed, "*Expelliarmus!*"  Lockhart was blasted
@@ -249,8 +251,6 @@ Good for Snivellus, he owns a wand again!
 
 Dang, Lockhart already lost his wands.  Ron is actually throwing
 *Snape's* wand out the window.  **No changes** here.
-
-*CoS* 203:
 
 > "Get up," said Ron sharply, pointing his wand at Lockhart.
 >
@@ -268,7 +268,7 @@ because Harry is pathetic; but who knows, really.
 
 - **Ron** has the troll's club.
 
-*CoS* 227:
+### *CoS,* chapter 18
 
 > Harry, Ron, Hermione, Fred, George and Ginny got a compartment to
 > themselves. They made the most of the last few hours in which they
@@ -317,7 +317,7 @@ Let's review the scores:
 
 ## *Prisoner of Azkaban*
 
-*PoA* 14:
+### *PoA,* chapter 1
 
 > *I couldn't believe it when Dad won the* Daily Prophet *Draw.  Seven
 > hundred galleons!  Most of it's gone on this holiday, but they're
@@ -331,7 +331,7 @@ year.
 
 - **Lockhart** has Ron's old wand.
 
-*PoA* 221:
+### *PoA,* chapter 17
 
 > It was Sirius Black.
 >
@@ -350,8 +350,6 @@ double-disarmery.
 
 - **Ron** has the troll's club.
 
-*PoA* 222:
-
 > But Black's free hand had found Harry's throat---
 >
 > "No," he hissed. "I've waited too long---"
@@ -369,8 +367,6 @@ Ron proves himself not entirely useless!
 
 - **Sirius** has nothing.
 
-*PoA* 224:
-
 > "*Expelliarmus!*" Lupin shouted.
 >
 > Harry's wand flew once more out of his hand; so did the two Hermione
@@ -381,7 +377,7 @@ force from Ron; he still owns them (and Harry's wand), and Lupin
 doesn't disarm *him*, so I don't think Lupin wins anything here. He
 wins whatever wands are Hermione's and Harry's, which are none.
 
-*PoA* 236:
+### *PoA,* chapter 19
 
 > Harry made up his mind in a split second. Before Snape could take
 > even one step towards him, he had raised his wand.
@@ -406,7 +402,7 @@ wand lands!
 
 - **Snape** has nothing.
 
-*PoA* 249:
+### *PoA,* chapter 20
 
 > Pettigrew had dived for Lupin's dropped wand. Ron, unsteady on his
 > bandaged leg, fell. There was a bang, a burst of light---and Ron lay
@@ -451,7 +447,7 @@ wand lands!
 
 ## *Goblet of Fire*
 
-*GoF* 42:
+### *GoF,* chapter 4
 
 > Harry didn't want to miss the fun, but Uncle Vernon's second
 > ornament narrowly missed his left ear, and on balance he thought it
@@ -469,7 +465,7 @@ tree, because ...
 
 - **Uncle Vernon** still has an epic mustache, though.
 
-*GoF* 459:
+### *GoF,* chapter 35
 
 > I was starting to fight my father's Imperius Curse.  There were
 > times when I was almost myself again. There were brief periods when
@@ -486,7 +482,7 @@ tree, because ...
   them. He hasn't read anything since Hermione started doing his
   homework for him in the first year.
 
-*GoF* 423--424:
+### *GoF,* chapter 31
 
 > But it was no use---the spider was either so large, or so magical,
 > that the spells were doing no more than aggravating it---Harry had
@@ -511,7 +507,7 @@ own body. He finds that he is more comfortable in his own skin and in
 fact has better motor control too. (Now you might say, "Alex, that's
 ridiculous."  Yes.  *But how else could he survive the graveyard?*)
 
-*GoF* 444:
+### *GoF,* chapter 34
 
 > Voldemort was ready. As Harry shouted "*Expelliarmus!*", Voldemort
 > cried "*Avada Kedavra!*"
@@ -535,15 +531,13 @@ move on.
 
 ## *Order of the Phoenix*
 
-*OotP* 293:
+### *OotP,* chapter 18
 
 > The room was suddenly full of shouts of *Expelliarmus*.  Wands flew
 > in all directions; missed spells hit books on shelves and sent them
 > flying into the air.
 
 Oh, shit.
-
-*OotP* 293:
 
 > Harry was too quick for Neville, whose wand went spinning out of his
 > hand, hit the ceiling in a shower of sparks and landed with a
@@ -552,16 +546,12 @@ Oh, shit.
 
 - **Harry** has Neville's wand and Draco's books.
 
-*OotP* 293:
-
 > "*Expelliarmus!*" said Neville, and Harry, caught unawares, felt his
 > wand fly out of his hand.
 
 - **Neville** has his wand.
 
 - **Harry** has Draco's books.
-
-*OotP* 293--294:
 
 > Something very odd was happening to Zacharias Smith.  Every time he
 > opened his mouth to disarm Anthony Goldstein, his own wand would fly
@@ -604,8 +594,6 @@ Oh, shit.
 
 - **Justin** has nothing.
 
-*OotP* 295:
-
 > "That was really, really good, Harry," said Hermione, when finally
 > it was just her, Harry and Ron who were left.
 >
@@ -617,7 +605,7 @@ Maybe Hermione's inexplicable attraction to Ron (the boy so solid he
 cannot apparate half an inch across a room and who nobody likes) is
 due to the fact that he's always got her wand.
 
-*OotP* 546:
+### *OotP,* chapter 32
 
 > "Take his wand," she barked at someone he could not see, and he felt
 > a hand grope inside the chest pocket of his robes and remove the
@@ -640,8 +628,6 @@ Harry of his homework planner, too; then Draco would get his books
 back!
 
 Hermione doesn't have shit either.  **No changes!**
-
-*OotP* 546:
 
 > There was a commotion outside and several large Slytherins entered,
 > each gripping Ron, Ginny, Luna and---to Harry's
@@ -671,7 +657,7 @@ other Slytherins are unnamed.
 
 - **Luna** has Justin's hair and his clothes.
 
-*OotP* 559:
+### *OotP,* chapter 33
 
 > "How did you get away?" asked Harry in amazement, taking his wand
 > from Ron.
@@ -718,7 +704,7 @@ wasn't her. So let's say Ron disarmed Millicent.
 
 - **Slytherin B** has nothing.
 
-*OotP* 580:
+### *OotP,* chapter 35
 
 > Harry launched himself across the floor and grabbed the Death Eater
 > around the knees, causing him to topple and his aim to go awry.
@@ -735,8 +721,6 @@ wasn't her. So let's say Ron disarmed Millicent.
 
 - **Neville** has Crabbe's wand and some Death Eater's wand and his
   own.
-
-*OotP* 582:
 
 > Harry fell to his knees beside her as Neville crawled rapidly
 > towards her from under the desk, his wand held up in front of
@@ -797,7 +781,7 @@ finally realized how inept he is.
 
 ## *Half-Blood Prince*
 
-*HBP* 95:
+### *HBP,* chapter 7
 
 > "Yes, I thought Gran would be angry about all the publicity," said
 > Neville, "but she was really pleased. Says I'm starting to live up
@@ -811,7 +795,7 @@ finally realized how inept he is.
 
 - **Neville** has his new wand and does not have Trevor.
 
-*HBP* 387--388:
+### *HBP,* chapter 27
 
 > Harry hurried over to the door leading to the spiral staircase, but
 > his hand had only just closed upon the iron ring of the door when he
@@ -839,7 +823,7 @@ Oooh, this is the important one.
 
 - **Dumbledore** has nothing.
 
-*HBP* 400:
+### *HBP,* chapter 28
 
 > "No, Potter!" screamed Snape. There was a loud BANG and Harry was
 > soaring backwards, hitting the ground hard again, and this time his
@@ -862,7 +846,7 @@ we're almost done!
 
 ## *Deathly Hallows*
 
-*DH* 49:
+### *DH,* chapter 4
 
 > Harry sent Stunning Spell after Stunning Spell back at their
 > pursuers, barely holding them off.  He shot another blocking jinx at
@@ -875,8 +859,6 @@ we're almost done!
 - **Harry** has Stan's wand.
 
 - **The youngest-ever Minister of Magic** has nothing.
-
-*DH* 50:
 
 > As the pain from Harry's scar forced his eyes shut, his wand acted
 > of its own accord.  He felt it drag his hand round like some great
@@ -893,7 +875,7 @@ sure, but that probably doesn't count.
 
 - **Voldemort** has nothing.
 
-*DH* 152:
+### *DH,* chapter 11
 
 > Mundungus scrambled up and pulled out his wand; Hermione, however,
 > was too quick for him.
@@ -906,7 +888,7 @@ sure, but that probably doesn't count.
 
 - **Mundungus** still has his pipe.
 
-*DH* 287:
+### *DH,* chapter 21
 
 > Xenophilius licked his lips.
 >
@@ -923,7 +905,7 @@ Hogwarts Express.  Presumably a Death Eater took it.
 
 - **Luna** has nothing.
 
-*DH* 305--306:
+### *DH,* chapter 23
 
 > "Get up, vermin."
 >
@@ -1009,15 +991,11 @@ well; the truth is sacred.
 
 - **Greyback** has nothing.
 
-*DH* 320:
-
 > "And we'll have that," whispered Ron, tugging Wormtail's wand from
 > his other hand.
 
 Ollivander says this should work, but Barty Crouch Jr. owns Pettigrew's
 wand, so Ron's out of luck. **No changes.**
-
-*DH* 321:
 
 > Ron had burst into the drawing room; Bellatrix looked round,
 > shocked; she turned her wand to face Ron instead---
@@ -1036,8 +1014,6 @@ have been the true owner of the Elder Wand?)
 - **Ron** has Bellatrix's and Greyback's wand.
 
 - **Bellatrix** has nothing.
-
-*DH* 322:
 
 > The chandelier crashed to the floor in an explosion of crystal and
 > chains, falling on top of Hermione and the goblin, who still
@@ -1058,8 +1034,6 @@ Draco was holding his, Bellatrix's, and Pettigrew's wands.
 
 - **Draco** has nothing.
 
-*DH* 322:
-
 > "Kill him, Cissy!" shrieked Bellatrix, but there was another loud
 > *crack*, and Narcissa's wand, too, flew into the air and landed on the
 > other side of the room.
@@ -1071,7 +1045,7 @@ Draco was holding his, Bellatrix's, and Pettigrew's wands.
 
 - **Narcissa** has nothing.
 
-*DH* 351:
+### *DH,* chapter 26
 
 > Mr Ollivander had sent Luna a new wand that morning. She was out on
 > the back lawn at that moment, testing its capabilities in the late
@@ -1083,7 +1057,7 @@ Draco was holding his, Bellatrix's, and Pettigrew's wands.
 - **Some Death Eater** has Justin's and some Slytherin's and his own
   wands as well as Luna's old wands, and Justin's hair and clothing.
 
-*DH* 425:
+### *DH,* chapter 31
 
 > "It's that Mudblood! *Avada Kedavra!*"
 >
@@ -1115,7 +1089,7 @@ worries.
 - **Goyle** has his health, which is more than we can say for
   Crabbe.
 
-*DH* 442:
+### *DH,* chapter 32
 
 > "*Kill*."
 >
@@ -1142,7 +1116,7 @@ Snape had any non-Elder wands, Voldemort might not have won them here.
 
 But **no changes** occur, because neither of these jerks have wands.
 
-*DH* 489:
+### *DH,* chapter 36
 
 > But Voldemort broke off: Harry heard a scuffle and a shout, then
 > another bang, a flash of light and a grunt of pain; he opened his
@@ -1164,8 +1138,6 @@ Don't throw Neville's wand away!  It's all you've got!
 - **Voldemort** has Neville's new wand.
 
 - **Neville** has nothing.
-
-*DH* 497--498:
 
 > A red-gold glow burst suddenly across the enchanted sky above them,
 > as an edge of dazzling sun appeared over the sill of the nearest
@@ -1284,5 +1256,3 @@ Oh well.
 - **Grindelwald** has nothing.
 
 - **Gregorovitch** has nothing.
-
-(Page numbers are from the Pottermore [UK] ebooks.)

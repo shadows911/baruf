@@ -18,6 +18,9 @@ illegal spellwork.  The problem is that there is no such thing.
 
 ## What is "the Trace" supposed to be?
 
+The most extended explanation of the Trace is given by Mad-Eye Moody
+in *Deathly Hallows:*
+
 > "Second problem: you're under-age, which means you've still got the
 > Trace on you."
 
@@ -40,8 +43,8 @@ illegal spellwork.  The problem is that there is no such thing.
 
 > "We're going to use the only means of transport left to us, the only
 > ones the Trace can't detect, because we don't need to cast spells to
-> use them: brooms, Thestrals and Hagrid's motorbike" (*DH* 40
-> [page numbers from the UK Pottermore editions]).
+> use them: brooms, Thestrals and Hagrid's motorbike" (*DH,* chapter
+> 4).
 
 The Trace apparently allows the Ministry to know *something* about the
 location of underage wizards, in order to determine if they are
@@ -80,7 +83,7 @@ Privet Drive:
 
 > *Improper Use of Magic Office*
 
-> *Ministry of Magic*  (*CoS* 20)
+> *Ministry of Magic* (*CoS,* chapter 2)
 
 But, sadly, this is all a terrible vicious lie.  The Trace does not
 exist.
@@ -110,7 +113,7 @@ murdered the Riddle family.  Harry points out a rather large problem:
 > their offspring's obedience while within their walls."
 
 > "Well, that's rubbish," snapped Harry. "Look what happened here,
-> look what happened to Morfin!"
+> look what happened to Morfin!" (*HBP,* chapter 17)
 
 Yes, we basically already knew that because of the Dobby thing.  We
 already know why Voldemort didn't get in trouble for doing magic at
@@ -140,7 +143,7 @@ A few theories have surfaced to explain this inconsistency:
     > "I am sure you understood the significance of what we just
     > heard.  At the same age as you are now, give or take a few
     > months, Tom Riddle was doing all he could to find out how to
-    > make himself immortal" (*HBP* 332).
+    > make himself immortal" (*HBP,* chapter 23).
 
 2.  The Trace works in strange ways.
 
@@ -170,7 +173,7 @@ A few theories have surfaced to explain this inconsistency:
     > relieved. "Apart from anything else, they'd know for sure Harry
     > was here if he still had the Trace on him, wouldn't they? But I
     > can't see how they could have tracked you to Tottenham Court
-    > Road, that's worrying, really worrying" (*DH* 143).
+    > Road, that's worrying, really worrying" (*DH,* chapter 11).
 
     But in the quote at the very beginning of this essay, Moody states
     explicitly that the Ministry *cannot* track underage witches and
@@ -215,8 +218,8 @@ A few theories have surfaced to explain this inconsistency:
     > had been changed."
 
     > "That is not the Wizengamot's fault," said the voice. "An
-    > owl was sent to you this morning. Take your seat" (*OotP*
-    > 108).
+    > owl was sent to you this morning. Take your seat" (*OotP,*
+    > chapter 8).
 
     Of course there's some wiggle-room here as well; Fudge and
     Umbridge are trying to get Harry expelled, so it's possible they
@@ -237,7 +240,7 @@ The characters in *Harry Potter* aren't, well, *optimally rational*.  Dumbledore
 *tells* Harry that underage witches and wizards can do magic in the
 home of an adult witch or wizard, and Harry *still* doesn't do magic
 at the Burrow until he turns 17 and gets all excited.  Dumbledore
-nearly allows Katie Bell *and* Ron to die because he can't think of a plausible pretext to 
+nearly allows Katie Bell *and* Ron to die because he can't think of a plausible pretext to
 confront Malfoy about his whole assassination plan in *Half-Blood
 Prince*.  Ron never realized he's allowed to do magic at home and
 peels sprouts by hand for 17 years.  Hermione's pretty smart I guess,

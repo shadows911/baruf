@@ -43,12 +43,12 @@ Allow me to draw your attention to two passages.
 First, from *Order of the Phoenix*.  Ron is here declaring his
 intention to exert his prefect powers over Gregory Goyle:
 
-> 'For heaven’s sake, Ron –'
+> "For heaven"s sake, Ron ---"
 
-> ‘I’ll make Goyle do lines, it’ll kill him, he hates writing,’ said
-> Ron happily. He lowered his voice to Goyle’s low grunt and, screwing
+> "I'll make Goyle do lines, it'll kill him, he hates writing," said
+> Ron happily. He lowered his voice to Goyle"s low grunt and, screwing
 > up his face in a look of pained concentration, mimed writing in
-> midair. *‘I … must … not … look … like … a … baboon’s … backside.’*
+> midair. *"I … must … not … look … like … a … baboon"s … backside."*
 
 > Everyone laughed, but nobody laughed harder than Luna Lovegood. She
 > let out a scream of mirth that caused Hedwig to wake up and flap her
@@ -56,26 +56,27 @@ intention to exert his prefect powers over Gregory Goyle:
 > hissing. Luna laughed so hard her magazine slipped out of her grasp,
 > slid down her legs and on to the floor.
 
-> 'That was *funny*!'
+> "That was *funny!*"
 
 > Her prominent eyes swam with tears as she gasped for breath, staring
 > at Ron. Utterly nonplussed, he looked around at the others, who were
-> now laughing at the expression on Ron’s face and at the ludicrously
+> now laughing at the expression on Ron's face and at the ludicrously
 > prolonged laughter of Luna Lovegood, who was rocking backwards and
 > forwards, clutching her sides.
 
-> ‘Are you taking the mickey?’ said Ron, frowning at her.
+> "Are you taking the mickey?" said Ron, frowning at her.
 
-> ‘Baboon’s … backside!’ she choked, holding her ribs.
+> "Baboon's … backside!" she choked, holding her ribs (*OotP,* chapter
+> 10).
 
 Luna is the only person who truly appreciates Ron's humor.  This point
 is repeated in *Half-Blood Prince* ("He says very funny things
-sometimes, doesn’t he?"), and we also learn that Ron find's Luna's wit
+sometimes, doesn"t he?"), and we also learn that Ron find's Luna's wit
 equally enchanting:
 
-> ‘I could hear the match commentary from here,’ said Ron, his voice
-> now shaking with laughter. ‘I hope Luna always commentates from now
-> on … *Loser’s Lurgy* …’
+> "I could hear the match commentary from here," said Ron, his voice
+> now shaking with laughter. "I hope Luna always commentates from now
+> on … *Loser's Lurgy* … " (*HBP,* chapter 19)
 
 Baboon's backside.  Loser's Lurgy.  Surely, true love.
 
@@ -120,42 +121,43 @@ pursuing Luna Lovegood and winning her hand?
 
 **What, or who?**  Attend to this passage from *Half-Blood Prince*:
 
-> 'Oh, it’s a Gurdyroot,' she said, stuffing the cat litter and the
-> toadstool back into her bag. ‘You can keep it if you like, I’ve got
-> a few of them. They’re really excellent for warding off Gulping
-> Plimpies.’
+> "Oh, it's a Gurdyroot," she said, stuffing the cat litter and the
+> toadstool back into her bag. "You can keep it if you like, I've got
+> a few of them. They're really excellent for warding off Gulping
+> Plimpies."
 
 > And she walked away, leaving Ron chortling, still clutching the
 > Gurdyroot.
 
-> ‘You know, she’s grown on me, Luna,’ he said, as they set off again
-> for the Great Hall. ‘I know she’s insane, but it’s in a good –’
+> "You know, she's grown on me, Luna," he said, as they set off again
+> for the Great Hall. "I know she"s insane, but it"s in a good---"
 
 > He stopped talking very suddenly. Lavender Brown was standing at the
 > foot of the marble staircase looking thunderous.
 
-> ‘Hi,’ said Ron nervously.
+> "Hi," said Ron nervously.
 
-> ‘C’mon,’ Harry muttered to Hermione, and they sped past, though not
-> before they had heard Lavender say, 'Why didn’t you tell me you were
-> getting out today? And why was *she* with you?'
+> "C'mon," Harry muttered to Hermione, and they sped past, though not
+> before they had heard Lavender say, "Why didn't you tell me you were
+> getting out today? And why was *she* with you?" (*HBP,* chapter 20)
 
 Are you beginning to understand?  When Lavender says "why was *she*
 with you", she is not referring to Hermione.
 
 Now look!  Look at this passage from *Deathly Hallows*:
 
-> 'I like this song,' said Luna, swaying in time to the waltz-like
+> "I like this song," said Luna, swaying in time to the waltz-like
 > tune, and a few seconds later she stood up and glided on to the
 > dance floor, where she revolved on the spot, quite alone, eyes
 > closed and waving her arms.
 
-> ‘She’s great, isn’t she?’ said Ron admiringly. ‘Always good value.’
+> "She's great, isn't she?" said Ron admiringly. "Always good value."
 
 > But the smile vanished from his face at once: Viktor Krum had
-> dropped into Luna’s vacant seat. Hermione looked pleasurably
+> dropped into Luna's vacant seat. Hermione looked pleasurably
 > flustered, but this time Krum had not come to compliment her. With a
-> scowl on his face he said, 'Who is that man in the yellow?'
+> scowl on his face he said, "Who is that man in the yellow?" (*DH,*
+> chapter 8)
 
 Whenever Ron admires Luna, whenever his heart is on the verge of
 telling him its truth, **a time-traveling witch or wizard arrives to
