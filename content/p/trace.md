@@ -267,13 +267,19 @@ My best guess at an answer to all three is ... Mrs Figg.
 Yeah, I don't like these sorts of conspiracy theories either.  But
 she's always near Privet Drive, and the only not-obviously-canon claim
 I'm making is that she works for the Ministry rather than for
-Dumbledore.
+Dumbledore. (You could even argue that there is textual support for
+this claim.  The tents that Mr. Weasley borrows from his Ministry
+colleague Perkins in *GoF* are "furnished in exactly the same sort of
+style as Mrs. Figg's" apartment (chapter 7), and also smell of cats;
+if Perkins modeled his tents after Figg's apartment, then that
+suggests she is in regular contact with at least one Ministry
+employee.)
 
-She---or one of her cats---saw the Hover Charm (whether or not they
-saw Dobby), saw Marge explode, and saw the Patronus.  She did *not*
-see the Weasleys travel to the Dursley's by Floo Powder, or see the
-Advance Guard arrive in *OotP*, or Dumbledore in *HBP*.  Maybe she was
-asleep.
+Arabella Figg---or one of her cats---saw the Hover Charm (whether or
+not they saw Dobby), saw Marge explode, and saw the Patronus.  She did
+*not* see the Weasleys travel to the Dursley's by Floo Powder, or see
+the Advance Guard arrive in *OotP*, or Dumbledore in *HBP*.  Maybe she
+was asleep.
 
 Even the books state that she *did* see the Patronus, and so she could
 have communicated with the Ministry immediately after (using her own
