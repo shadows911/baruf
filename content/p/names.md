@@ -2,7 +2,7 @@
 title: "The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names"
 a: ["Alex Dunn"]
 date: "2014-04-07 23:00:00-07:00"
-t: ["philosophy", "map"]
+t: ["philosophy", "maps"]
 ---
 
 Snape was wrong when he suggested that the Marauder's Map is "plainly
