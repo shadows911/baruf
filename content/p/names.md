@@ -720,8 +720,9 @@ attempt to answer how it might know it.
 
 ## Further reading
 
-- Bach, Kent. "Giorgione was so-called because of his name," *Noûs*
-  volume 36, pages 73--103.
+- Bach,
+  Kent. ["Giorgione was so-called because of his name,"](http://userwww.sfsu.edu/kbach/Bach.Giorgione.pdf
+  "PDF") *Philosophical Perspectives* volume 16, pages 73--103.
 
 - Hinchliff, Mark. "Has the theory of reference rested on a mistake?"
   in *Reference and Referring,* edited by William Kabasenche, Michael
