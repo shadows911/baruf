@@ -10,7 +10,7 @@ full of Dark Magic," but it is a remarkably powerful artifact and it's
 not at all obvious how it works.  How does it know your name, in order
 to label your dot as it tracks you throughout the castle?  In order to
 answer that question, we're going to have to start from the beginning,
-and figure out what a *name* even is, and how *it* works.  *Sonorous!*
+and figure out what *names* even are, and how *they* work.  *Sonorous!*
 
 <!--more-->
 
@@ -613,7 +613,7 @@ Descriptivism and Millianism.
 
 ### How Nominal Descriptivism avoids the Millian problems
 
-- A big problem for Millianism was that it gave us the strange result
+1.  A big problem for Millianism was that it gave us the strange result
     that there's absolutely no difference between names that designate
     the same person---"Mad-Eye Moody" and "Alastor Moody" should be
     interchangeable everywhere.  But if Nominal Descriptivism is
@@ -623,7 +623,7 @@ Descriptivism and Millianism.
     there is no mystery as to how Harry could fail to realize that
     Mad-Eye Moody is Alastor Moody.
 
--   Millianism also seemed unable to make sense of statements like
+2.  Millianism also seemed unable to make sense of statements like
     "Harry Potter does not exist."  Nominal Descriptivism has no
     problem with these *negative existentials:* if Harry Potter means
     "the person designated by 'Harry Potter,'" then everything becomes
@@ -632,7 +632,7 @@ Descriptivism and Millianism.
 
 ### How does the Map work in a Nominal Descriptivist world?
 
-This will actually be more complicated.  Remember that in a (regular)
+This will be a bit complicated.  Remember that in a (regular)
 Descriptivist world, when the map learns "Harry Potter," it learns
 that Harry Potter is the wizard, whoever it is, who was born to James
 and Lily Potter on 31 July 1980, and who survived a Killing Curse cast
