@@ -721,15 +721,14 @@ attempt to answer how it might know it.
 ## Further reading
 
 - Bach,
-  Kent. ["Giorgione was so-called because of his name,"](http://userwww.sfsu.edu/kbach/Bach.Giorgione.pdf
+  Kent (2002). ["Giorgione was so-called because of his name,"](http://userwww.sfsu.edu/kbach/Bach.Giorgione.pdf
   "PDF") *Philosophical Perspectives* volume 16, pages 73--103.
 
-- Hinchliff, Mark. "Has the theory of reference rested on a mistake?"
+- Hinchliff, Mark (2012). "Has the theory of reference rested on a mistake?"
   in *Reference and Referring,* edited by William Kabasenche, Michael
-  O'Rourke, and Matthew Slater, MIT Press, 2012.
+  O'Rourke, and Matthew Slater, MIT Press.
 
-- Kripke, Saul. *Naming and Necessity,* Harvard University Press,
-  1980.
+- Kripke, Saul (1980). *Naming and Necessity,* Harvard University Press.
 
-- Lycan, William. *Philosophy of Language: A Contemporary
-  Introduction,* Routledge, 2008.
+- Lycan, William (2008). *Philosophy of Language: A Contemporary
+  Introduction,* Routledge.
