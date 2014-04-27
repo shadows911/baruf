@@ -1,4 +1,4 @@
-<p>
+<p class="byline">
 {{ if isset .Params "a" }} By {{ range .Params.a }}<a href="/a/{{ . | urlize }}">{{ . }}</a>.{{ end }}{{ end }}
 	 Posted
 	{{ if isset .Params "t" }}

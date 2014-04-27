@@ -13,8 +13,8 @@ $box-border: .2em;
 $thin-border: .125em;
 $default-corner: .25em;
 
-$break1: 1150px;
-$break2: 1010px;
+$break1: 1200px;
+$break2: 1050px;
 $break3: 500px;
 
 ///////// colors /////
@@ -63,7 +63,6 @@ section.single footer {
 article + article {
   border-top: $thin-border solid $sky;
   border-top-color: rgba(202, 187, 168, .5);
-  padding-top: 1.5em;
 }
 
 section.about {
@@ -156,7 +155,7 @@ h3.pubdate {
 
 .page-header {
   float: left;
-  width: 50%;
+  width: 55%;
   padding: 0 1em 0 3em;
 }
 .slogan {
@@ -167,7 +166,9 @@ h3.pubdate {
   width: 60%;
   float: left;
   margin-bottom: 1em;
-  padding: 0 1em;
+
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
 
 main {
@@ -310,7 +311,7 @@ hr {
   border: none;
   &:before {
     content: "✽";
-    padding-left: 47.5%;
+    padding-left: 46.5%;
   }
 }
 
