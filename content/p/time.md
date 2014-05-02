@@ -51,53 +51,18 @@ Kiss, and that it is *too late* to stop it:
 > If all goes well, you will be able to save more than one innocent
 > life tonight.  But remember this, both of you. *You must not be
 > seen.* Miss Granger, you know the law---you know what is at stake
-> ... *you – must – not – be – seen”* (Chapter 21).
+> ... *you---must---not---be---seen”* (Chapter 21).
 
+And so they go back in time, to rescue Buckbeak and Sirius.
 
-But there's no time for grief.  Sirius Black, in the form of a dog,
-attacks Ron and drags him underneath the Whomping Willow.  Harry and
-Hermione follow, and just after sunset they find themselves in the
-Shrieking Shack.
+## You must not be seen
 
-You all know what happens next.  Remus Lupin arrives, then Snape.
-Snape is stunned, Scabbers is unmasked as Peter Pettigrew, and his
-guilt (and Sirius' innocence) is established.  The whole party finally
-exits the Whomping Willow to take Pettigrew up to Hogwarts.
-
-But the full moon is out.  Lupin transforms into a werewolf, Pettigrew
-escapes, and Harry, Hermione, and Sirius are surrounded by Dementors
-and fall unconscious, but not before Harry sees *someone* cast a
-Patronus from across the lake.  When Harry and Hermione wake up in the
-hospital wing, Sirius is locked in a room upstairs and Cornelius Fudge
-has ordered that he recieve the Dementor's Kiss.
-
-> "What we need," said Dumbledore slowly, and his light-blue eyes
-> moved from Harry to Hermione, "is more time."
->
-> "But---" Hermione began.  And then her eyes became very round. "OH!"
-
-And so they go back in time to rescue Buckbeak and Sirius.
-
-
-
-
-Then, while waiting for the right moment to rescue Sirius, Harry sees
-his past self under attack by Dementors.  *He* casts the Patronus that
-drives away the Dementors and rescues Sirius, Hermione, and himself.
-
-The details of what happens next don't matter here.  We're supposed to
-be talking about time travel anyway, and we've got enough context to
-do that now.
-
-## "You must not be seen"
-
-What's most interesting about Harry and Hermione's journey back in
+What's most interesting about Harry and Hermione's journey through
 time is that *they don't actually change the past.* When Hermione
 spins the Time-Turner to send her and Harry back three hours, they've
-already saved Buckbeak.  See how it's left deliberately ambiguous the
-first time around, when Hermione, Harry, Ron, and Scabbers leave
-Hagrid's hut just before the execution is supposed to occur---at
-sunset:
+already saved Buckbeak.  It's left deliberately ambiguous the first
+time around, when Hermione, Harry, Ron, and Scabbers leave Hagrid's
+hut just before the execution is supposed to occur---at sunset:
 
 > The rat was squealing wildly, but not loudly enough to cover up the
 > sounds drifting from Hagrid's garden. There was a jumble of
@@ -154,7 +119,7 @@ and leads him away.
 Buckbeak had been rescued the whole time.  Harry and Hermione just had
 to do it.
 
-It might be easier to get this idea if we look at Harry's Patronus.
+It might be easier to get the idea if we look at Harry's Patronus.
 After he, Hermione, Ron, Sirius, Lupin, Snape, and Pettigrew leave the
 Shrieking Shack, the full moon comes out and Lupin transforms into a
 werefolf.  Pettigrew escapes, and everyone is scattered across the
@@ -201,3 +166,47 @@ around to doing what he already did:
 >
 > "I knew I could do it this time," said Harry, "because I'd already
 > done it ... Does that make sense?"
+
+Everything Harry and Hermione do in Chapter 21 had already occurred
+when Hermione spun the Time-Turner three times.  They didn't change
+the past; everything they had to do had already been done, but it had
+already been done *by them,* so they had to go back and do it.
+
+But why didn't they change the past *anyway?*  Harry tries to convince
+Hermione to capture Pettigrew while he's still in Hagrid's hut with
+Harry and Hermione's past selves.  But Hermione won't let him:
+
+> "Hermione," said Harry suddenly, "what if we---we just run in there,
+> and grab Pettigrew---"
+>
+> "No!" said Hermione in a terrified whisper. "Don't you understand?
+> We're breaking one of the most important wizarding laws!  Nobody's
+> supposed to change time, nobody! You heard Dumbledore, if we're
+> seen---"
+>
+> "We'd only be seen by ourselves and Hagrid!"
+>
+> "Harry, what do you think you'd do if you saw yourself bursting into
+> Hagrid's house?" said Hermione.
+>
+> "I'd---I'd think I'd gone mad," said Harry, "or I'd think there was
+> some Dark Magic going on---"
+>
+> *"Exactly!* You wouldn't understand, you might even attack yourself!
+> Don't you see? Professor McGonagall told me what awful things have
+> happened when wizards have meddled with time ... loads of them ended
+> up killing their past or future selves by mistake!"
+
+The reason Hermione gives as to why they don't change the past is that
+it's *dangerous.*  She seems to believe this herself, because she
+thinks she and Harry *are* changing the past, and breaking the law in
+doing so.  As far as she and Harry know, Buckbeak *was* executed, and
+they're trying to change that.  Because Hermione thinks they are
+changing the past, and because she thinks it's very dangerous, she
+panicks whenever Harry tries to change things without thinking about
+the consequences.
+
+But she doesn't need to worry, because not only is changing the past
+not dangerous, it's not even *possible.*
+
+## The past is fixed
