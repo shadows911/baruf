@@ -5,7 +5,8 @@
 	"t": [
         "conspiracies",
 		"harry",
-		"figg"
+		"figg",
+        "spells"
 		],
 	"description": "Much has been made about &#8220;the Trace&#8221;, the charm on underage witches and wizards that is used by the Ministry to detect illegal spellwork.  The problem is that there is no such thing."
 }
@@ -279,7 +280,9 @@ suggests she is in regular contact with at least one Ministry
 employee.)
 
 Arabella Figg---or one of her cats---saw the Hover Charm (whether or
-not they saw Dobby), saw Marge explode, and saw the Patronus.  She did
+not they saw Dobby), saw Marge explode, and saw the Patronus (even if
+[she couldn't see the Dementors](http://web.archive.org/web/20110721042840/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19
+"Archive of JK Rowling's site: Extra Stuff \(Squibs\)")).  She did
 *not* see the Weasleys travel to the Dursley's by Floo Powder, or see
 the Advance Guard arrive in *OotP*, or Dumbledore in *HBP*.  Maybe she
 was asleep.

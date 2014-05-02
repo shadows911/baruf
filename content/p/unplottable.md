@@ -4,7 +4,8 @@
 	"date": "2013-11-21 14:00:00-07:00",
 	"t": [
 		"hogwarts",
-		"maps"
+		"maps",
+        "spells"
 		],
 	"description": "Unplottability works not by saying anything about what I can or can&#8217;t draw on a map, or by preventing maps from transmitting information, but rather by preventing us from <em>inferring</em> the location of an Unplottable place."
 }

@@ -3,7 +3,8 @@
 	"a": ["Alex Dunn"],
 	"date": "2013-03-14 08:00:00-07:00",
 	"t": [
-		"wands"
+		"wands",
+        "spells"
 		],
 	"description": "To figure out whose wand is whose and what really happened, let's catalog every instance of disarming ever!"
 }
