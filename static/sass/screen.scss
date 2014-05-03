@@ -57,8 +57,8 @@ article {
 }
 
 section.single footer {
-  border-top: $thin-border solid $sky;
-  border-top-color: rgba(202, 187, 168, .75);
+  border-top: $thin-border solid $adobe;
+  border-top-color: rgba($adobe, .25);
 }
 article + article {
   border-top: $thin-border solid $sky;
@@ -146,6 +146,27 @@ h2.author a,
 h3.pubdate {
   color: $stone;
   text-decoration: none;
+}
+
+/* http://unstoppablerobotninja.com/entry/fluid-images/ */
+// /* needs width: 100% in IE stylesheet */
+img,
+object,
+iframe {
+  max-width: 100%;
+  @include border-radius($default-corner, $default-corner);
+}
+img {
+  margin: .5em 0 .5em 0;
+  height: auto;
+  border: $box-border solid $grass;
+}
+hr {
+  border: none;
+  &:before {
+    content: "✽";
+    padding-left: 47%;
+  }
 }
 
 /////////////////////////// LAYOUT ///////////////////////////
@@ -289,30 +310,6 @@ h4 {
 h5,
 h6 {
   font-size: 112.5%;
-}
-
-/////// VISUAL CHAFF
-/////// VISUAL CHAFF
-/////// VISUAL CHAFF
-/* http://unstoppablerobotninja.com/entry/fluid-images/ */
-// /* needs width: 100% in IE stylesheet */
-img,
-object,
-iframe {
-  max-width: 100%;
-  @include border-radius($default-corner, $default-corner);
-}
-img {
-  margin: .5em 0 .5em 0;
-  height: auto;
-  border: $box-border solid $grass;
-}
-hr {
-  border: none;
-  &:before {
-    content: "✽";
-    padding-left: 46.5%;
-  }
 }
 
 //////////////////////// media queries ..................///////////////
