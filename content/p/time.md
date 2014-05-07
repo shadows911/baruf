@@ -1,13 +1,12 @@
 {
 	"title": "&#8220;It is too late, you understand me?&#8221;: Time travel in <em>Harry Potter</em>",
 	"a": ["Alex Dunn"],
-	"date": "2014-05-02 00:00:00-07:00",
+	"date": "2014-05-06 21:00:00-07:00",
 	"t": [
         "time",
         "philosophy"
 		],
-	"description": "Time travel in <em>Prisoner of Azkaban</em> is a model of consistency, illustrating wonderfully how time travel works&#8212;if it&#8217;s possible at all.",
-    "draft": true
+	"description": "Time travel in <em>Prisoner of Azkaban</em> is a model of consistency, illustrating wonderfully how time travel works&#8212;if it&#8217;s possible at all."
 }
 
 Here at *Baruffio* we sometimes cast a critical eye on *Harry Potter,*
@@ -178,7 +177,7 @@ cast the Patronus was him, all along:
 > done it ... Does that make sense?"
 
 Everything Harry and Hermione do in Chapter 21 has already occurred
-when Hermione spun the Time-Turner three times.  They don't change
+when Hermione spins the Time-Turner three times.  They don't change
 the past; everything they have to do, they have already done!
 
 ******
@@ -379,8 +378,6 @@ there's nothing they can do about it now.
 
 ## Is the future fixed as well?
 
-<!-- future Harry can TELL present Harry what's going to happen -->
-
 Ordering events in terms of personal time is no less accurate than
 ordering them in terms of external time.  But when we think through
 what this means, we'll notice a surprising consequence: if time travel
@@ -416,37 +413,96 @@ Hermione that they burst into Hagrid's cabin; and he's already
 appeared in the Entrance Hall after traveling back in time with
 Hermione.
 
-And when he appeared in the Entrance Hall, he was three hours older
-than the Harry he hears walking down to Hagrid's with Ron and
-Hermione.  (If another witch or wizard measured his physical age at
-that point, they could compare that with the time of his birth and
-*know* that he's a time traveler from three hours in the future.)  So
-when Harry faints at the lake's edge, it's already determined that
-very soon, he *will* go back in time three hours and perform all those
-actions that he's already performed.
+We can illustrate Harry's journey through the last chapters of
+*Prisoner of Azkaban* like this:
 
-We can actually be even more precise than "very soon"---Hermione
-checks her watch just after Harry casts the Patronus and sees that in
-45 minutes, Dumbledore will leave the hospital wing, which is when
-they go back in time.  So when Harry faints, it's already determined
-that in 45 minutes, he's going back in time.
+<figure>
+<img class="no-border" src="/img/time-split.png" title="External time is a horizontal teal line; personal time is a red line curving back to represent backward time travel; the period of time between the beginning of the backward journey in time and its end is fixed." />
+</figure>
+
+*e<sub>0</sub>* through *e<sub>3</sub>* represent moments in external
+ time.  *p<sub>0</sub>* through *p<sub>8</sub>* represent moments in
+ personal time:
+
+- ***p<sub>0</sub>*** is when Harry is walking with Ron and Hermione to
+  visit Hagrid.
+
+- ***p<sub>1</sub>*** is when Harry is sitting in Hagrid's cabin with
+  Ron and Hermione and Scabbers.
+
+- ***p<sub>2</sub>*** is when Harry faints after being saved by the stag
+  Patronus.
+
+- ***p<sub>3</sub>*** is when Harry watches Hermione spin the Time-Turner
+  three times.
+
+- ***p<sub>4</sub>*** is when Harry is traveling back in time.
+
+- ***p<sub>5</sub>*** is when Harry appears in the Entrance Hall with
+  Hermione.  (Only a few seconds separate *p<sub>3</sub>*,
+  *p<sub>4</sub>*, and *p<sub>5</sub>*.)
+
+- ***p<sub>6</sub>*** is when Harry is suggesting to Hermione that
+  they burst into Hagrid's cabin and grab Scabbers.
+
+- ***p<sub>7</sub>*** is when Harry casts his Patronus for the first time,
+  driving away the Dementors from across the lake.
+
+- ***p<sub>8</sub>*** is when Harry runs with Hermione to the door of the
+  hospital wing after helping Sirius escape on Buckbeak:
+
+    > "I am going to lock you in," they heard [Dumbledore] saying. "It
+    > is five minutes to midnight. Miss Granger, three turns should do
+    > it. Good luck."
+    >
+    > Dumbledore backed out of the room, closed the door and took out
+    > his wand to magically lock it. Panicking, Harry and Hermione ran
+    > forwards. Dumbledore looked up, and a wide smile appeared under
+    > the long silver moustache. "Well?" he said quietly.
+    >
+    > "We did it!" said Harry breathlessly. "Sirius has gone, on
+    > Buckbeak ..."
+    >
+    > Dumbledore beamed at them.
+    >
+    > "Well done. I think---" he listened intently for any sound within
+    > the hospital wing. "Yes, I think you've gone, too" (Chapter 22).
+
+If you look at things exclusively from the perspective of external time,
+you'll see that *e<sub>1</sub>* is simultaneous with *p<sub>1</sub>* and
+*p<sub>6</sub>*, and you'll have a hard time seeing why it's too late
+for Harry to burst into Hagrid's cabin and grab Scabbers.  But what
+I've tried to show is that the perspective of external time is *just a
+perspective,* and that it's not the only way to look at time.  When
+you look at things from the perspective of Harry's personal time,
+*p<sub>1</sub>* and *p<sub>6</sub>* are *not* simultaneous.  When Harry
+is standing outside Hagrid's cabin at *p<sub>6</sub>,* *p<sub>1</sub>*
+is long past, and so is his opportunity to seize Scabbers.
+
+By appreciating both the external and personal perspectives on time,
+we can see more clearly how parts of Harry's *future* are fixed, as
+well as his past. At *p<sub>2</sub>,* Harry is collapsing at the edge
+of the lake, but he sees his future self, standing on the other side
+of the lake *p<sub>7</sub>.* He's able to see into his personal future
+because *p<sub>2</sub>* and *p<sub>7</sub>* are *externally*
+simultaneous. But the fact that he can see his future means that it's
+predetermined. If his future self had walked around the lake and
+revived him using *Rennervate,* Harry could have told himself, in
+perfect detail, everything that he would do in his next three
+hours. And there would be nothing Harry *could* do but walk that path.
 
 ******
 
-This is all a bit mind-bending, but the upshot is that when Harry
-goes back in time three hours, everything that happens during those
-three hours is fixed.  Harry already (in personal time) *lived* those
-three hours, and he can't change that.  He can go back and *relive*
-those three hours---which he does---but he can't undo what he did the
-first time around.  Once you've lived through a period of time, it's
-fixed, and going back in time doesn't change that:
-
-![External time is a horizontal teal line; personal time is a red line curving back to represent backward time travel; the period of time between the beginning of the backward journey in time and its end is fixed.](http://baruffio.com/img/time-split.png)
-
-These periods are fixed for *all* of us, not just the time-travelers:
-since Harry's future includes his casting the Patronus Charm from
-across the lake, nobody else can *possibly* do anything that would
-prevent him.
+This is all a bit mind-bending, but the upshot is that when Harry goes
+back in time three hours, everything that happens during those three
+hours is fixed.  Harry already (in personal time) *lived* those three
+hours, and he can't change that.  He can go back and *relive* those
+three hours---which he does---but he can't undo what he did the first
+time around.  Once you've lived through a period of time, it's fixed;
+going back in time doesn't change that.  And it's fixed for *all* of
+us, not just the time-travelers: since Harry's future includes his
+casting the Patronus Charm from across the lake, nobody else can
+*possibly* do anything that would prevent him.
 
 This might seem alarming and implausible, but think about it: how
 could Professor Trelawney make *any* correct predictions otherwise?

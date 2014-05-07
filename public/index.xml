@@ -6,12 +6,12 @@
     <language>en-us</language>
     <author>A Witch or Wizard</author>
     <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2014-05-02 00:00:00 -0700 PDT</updated>
+    <updated>2014-05-06 20:00:00 -0700 PDT</updated>
     
     <item>
       <title>&#8220;It is too late, you understand me?&#8221;: Time travel in &lt;em&gt;Harry Potter&lt;/em&gt;</title>
       <link>http://localhost:1313/p/time</link>
-      <pubDate>Fri, 02 May 2014 00:00:00 PDT</pubDate>
+      <pubDate>Tue, 06 May 2014 20:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
       <guid>http://localhost:1313/p/time</guid>
       <description>
@@ -292,12 +292,15 @@ and his arrival, are separated by two unequal amounts of time?&lt;/p&gt;
 &lt;p&gt;The answer to this puzzle requires distinguishing &amp;ldquo;external time&amp;rdquo; from
 &amp;ldquo;personal time.&amp;rdquo;  External time is what is recorded by clock-towers
 and atomic clocks; when Harry and Hermione go back in time, they are
-going back in &lt;em&gt;external time.&lt;/em&gt; But they are &lt;em&gt;not&lt;/em&gt; going back in
-&lt;em&gt;personal time.&lt;/em&gt; Personal time is what is recorded by Harry&amp;rsquo;s
-wristwatch.  When Lewis says that time travel involves a discrepancy
-between &amp;ldquo;time and time,&amp;rdquo; he means that there is a discrepancy between
-external time and personal time; the two come apart.  He goes on to
-explain how external time and personal time come apart:&lt;/p&gt;
+going three hours backward in &lt;em&gt;external time.&lt;/em&gt; But they are &lt;em&gt;not&lt;/em&gt;
+going back in &lt;em&gt;personal time.&lt;/em&gt; Personal time is what is recorded by
+Harry&amp;rsquo;s wristwatch.  If Harry checked his watch before and after
+Hermione spins the Time-Turner, the hands would &lt;em&gt;not&lt;/em&gt; have moved three
+hours back.&lt;/p&gt;
+
+&lt;p&gt;When David Lewis says that time travel involves a discrepancy between
+&amp;ldquo;time and time,&amp;rdquo; he means that there is a discrepancy between external
+time and personal time; the two come apart:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;[The time traveler&amp;rsquo;s] journey takes an hour of his personal time,
@@ -308,27 +311,27 @@ before the departure in external time (or less than an hour after),
 if he travels toward the past.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In Harry and Hermione&amp;rsquo;s case, the end of their journey&amp;mdash;when they
-appear in the Entrance Hall&amp;mdash;is a few seconds &lt;em&gt;after&lt;/em&gt; the beginning
-of their journey&amp;mdash;when Hermione spins the Time-Turner in the hospital
-wing&amp;mdash;that is, in &lt;em&gt;personal&lt;/em&gt; time.  But the end of their journey is
-three hours &lt;em&gt;before&lt;/em&gt; its beginning in &lt;em&gt;external&lt;/em&gt; time.&lt;/p&gt;
+&lt;p&gt;The end of Harry and Hermione&amp;rsquo;s journey&amp;mdash;when they appear in the
+Entrance Hall&amp;mdash;is a few seconds &lt;em&gt;after&lt;/em&gt;, in &lt;em&gt;personal&lt;/em&gt; time, the
+beginning of their journey&amp;mdash;when Hermione spins the Time-Turner in
+the hospital wing.  But, remember, the end of their journey is three
+hours &lt;em&gt;before&lt;/em&gt; its beginning in &lt;em&gt;external&lt;/em&gt; time.&lt;/p&gt;
 
-&lt;p&gt;Another way of getting at the difference between external and personal
-time is this: External time is time in the third person; personal time
-is time in the first person.  External time is the same for everyone;
-if someone (like God) could step back and observe the universe, he
-would watch it progress in external time.  Personal time is not the
-same for everyone; personal time for each person corresponds to their
-&lt;em&gt;development&lt;/em&gt; through time.  From Harry&amp;rsquo;s perspective, he appears in
-the Entrance Hall a few seconds &lt;em&gt;after&lt;/em&gt; Hermione spins the
-Time-Turner.  He remembers being in the hospital wing immediately
-prior, his watch has moved a few seconds forward, and the physical age
-of his body is only a few seconds older.  (That last bit is important:
-I can be confused about the progress of my own personal time, like
-when I wake up and can&amp;rsquo;t remember how long I&amp;rsquo;ve slept.  But my body
-has aged a certain number of hours, and I&amp;rsquo;ve moved &lt;em&gt;that&lt;/em&gt; many hours
-ahead in personal time.)&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s another way of thinking about the difference between external
+and personal time, if you&amp;rsquo;re still confused: External time is time in
+the third person; personal time is time in the first person.  External
+time is the same for everyone; if you could step back and observe the
+universe like God, you would watch it progress in external time.
+Personal time is &lt;em&gt;not&lt;/em&gt; the same for everyone; your personal time
+corresponds to your &lt;em&gt;development&lt;/em&gt; through time.  From Harry&amp;rsquo;s
+perspective, he appears in the Entrance Hall a few seconds &lt;em&gt;after&lt;/em&gt;
+Hermione spins the Time-Turner.  He remembers being in the hospital
+wing immediately prior, his watch has moved a few seconds forward, and
+the physical age of his body is only a few seconds older.  (That last
+bit is important: I can be confused about the progress of my own
+personal time, like when I wake up and can&amp;rsquo;t remember how long I&amp;rsquo;ve
+slept.  But my body has aged a certain number of hours, and I&amp;rsquo;ve moved
+&lt;em&gt;that&lt;/em&gt; many hours ahead in personal time.)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -348,30 +351,36 @@ in the hospital wing, &lt;em&gt;then&lt;/em&gt; went back in time.)&lt;/p&gt;
 as &lt;em&gt;subjective,&lt;/em&gt; external time as &lt;em&gt;primary&lt;/em&gt; and personal time as
 &lt;em&gt;secondary;&lt;/em&gt; but both are equally legitimate.  Personal time isn&amp;rsquo;t
 just our &lt;em&gt;opinion&lt;/em&gt; or &lt;em&gt;feeling&lt;/em&gt; about the passage of time.  Like I
-said above, we can be unsure about how far we&amp;rsquo;ve proceeded in personal
-time: if we are unconscious, we lose the ability to detect the passage
-of time.  But there are other, largely objective, ways to measure how
-far we move forward in personal time.  When you wake up, even if &lt;em&gt;you&lt;/em&gt;
-think you&amp;rsquo;ve only been asleep for a few minutes, your watch might say
-otherwise, and your body will have aged as many hours as you&amp;rsquo;ve been
-asleep.  You&amp;rsquo;ve progressed a certain determinate number of hours in
-personal time.  And &lt;em&gt;that&lt;/em&gt; fact&amp;mdash;that you&amp;rsquo;ve moved forward a number
-of hours in personal time&amp;mdash;is just as &lt;em&gt;objectively true&lt;/em&gt; as the fact
-that you&amp;rsquo;ve moved forward a number of hours in external time.&lt;/p&gt;
+said earlier, we can be unsure about how far we&amp;rsquo;ve proceeded in
+personal time: if we are unconscious, we lose the ability to detect
+the passage of time.  But there are other, largely objective, ways to
+measure how far we move forward in personal time.  When you wake up,
+even if &lt;em&gt;you&lt;/em&gt; think you&amp;rsquo;ve only been asleep for a few minutes, your
+watch might say otherwise, and your body will have aged as many hours
+as you&amp;rsquo;ve been asleep.  You&amp;rsquo;ve progressed a certain determinate number
+of hours in personal time.  And &lt;em&gt;that&lt;/em&gt; fact&amp;mdash;that you&amp;rsquo;ve moved
+forward a number of hours in personal time&amp;mdash;is just as &lt;em&gt;objectively
+true&lt;/em&gt; as the fact that you&amp;rsquo;ve moved forward (or backward, if you&amp;rsquo;re
+time traveling) a number of hours in external time.&lt;/p&gt;
 
 &lt;p&gt;When Harry and Hermione go back in time, the &lt;em&gt;fact&lt;/em&gt; that only a few
 seconds of personal time has elapsed for each of them is just as
-objectively true as is the fact that they&amp;rsquo;ve moved backwards three
+objectively true as is the fact that they&amp;rsquo;ve moved backward three
 hours in external time.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Now let&amp;rsquo;s go back to our original, tempting explanation of why it&amp;rsquo;s
-impossible to change the past: &lt;em&gt;&amp;ldquo;Harry didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s
-cabin the first time; otherwise bursting into the cabin wouldn&amp;rsquo;t be
-changing that past.  But that means that the second time around, it&amp;rsquo;s&lt;/em&gt;
-too late&amp;mdash;&lt;em&gt;Harry already didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin.&amp;rdquo;&lt;/em&gt; Let&amp;rsquo;s
-rewrite that series of events in terms of personal time:&lt;/p&gt;
+&lt;p&gt;Now let&amp;rsquo;s go back to our original, rough explanation of why it&amp;rsquo;s
+impossible to change the past: &lt;em&gt;&amp;ldquo;Harry, standing outside and wondering
+if he should burst into Hagrid&amp;rsquo;s cabin, can remember sitting inside
+with Scabbers.  He can also remember&lt;/em&gt; leaving &lt;em&gt;Hagrid&amp;rsquo;s cabin with
+Scabbers, and he remembers nobody bursting in and trying to grab
+Scabbers.  His memory is correct&amp;mdash;what he remembers happening is what
+happens, so it&amp;rsquo;s too late to try to change it.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My appeal to what Harry remembers was a rough way of trying to
+describe his journey in terms of &lt;em&gt;personal&lt;/em&gt; time.  Let&amp;rsquo;s write out
+this series of events explicitly in terms of personal time:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry saw Hermione find Scabbers in Hagrid&amp;rsquo;s cabin; then left the
@@ -430,38 +439,100 @@ Hermione that they burst into Hagrid&amp;rsquo;s cabin; and he&amp;rsquo;s alrea
 appeared in the Entrance Hall after traveling back in time with
 Hermione.&lt;/p&gt;
 
-&lt;p&gt;And when he appeared in the Entrance Hall, he was three hours older
-than the Harry he hears walking down to Hagrid&amp;rsquo;s with Ron and
-Hermione.  (If another witch or wizard measured his physical age at
-that point, they could compare that with the time of his birth and
-&lt;em&gt;know&lt;/em&gt; that he&amp;rsquo;s a time traveler from three hours in the future.)  So
-when Harry faints at the lake&amp;rsquo;s edge, it&amp;rsquo;s already determined that
-very soon, he &lt;em&gt;will&lt;/em&gt; go back in time three hours and perform all those
-actions that he&amp;rsquo;s already performed.&lt;/p&gt;
+&lt;p&gt;We can illustrate Harry&amp;rsquo;s journey through the last chapters of
+&lt;em&gt;Prisoner of Azkaban&lt;/em&gt; like this:&lt;/p&gt;
 
-&lt;p&gt;We can actually be even more precise than &amp;ldquo;very soon&amp;rdquo;&amp;mdash;Hermione
-checks her watch just after Harry casts the Patronus and sees that in
-45 minutes, Dumbledore will leave the hospital wing, which is when
-they go back in time.  So when Harry faints, it&amp;rsquo;s already determined
-that in 45 minutes, he&amp;rsquo;s going back in time.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img class=&#34;no-border&#34; src=&#34;/img/time-split.png&#34; title=&#34;External time is a horizontal teal line; personal time is a red line curving back to represent backward time travel; the period of time between the beginning of the backward journey in time and its end is fixed.&#34; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;e&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; through &lt;em&gt;e&lt;sub&gt;3&lt;/sub&gt;&lt;/em&gt; represent moments in external
+ time.  &lt;em&gt;p&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt; through &lt;em&gt;p&lt;sub&gt;8&lt;/sub&gt;&lt;/em&gt; represent moments in
+ personal time:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry is walking with Ron and Hermione to
+visit Hagrid.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry is sitting in Hagrid&amp;rsquo;s cabin with
+Ron and Hermione and Scabbers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;2&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry faints after being saved by the stag
+Patronus.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;3&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry watches Hermione spin the Time-Turner
+three times.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;4&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry is traveling back in time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;5&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry appears in the Entrance Hall with
+Hermione.  (Only a few seconds separate &lt;em&gt;p&lt;sub&gt;3&lt;/sub&gt;&lt;/em&gt;,
+&lt;em&gt;p&lt;sub&gt;4&lt;/sub&gt;&lt;/em&gt;, and &lt;em&gt;p&lt;sub&gt;5&lt;/sub&gt;&lt;/em&gt;.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;6&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry is suggesting to Hermione that
+they burst into Hagrid&amp;rsquo;s cabin and grab Scabbers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;7&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry casts his Patronus for the first time,
+driving away the Dementors from across the lake.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;p&lt;sub&gt;8&lt;/sub&gt;&lt;/em&gt;&lt;/strong&gt; is when Harry runs with Hermione to the door of the
+hospital wing after helping Sirius escape on Buckbeak:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I am going to lock you in,&amp;rdquo; they heard [Dumbledore] saying. &amp;ldquo;It
+is five minutes to midnight. Miss Granger, three turns should do
+it. Good luck.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Dumbledore backed out of the room, closed the door and took out
+his wand to magically lock it. Panicking, Harry and Hermione ran
+forwards. Dumbledore looked up, and a wide smile appeared under
+the long silver moustache. &amp;ldquo;Well?&amp;rdquo; he said quietly.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;We did it!&amp;rdquo; said Harry breathlessly. &amp;ldquo;Sirius has gone, on
+Buckbeak &amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Dumbledore beamed at them.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Well done. I think&amp;mdash;&amp;rdquo; he listened intently for any sound within
+the hospital wing. &amp;ldquo;Yes, I think you&amp;rsquo;ve gone, too&amp;rdquo; (Chapter 22).&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you look at things exclusively from the perspective of external time,
+you&amp;rsquo;ll see that &lt;em&gt;e&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt; is simultaneous with &lt;em&gt;p&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt; and
+&lt;em&gt;p&lt;sub&gt;6&lt;/sub&gt;&lt;/em&gt;, and you&amp;rsquo;ll have a hard time seeing why it&amp;rsquo;s too late
+for Harry to burst into Hagrid&amp;rsquo;s cabin and grab Scabbers.  But what
+I&amp;rsquo;ve tried to show is that the perspective of external time is &lt;em&gt;just a
+perspective,&lt;/em&gt; and that it&amp;rsquo;s not the only way to look at time.  When
+you look at things from the perspective of Harry&amp;rsquo;s personal time,
+&lt;em&gt;p&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;p&lt;sub&gt;6&lt;/sub&gt;&lt;/em&gt; are &lt;em&gt;not&lt;/em&gt; simultaneous.  When Harry
+is standing outside Hagrid&amp;rsquo;s cabin at &lt;em&gt;p&lt;sub&gt;6&lt;/sub&gt;,&lt;/em&gt; &lt;em&gt;p&lt;sub&gt;1&lt;/sub&gt;&lt;/em&gt;
+is long past, and so is his opportunity to seize Scabbers.&lt;/p&gt;
+
+&lt;p&gt;By appreciating both the external and personal perspectives on time,
+we can see more clearly how parts of Harry&amp;rsquo;s &lt;em&gt;future&lt;/em&gt; are fixed, as
+well as his past. At &lt;em&gt;p&lt;sub&gt;2&lt;/sub&gt;,&lt;/em&gt; Harry is collapsing at the edge
+of the lake, but he sees his future self, standing on the other side
+of the lake &lt;em&gt;p&lt;sub&gt;7&lt;/sub&gt;.&lt;/em&gt; He&amp;rsquo;s able to see into his personal future
+because &lt;em&gt;p&lt;sub&gt;2&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;p&lt;sub&gt;7&lt;/sub&gt;&lt;/em&gt; are &lt;em&gt;externally&lt;/em&gt;
+simultaneous. But the fact that he can see his future means that it&amp;rsquo;s
+predetermined. If his future self had walked around the lake and
+revived him using &lt;em&gt;Rennervate,&lt;/em&gt; Harry could have told himself, in
+perfect detail, everything that he would do in his next three
+hours. And there would be nothing Harry &lt;em&gt;could&lt;/em&gt; do but walk that path.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;This is all a bit mind-bending, but the upshot is that when Harry
-goes back in time three hours, everything that happens during those
-three hours is fixed.  Harry already (in personal time) &lt;em&gt;lived&lt;/em&gt; those
-three hours, and he can&amp;rsquo;t change that.  He can go back and &lt;em&gt;relive&lt;/em&gt;
-those three hours&amp;mdash;which he does&amp;mdash;but he can&amp;rsquo;t undo what he did the
-first time around.  Once you&amp;rsquo;ve lived through a period of time, it&amp;rsquo;s
-fixed, and going back in time doesn&amp;rsquo;t change that:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://baruffio.com/img/time-split.png&#34; alt=&#34;External time is a horizontal teal line; personal time is a red line curving back to represent backward time travel; the period of time between the beginning of the backwards journey in time and its end is fixed.&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;These periods are fixed for &lt;em&gt;all&lt;/em&gt; of us, not just the time-travelers:
-since Harry&amp;rsquo;s future includes his casting the Patronus Charm from
-across the lake, nobody else can &lt;em&gt;possibly&lt;/em&gt; do anything that would
-prevent him.&lt;/p&gt;
+&lt;p&gt;This is all a bit mind-bending, but the upshot is that when Harry goes
+back in time three hours, everything that happens during those three
+hours is fixed.  Harry already (in personal time) &lt;em&gt;lived&lt;/em&gt; those three
+hours, and he can&amp;rsquo;t change that.  He can go back and &lt;em&gt;relive&lt;/em&gt; those
+three hours&amp;mdash;which he does&amp;mdash;but he can&amp;rsquo;t undo what he did the first
+time around.  Once you&amp;rsquo;ve lived through a period of time, it&amp;rsquo;s fixed;
+going back in time doesn&amp;rsquo;t change that.  And it&amp;rsquo;s fixed for &lt;em&gt;all&lt;/em&gt; of
+us, not just the time-travelers: since Harry&amp;rsquo;s future includes his
+casting the Patronus Charm from across the lake, nobody else can
+&lt;em&gt;possibly&lt;/em&gt; do anything that would prevent him.&lt;/p&gt;
 
 &lt;p&gt;This might seem alarming and implausible, but think about it: how
 could Professor Trelawney make &lt;em&gt;any&lt;/em&gt; correct predictions otherwise?&lt;/p&gt;
