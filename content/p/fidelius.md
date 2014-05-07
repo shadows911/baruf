@@ -6,5 +6,5 @@
         "spells"
 		],
 	"description": "WHAT THE HEY MAN",
-    "draft": "true"
+    "draft": true
 }
