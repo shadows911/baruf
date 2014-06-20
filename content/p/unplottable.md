@@ -1,5 +1,5 @@
 {
-	"title": "There are ways to stop even a Hufflepuff from finding"
+	"title": "There are ways to stop even a Hufflepuff from finding",
 	"a": ["Alex Dunn"],
 	"date": "2013-11-21 14:00:00-07:00",
 	"t": [

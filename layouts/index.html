@@ -25,7 +25,7 @@
 </div>
 
 <section id="content-start" class="primary index">
-{{ range first 5 .Site.Recent }}
+{{ range .Data.Pages }}
 	{{ .Render "summary" }}
 {{ end }}
 </section>

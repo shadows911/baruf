@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Honk on Baruffio: a blog about Harry Potter — baruffio.com </title>
+    <link>http://localhost:1313/t/honk/index.xml</link>
+    <language>en-us</language>
+    <author>A Witch or Wizard</author>
+    <rights>Copyright the respective author(s); all rights reserved.</rights>
+    <updated>2013-04-26 00:00:00 -0700 PDT</updated>
+    
+    <item>
+      <title>What the hell is going on with the Fidelius Charm?</title>
+      <link>http://localhost:1313/p/fidelius</link>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 PDT</pubDate>
+      <author>[Alex Dunn]</author>
+      <guid>http://localhost:1313/p/fidelius</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;one problem&lt;/h1&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;honk&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &lt;em&gt;&amp;lsquo;honk&amp;rsquo;&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &lt;em&gt;&amp;lsquo;honk&amp;rsquo;&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &lt;em&gt;&amp;lsquo;honk&amp;rsquo;&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &lt;em&gt;&amp;lsquo;honk&amp;rsquo;&lt;/em&gt;&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;(&amp;rdquo;&lt;em&gt;honk&lt;/em&gt; honk &amp;lsquo;honk&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_1&#34;&gt;another problem&lt;/h1&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;honk&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;honk&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;.&amp;ldquo;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;honk.&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;&amp;rsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;.&amp;lsquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;honk honk &amp;lsquo;&lt;em&gt;honk&lt;/em&gt;.&amp;lsquo;&amp;ldquo;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

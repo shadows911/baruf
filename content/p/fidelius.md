@@ -3,8 +3,54 @@
 	"a": ["Alex Dunn"],
 	"date": "2013-04-26 00:00:00-07:00",
 	"t": [
-        "spells"
+        "honk"
 		],
-	"description": "WHAT THE HEY MAN",
+	"description": "HONK HONK",
     "draft": true
 }
+
+# one problem
+
+"honk honk 'honk'"
+
+***
+
+"honk honk '*honk*'"
+
+"honk honk '*honk*'"
+
+***
+
+"honk honk *'honk'*"
+
+"honk honk *'honk'*"
+
+***
+
+"honk honk *'honk'*"
+
+"honk honk *'honk'*")
+
+("*honk* honk 'honk'"
+
+# another problem
+
+"honk honk 'honk'"
+
+"honk honk 'honk'."
+
+"honk honk '*honk*'"
+
+"honk honk '*honk*'."
+
+"honk honk '*honk*'.")
+
+***
+
+"honk honk 'honk.'"
+
+"honk honk '*honk*'"
+
+"honk honk '*honk*.'"
+
+"honk honk '*honk*.'")

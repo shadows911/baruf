@@ -1,17 +1,19 @@
 ---
 title: "The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names"
 a: ["Alex Dunn"]
-date: "2014-04-07 23:00:00-07:00"
+date: "2014-06-19 20:00:00-07:00"
 t: ["philosophy", "maps"]
-draft: true
+description: "Snape was wrong when he suggested that the Marauder&#8217;s Map is &#8220;plainly full of Dark Magic,&#8221; but it really is a remarkably powerful artifact and it's not at all obvious how it works."
 ---
 
 Snape was wrong when he suggested that the Marauder's Map is "plainly
-full of Dark Magic," but it is a remarkably powerful artifact and it's
-not at all obvious how it works.  How does it know your name, in order
-to label your dot as it tracks you throughout the castle?  In order to
-answer that question, we're going to have to start from the beginning,
-and figure out what *names* even are, and how *they* work.  *Sonorous!*
+full of Dark Magic," but it really is a remarkably powerful artifact
+and it's not at all obvious how it works.  How does it know your name,
+in order to label your dot as it tracks you throughout the castle?  To
+figure that out, we're going to have to start from the beginning, and
+figure out what names even *are*, and how *they* work.
+
+*Sonorous!*
 
 <!--more-->
 
@@ -24,7 +26,7 @@ and figure out what *names* even are, and how *they* work.  *Sonorous!*
 >  left corner showed that Professor Dumbledore was pacing his study;
 >  the caretaker's cat, Mrs Norris, was prowling the second floor, and
 >  Peeves the poltergeist was currently bouncing around the trophy
->  room (*PoA,* chapter 10).
+>  room (*PoA*, Chapter 10).
 
 The idea here is pretty straightforward: the Marauder's Map is a map
 of Hogwarts that also reveals the location of everyone inside the
@@ -43,14 +45,14 @@ question might seem silly, but there is actually a great deal of
 controversy over the correct answer:
 
 - What's the relationship between someone---like Harry Potter---and
-  their name---"Harry Potter"?  (Or their *names,* if, like Alastor
+  their name---"Harry Potter"?  (Or their *names*, if, like Alastor
   Moody, they sometimes go by a different name.)
 
 I think we should start by making an assumption that's common among
-philosophers of language, which is that names *designate.* In other
+philosophers of language, which is that names *designate*. In other
 words, names (at least most of them) stand in a particular relation to
 things in the world.  It's because of this designation relation that
-names *hook onto the world.*
+names *hook onto the world*.
 
 This might seem like an obvious assumption, but not everyone agrees.
 Before moving on, let's discuss an objection to this assumption, and
@@ -72,9 +74,9 @@ work:
 > [in *Philosophical Investigations*]: A builder and his assistant
 > have just four kinds of building stones that they use. They speak a
 > little primitive language that has just four corresponding words in
-> it: "block," "pillar," "slab," and "beam." They build things,
+> it: "block", "pillar", "slab", and "beam". They build things,
 > engaging in their nonlinguistic activities aided by a certain
-> primitive sort of linguistic activity: the builder says "slab," and
+> primitive sort of linguistic activity: the builder says "slab", and
 > the assistant brings a stone of the appropriate shape. Now, someone
 > might say, "Of course, that word 'slab' bears the [designation]
 > relation to a block of this shape, and its meaning is the
@@ -90,14 +92,14 @@ work:
 > primary point is to initiate action, not to [designate].
 
 The idea here, roughly, is that names, and words in general, are less
-like *tags* and more like *hammers.* Instead of asking what a name is
-*attached to,* we should ask what a name is *used for.* In
-Wittgenstein's example, the words "block," "pillar," "slab," and
+like *tags* and more like *hammers*. Instead of asking what a name is
+*attached to*, we should ask what a name is *used for*. In
+Wittgenstein's example, the words "block", "pillar", "slab", and
 "beam" are used to make the assistant retrieve certain building
 materials.
 
 According to this sort of theory, words in general work a lot like
-spell-words do.  Here's an example from *Chamber of Secrets,* right
+spell-words do.  Here's an example from *Chamber of Secrets*, right
 after Gilderoy Lockhart admits that he didn't do any of the brave
 things he claimed to do in his books:
 
@@ -108,10 +110,10 @@ things he claimed to do in his books:
 > never sell another book ..."
 >
 > Harry reached his wand just in time. Lockhart had barely raised his,
-> when Harry bellowed, "*Expelliarmus!*" (*CoS,* chapter 16)
+> when Harry bellowed, "*Expelliarmus!*" (*CoS*, Chapter 16)
 
 It doesn't seem to make much sense to ask what "Expelliarmus"
-designated there.  It didn't designate *anything.*  It was *used* by
+designated there.  It didn't designate *anything*.  It was *used* by
 Harry to disarm Lockhart.
 
 ### Problems with the words-as-tools theory
@@ -121,12 +123,12 @@ problems. Here's one:
 
 Look again at how we talked about the "Expelliarmus" case: we said
 that "it doesn't seem to make much sense to ask what 'Expelliarmus'
-designated *there.*"  It *doesn't* seem to make much sense to ask what
-"Expelliarmus" designated *in that context,* but it *does* make sense
-to ask what "Expelliarmus" designates *in general.*
+designated *there*."  It *doesn't* seem to make much sense to ask what
+"Expelliarmus" designated *in that context*, but it *does* make sense
+to ask what "Expelliarmus" designates *in general*.
 
-In general, "Expelliarmus" designates *Expelliarmus.* "Expelliarmus"
-is the name of a spell.  When we use the word "Expelliarmus," we're
+In general, "Expelliarmus" designates *Expelliarmus*. "Expelliarmus"
+is the name of a spell.  When we use the word "Expelliarmus", we're
 not always using it to cast a spell.  Sometimes we just want to talk
 about the spell, like Harry and Zacharias Smith do during the first
 meeting of Dumbledore's Army:
@@ -141,11 +143,11 @@ meeting of Dumbledore's Army:
 > against You-Know-Who, do you?"
 >
 > "I've used it against him," said Harry quietly. "It saved my life in
-> June" (*OotP,* chapter 18).
+> June" (*OotP*, Chapter 18).
 
 I think the right conclusion to draw here is that, while
-"Expelliarmus" designates *Expelliarmus,* we don't always *use*
-"Expelliarmus" to talk about *Expelliarmus.*  Sometimes, as we've
+"Expelliarmus" designates *Expelliarmus*, we don't always *use*
+"Expelliarmus" to talk about *Expelliarmus*.  Sometimes, as we've
 seen, we use it to cast the spell.  Just because a word designates a
 certain thing doesn't mean that we can't use it to do things other
 than talk about what it designates.  Malfoy does just this in
@@ -158,16 +160,16 @@ I'm not sure what "Potty" designates, but it's not Harry.  And "the
 Weasel" doesn't designate Ron---many philosophers of language think
 that the determiner "the" means that "the Weasel" can only designate
 the *unique* Weasel, and so doesn't designate anything in a world with
-many weasels, such the world of *Harry Potter.* But Malfoy is
+many weasels, such the world of *Harry Potter*. But Malfoy is
 nonetheless using "Potty" to talk about Harry and using "the Weasel"
 to talk about Ron.  Let's introduce another bit of technical language
 and say that while "Potty" does not *designate* Harry, Malfoy is using
 it, in this context, to *refer* to Harry.
 
-Context is important for *referring,* but not for *designating.*  If
+Context is important for *referring*, but not for *designating*.  If
 "Harry Potter" designates Harry Potter, it does so all the time, and
 whether or not anyone is using the name.  But Malfoy has to be in the
-right sort of situation in order to *refer* to Harry using "Potty."
+right sort of situation in order to *refer* to Harry using "Potty".
 Basically, he has to be in a situation where the people he's talking
 to realize he's using "Potty" as if it was a name for Harry.  This is
 how Kent Bach describes it on page 518 of "What Does it Take to
@@ -188,7 +190,11 @@ while it might be true for some words and maybe even some phrases,
 it's not *generally* true; some words and phrases might be tools, but
 some aren't.  We're interested in names right now, and names seem the
 *least* like tools; they really do seem more like labels or tags.
-Another objection to word-as-tools is that even if I understand the
+(And this objection could be pushed a little further: aren't tags
+ultimately a *sort of tool?*  Even if all words *are* tools, does that
+really rule out words that are meant to be used as tags?)
+
+Another objection to words-as-tools is that even if I understand the
 conventional ways to use English words, that's not all there is to
 *understanding* English.  This is one of William Lycan's objections,
 from page 81 of *Philosophy of Language:*
@@ -199,10 +205,10 @@ from page 81 of *Philosophy of Language:*
 > another and slinging it around with great facility, but without
 > understanding.
 
-(A similar example is in *Goblet of Fire,* when Harry and Ron simply
-make up predictions about what will happen to them in the coming
-month, but aren't caught by Professor Trelawny because what they write
-sounds like what she expects to hear.)
+(A similar example is in *Goblet of Fire*, when Harry and Ron make up
+predictions about what will happen to them instead of really doing
+Divination, but aren't caught by Professor Trelawny because they write
+the sort of stuff she expects to hear.)
 
 We could program a computer (or enchant a hat) to reply to English
 sentences with other English sentences; it might be well-designed
@@ -210,11 +216,11 @@ enough to give replies that a fluent English speaker would give.  But
 if the computer's replies were chosen by making statistical
 generalizations from a database of recorded conversations, we would
 probably say that the computer doesn't actually *understand* English.
-It can use English words, but it doesn't know what they *mean.*
+It *can* use English words, but it doesn't know what they *mean*.
 
 There's more that could be said on both sides, but let's put away the
 words-as-tools theory, and accept for the time being that names really
-do designate things.  Now let's talk about *meaning.*
+do designate things.  Now let's talk about *meaning*.
 
 ## The meaning of names
 
@@ -233,44 +239,44 @@ understood death."  But it's not nearly as obvious what the meaning of
 
 We're going to look at three different theories of names, which each
 provide a different answer to the question, "what is the meaning of
-'Harry Potter'?"  The first theory is **Descriptivism,** the second is
-**Millianism,** and the third is **Nominal Descriptivism.** I think
+'Harry Potter'?"  The first theory is **Descriptivism**, the second is
+**Millianism**, and the third is **Nominal Descriptivism**. I think
 Nominal Descriptivism is the correct theory, and I'll explain why, but
-there are many philosophers who disagree.
+keep in mind that there are many philosophers who disagree.
 
 ## Descriptivism
 
 As its name suggests, Descriptivism claims that the meaning of a name
-*describes* the person or object designated by that name.  According
-to this theory, names such as "Harry Potter" are a lot like general
-terms like "squib" and "thestral."  The meanings of those words also
-describe the things they designate.
+is a *description* of the person or object designated by that name.
+According to this theory, names such as "Harry Potter" are a lot like
+general terms like "squib" and "thestral".  The meanings of those
+words also describe the things they designate.
 
 But the meaning of "Harry Potter" can't be just any description that
 describes Harry Potter.  For example, the meaning of "Harry Potter"
-can't be "the boy who lived."  It's true that "the boy who lived" is
+can't be "the boy who lived".  It's true that "the boy who lived" is
 commonly used to *refer* to Harry Potter, and has become associated in
 the popular imagination with Harry Potter, but "the boy who lived"
 doesn't *uniquely* describe Harry.  Strictly speaking, any living boy
-is a boy who lived; Harry is not actually unique in that respect.  And
+is a boy who lived; Harry is not really unique in that respect.  And
 as I mentioned above, "the" implies uniqueness.  There are many maps,
 but only one Marauder's Map, so it is *the* Marauder's Map.  If there
 were multiple Marauder's Maps, then it would not be correct to use
-"the."  "The Marauder's Map" only designates the Marauder's Map while
+"the".  "The Marauder's Map" only designates the Marauder's Map while
 it is the unique---the only---Marauder's Map.
 
 For this reason, "the boy who lived" does not designate Harry, even
 though it is very often used to refer to him.  So if Descriptivism is
-true, then the meaning of "Harry Potter" is something other than "the
-boy who lived."  It will be something that does uniquely describe
-Harry, something like "the wizard born to James and Lily Potter on 31
-July 1980, who survived a Killing Curse cast by Voldemort on
-Hallowe'en in 1981."  *That* describes nobody else.
+true, then the meaning of "Harry Potter" has to be something other
+than "the boy who lived".  It has to be something that uniquely
+describes Harry, something like "the wizard born to James and Lily
+Potter on 31 July 1980, who survived a Killing Curse cast by Voldemort
+on Hallowe'en in 1981".  *That* describes nobody else.
 
 According to Descriptivism, "Harry Potter" is really nothing more than
 an *abbreviation* of "the wizard born to James and Lily Potter on 31
 July 1980, who survived a Killing Curse cast by Voldemort on
-Hallowe'en in 1981."  The only difference between the following two
+Hallowe'en in 1981".  The only difference between the following two
 sentences is their length:
 
 -   The wizard born to James and Lily Potter on 31 July 1980, who
@@ -282,9 +288,9 @@ sentences is their length:
     Drive, Little Whinging, Surrey.
 
 If Descriptivism is correct, then we use "Harry Potter" instead of
-"the wizard born to James and Lily Potter on 31 July 1980, who survived
-a Killing Curse cast by Voldemort on Hallowe'en in 1981" essentially
-because it's more convenient; but the meaning is the same.
+"the wizard born to James and Lily Potter on 31 July 1980, who
+survived a Killing Curse cast by Voldemort on Hallowe'en in 1981" only
+because it's more convenient; the meaning is the same.
 
 ### How would the Map work in a Descriptivist world?
 
@@ -306,10 +312,10 @@ it's hard to see how the Map could match up people with their names.
 It would have to be able to deduce a person's name just from "looking"
 at them; and I'm not sure if that can be done.
 
-But why should we be allowed to assume that the Map already has access
-to the names of everyone in the castle?  I think we're allowed to, for
-the following reason: Hogwarts is protected from intruders by a number
-of enchantments.  One of these enchantments might well be an
+But why are we allowed to assume that the Map already has access to
+the names of everyone in the castle?  I think we're allowed to do so
+for the following reason: Hogwarts is protected from intruders by a
+number of enchantments.  One of these enchantments might well be an
 enchantment that prevents unauthorized people from entering the
 castle.  At the beginning of the year, the Headmaster or Headmistress
 teaches Hogwarts the names of the new students, so that they may
@@ -322,14 +328,14 @@ enchantments.
 
 ****
 
-So: Hogwarts learns the name "Harry Potter," and therefore the
+So: Hogwarts learns the name "Harry Potter", and therefore the
 Marauder's Map does too.  How does the Map then take that name and
 figure out who it designates?
 
 If Descriptivism is true, then what the Map learns when it learns the
 name "Harry Potter" is that the meaning of "Harry Potter" is "the
 wizard born to James and Lily Potter on 31 July 1980, who survived a
-Killing Curse cast by Voldemort on Hallowe'en in 1981."  So in order
+Killing Curse cast by Voldemort on Hallowe'en in 1981".  So in order
 to label Harry Potter's dot on the Marauder's Map, the Map just needs
 to discover which of the people within Hogwarts is the wizard born to
 James and Lily Potter on 31 July 1980, who survived a Killing Curse
@@ -341,39 +347,53 @@ J.K. Rowling might have to tell us.  How the Map can reach back into
 the past and figure out with complete certainty which of these people
 *now* in the castle was *then* the wizard who survived a Killing Curse
 is a complicated question.  It's also a question that we're not going
-to try to answer.
+to try to answer.  We now know *what* the Map needs to do in order to
+label its dots, if Descriptivism is true.  *How* it does that is a
+question for another day.
 
-We know now *what* the Map needs to do in order to label its dots, if
-Descriptivism is true.  *How* it does that is a question for another
-day; and perhaps it's not even worth trying to answer this second
-question, because Descriptivism is probably not the correct theory
-anyway.
+And it might not even be worth trying to answer this second question,
+because Descriptivism is probably not the correct theory anyway.
 
 ### Problems with Descriptivism
 
 Descriptivism is intuitive and straightforward, but it has some big
-problems.  Here are three:
+problems.  Here are two:
 
-1.  In order to understand the meaning of "Harry Potter," I shouldn't
-    have to know anything about Voldemort, or even that there is
-    anyone named "Voldemort."  But Descriptivism insists that, since
-    "Harry Potter" is *synonymous* with "the wizard born to James and
-    Lily Potter on 31 July 1980, who survived a Killing Curse cast by
-    Voldemort on Hallowe'en in 1981," understanding the meaning of
-    "Harry Potter" involves being aware of the (former) existence of
-    not only Voldemort, but James and Lily as well.
-
-2.  If "Harry Potter" just means "the wizard born to James and Lily
+1.  If "Harry Potter" just means "the wizard born to James and Lily
     Potter on 31 July 1980, who survived a Killing Curse cast by
     Voldemort on Hallowe'en in 1981", than anyone who understands the
     name "Harry Potter" thereby *knows*---just on the basis of
     understanding the name!---that Harry Potter survived a Killing
-    Curse cast by Voldemort.  But surely this is not true; someone can
-    understand the name "Harry Potter" and *not* know that he survived
-    a Killing Curse, or even that his parents were named "James" and
-    "Lily."
+    Curse cast by Voldemort.  But surely this isn't right: we only
+    know that Harry survived Voldemort's Killing Curse because we have
+    historical evidence about what happened that Hallowe'en.  It's not
+    something we can learn simply by knowing what "Harry Potter"
+    means.  And if Harry's name alone told us that he was born on 31
+    July 1980, then this could not have happened in *The Goblet of
+    Fire*:
 
-3.  It seems perfectly true to say "It could have been that Harry
+    > Harry looked around; the whole class was staring at him. He sat
+    > up straight; he had been almost dozing off, lost in the heat and
+    > his thoughts.
+    >
+    > "I was saying, my dear, that you were clearly born under the
+    > baleful influence of Saturn," said Professor Trelawney, a faint
+    > note of resentment in her voice at the fact that he had
+    > obviously not been hanging on her words.
+    >
+    > "Born under---what, sorry?" said Harry.
+    >
+    > "Saturn, dear, the planet Saturn!" said Professor Trelawney,
+    > sounding definitely irritated that he wasn't riveted by this
+    > news. "I was saying that Saturn was surely in a position of
+    > power in the heavens at the moment of your birth ... your dark
+    > hair ... your mean stature ... tragic losses so young in life
+    > ... I think I am right in saying, my dear, that you were born in
+    > mid-winter?"
+    >
+    > "No," said Harry, "I was born in July" (Chapter 13).
+
+2.  It seems perfectly true to say "It could have been that Harry
     Potter did *not* survive that Killing Curse cast by Voldemort."
     If Lily hadn't died trying to save him, her love wouldn't have
     protected him from Voldemort's curse, and he would also have died.
@@ -399,13 +419,13 @@ theory of names.  So we should move on to examine Millianism.
 
 ## Millianism
 
-The three problems for Descriptivism that I listed above were
-originally presented by Saul Kripke in a series of lectures at
-Princeton in 1972.  Descriptivism was much more widely accepted then
-than it is now, and it was Kripke's lectures that caused philosophers
-to abandon Descriptivism and look for a better theory of names.  Many
-settled on Millianism, which is called that because it was inspired by
-the philosophy of John Stuart Mill.
+The two problems for Descriptivism that I listed above were originally
+presented by Saul Kripke in a series of lectures at Princeton in 1972.
+Descriptivism was much more widely accepted then than it is now, and
+it was Kripke's lectures that caused philosophers to abandon
+Descriptivism and look for a better theory of names.  Many settled on
+Millianism, which is called that because it was inspired by the
+philosophy of John Stuart Mill.
 
 According to Millianism, the meaning of a name *just is* the
 designation of the name.  The meaning of "Harry Potter" is nothing
@@ -420,19 +440,17 @@ just *is* Harry Potter.  The meaning of "Harry Potter" isn't something
 that describes or *picks out* that wizard; the meaning *is* that
 wizard.
 
-This theory does not face the three problems that face Descriptivism:
+This theory does not face the two problems that face Descriptivism:
 
-1.  Understand the meaning of "Harry Potter" does not require knowing
-    anything about Voldemort, if Millianism is true.  Understanding
-    "Harry Potter" just requires knowing who it designates.
-
-2.  Since "Harry Potter" does *not* mean "the wizard born to James and
+1.  If "Harry Potter" does *not* mean "the wizard born to James and
     Lily Potter on 31 July 1980, who survived a Killing Curse cast by
-    Voldemort on Hallowe'en in 1981", according to Millianism,
-    understanding the name "Harry Potter" not *not* involve knowing
-    that Harry Potter survived a Killing Curse cast by Voldemort.
+    Voldemort on Hallowe'en in 1981", then understanding the name
+    "Harry Potter" not *not* require knowing that Harry Potter
+    survived a Killing Curse cast by Voldemort, or knowing when Harry
+    was born.  Understanding the name just requires knowing who it
+    designates.
 
-3.  If Millianism is true, then the following are *not* equivalent:
+2.  If Millianism is true, then the following are *not* equivalent:
 
     - "It could have been that Harry Potter did *not* survive that
        Killing Curse cast by Voldemort."
@@ -455,8 +473,8 @@ true.
 If Millianism is true, what the Marauder's Map has to do in order to
 label its dots is actually very little.  Since the meaning of a name,
 according to Millianism, just is the thing designated by that name,
-when the Map learns the name "Harry Potter," what it learns is *who
-"Harry Potter" designates.*
+when the Map learns the name "Harry Potter", what it learns is *who
+"Harry Potter" designates*.
 
 So just learning "Harry Potter" gives the Map everything it needs to
 pinpoint and label Harry Potter.  Descriptivism gave the Map only a
@@ -471,12 +489,11 @@ attractive theory than you might think.
 ### Problems with Millianism
 
 1.  Plenty of people have multiple names.  Alastor Moody is more often
-    known as "Mad-Eye Moody."  If, like Millianism says, the meaning
+    known as "Mad-Eye Moody".  If, like Millianism says, the meaning
     of "Alastor Moody" and the meaning of "Mad-Eye Moody" are both
     just the ex-Auror, then they should be completely
-    *interchangeable.* If you understand one, you understand the
-    other.  The problem is that we often don't realize that two names
-    designate the same person:
+    *interchangeable*. But they're not, because we often don't realize
+    that two names designate the same person:
 
     > "There are those who'll turn innocent occasions to their
     > advantage," Moody retorted in a menacing voice. "It's my job to
@@ -485,20 +502,20 @@ attractive theory than you might think.
     >
     > "Alastor!" said Dumbledore warningly.  Harry wondered for a
     > moment whom he was speaking to, but then realised "Mad-Eye"
-    > could hardly be Moody's real first name (*GoF,* chapter 17).
+    > could hardly be Moody's real first name (*GoF*, Chapter 17).
 
     But if Millianism was true, then "Alastor Moody is Mad-Eye Moody"
-    is *obviously* true, because the two names are synonyms.  If
-    Millianism was true, then nobody would *ever* disagree with
+    is *obviously* true, because the two names are perfect synonyms.
+    If Millianism was true, then nobody would *ever* disagree with
     "Alastor Moody is the Defense Against the Dark Arts teacher at
     Hogwarts" while agreeing with "Mad-Eye Moody is the Defense
     Against the Dark Arts teacher at Hogwarts."  But before Harry's
     name came out of the Goblet of Fire, he would have done just that.
 
 2.  If the meaning of "Harry Potter" is just Harry Potter, then if Harry
-    Potter *doesn't exist,* the name is meaningless!  If the only
-    meaning it has is the person it designates, then if there is no
-    person there is no meaning.
+    Potter *doesn't exist*, the name is meaningless!  If the only
+    meaning it has is the person it designates, then there's no
+    meaning if there's no person.
 
     While Harry Potter is alive, while he *does* exist, "Harry Potter
     doesn't exist" is a perfectly meaningful sentence---except that
@@ -516,14 +533,14 @@ more candidate that is better than either Descriptivism or Millianism.
 
 The theory of Nominal Descriptivism was given that name by Kent Bach.
 The name makes perfect sense, because this is what the theory says:
-the meaning of any name *"N"* is "the thing designated by *'N.'*"
+the meaning of any name "*N*" is "the thing designated by '*N*'."
 (Since we've been talking about names of people, from now on we'll say
-"the *person* designated by *'N.'*")
+“the *person* designated by '*N*'.”)
 
 That's it!
 
 As an example, Nominal Descriptivism says that the meaning of "Harry
-Potter" is "the person designated by 'Harry Potter.'"  According to
+Potter" is "the person designated by 'Harry Potter'."  According to
 this theory, the following differ only in length:
 
 -   The person designated by "Harry Potter" lives in the cupboard under
@@ -537,32 +554,24 @@ Descriptivism and Millianism.
 
 ### How Nominal Descriptivism avoids the Descriptivist problems
 
-1.  Descriptivism required too much.  It said that understanding
-    "Harry Potter" requires knowing not only specific details about
-    Harry's history but also that there's someone named "Voldemort."
-    According to Nominal Descriptivism, to understand what "Harry
-    Potter" means, I don't have to know any specific details about
-    Harry Potter or Voldemort or anyone else---all I have to know is
-    that it designates whoever it designates!
-
-2.  Descriptivism had the bizarre consequence that it's *true by
+1.  Descriptivism had the bizarre consequence that it's *true by
     definition* that Harry Potter survived a Killing Curse.  This
     meant that anyone who understands the name "Harry Potter" thereby
     knows that Harry survived a Killing Curse, just like anyone who
     understands the word "squib" knows that squibs don't have magical
     power.  All *Nominal Descriptivism* says is that anyone who
     understands "Harry Potter" thereby knows that Harry Potter is
-    designated by "Harry Potter."  That's not a bizarre consequence at
+    designated by "Harry Potter".  That's not a bizarre consequence at
     all.
 
-3.  Descriptivism was forced to deny that Harry Potter might not have
-    survived that Killing Curse cast by Voldemort, because part of the
+2.  Descriptivism was forced to deny that Harry Potter might not have
+    survived the Killing Curse cast by Voldemort, because part of the
     *meaning* of "Harry Potter" was "the wizard who survived a Killing
-    Curse cast by Voldemort."  As it turns out, Nominal Descriptivism
+    Curse cast by Voldemort".  As it turns out, Nominal Descriptivism
     denies this too, but for a very different reason.
 
     Nominal Descriptivism says that the meaning of "Harry Potter" is
-    "the person designated by 'Harry Potter.'"  That is a *definite*
+    "the person designated by 'Harry Potter'."  That is a *definite*
     description, and we saw above that definite descriptions---like
     "the wizard born to James and Lily Potter on 31 July 1980, who
     survived a Killing Curse cast by Voldemort on Hallowe'en in
@@ -570,9 +579,9 @@ Descriptivism and Millianism.
     that the sentence "the person designated by 'Harry Potter' lives
     in the cupboard under the stairs of 4 Privet Drive, Little
     Whinging, Surrey" is only true, strictly speaking, if there is
-    only *one* person designated by "Harry Potter."  If there is more
-    than one person in the world named "Harry Potter," then it's
-    technically false that the person designated by 'Harry Potter'
+    just *one* person designated by "Harry Potter".  If there is more
+    than one person in the world named "Harry Potter", then it's not
+    *actually* true that *the* person designated by 'Harry Potter'
     lives in the cupboard under the stairs of 4 Privet Drive, Little
     Whinging, Surrey.  And if Nominal Descriptivism is true, then it's
     likewise *false* that Harry Potter lives in the cupboard under the
@@ -580,36 +589,37 @@ Descriptivism and Millianism.
 
     Indeed, pretty much everything said using the name "Harry Potter"
     will be literally false if there is more than one person named
-    "Harry Potter."  But this is not as bad as it seems.  A lot of
+    "Harry Potter".  But this is not as bad as it seems!  A lot of
     what we say is literally false, even though we don't realize it:
     suppose there's a party in Gryffindor Tower and Fred says "there's
-    no butterbeer".  He's actually saying something false because he's
-    denying that there is butterbeer, *period.* And surely there's
+    no butterbeer."  He's actually saying something false because he's
+    denying that there's butterbeer, *period*.  And surely there's
     butterbeer *somewhere;* in the Hogwarts kitchens, in the Three
     Broomsticks, and so on.  But *what Fred meant* is that there's no
     butterbeer in Gryffindor Tower.  For the same reason, if Harry
-    says "I'm Harry Potter", he's technically uttering a falsehood,
+    says "I'm Harry Potter," he's technically uttering a falsehood,
     but as long as the people he's talking to understand that he's
-    referring them to himself (remember that reference is a four-place
-    relation between a speaker, audience, name and object), his
-    meaning is understood.
+    referring them to himself (remember that *reference* is a
+    four-place relation between a speaker, audience, name and object),
+    everyone knows what he means.
 
-    With all this in mind, "Harry Potter might not have survived that
-    Killing Curse cast by Voldemort" is literally false, because there
+    It's for this reason that "Harry Potter might not have survived
+    that Killing Curse cast by Voldemort" is literally false; there
     are almost certainly multiple people named "Harry Potter".  But
     depending on who the speaker intends to *refer* to when they say
     that Harry Potter might not have survived that Killing Curse cast
-    by Voldemort, what they *meant* ("*he* might not have survived")
+    by Voldemort, what they *meant* (“*he* might not have survived”)
     may be true or false.
 
     (If you still think that this is a big problem for Nominal
-    Descriptivism, keep in mind that we never discussed how
+    Descriptivism, keep in mind that we never discussed how regular
     Descriptivism and Millianism deal with multiple people sharing a
-    name.  If there is another Harry Potter---a Muggle, say---then
-    "Harry Potter" can't just mean "the wizard born to ..." or just
-    Harry Potter the wizard, because what about the other Harry
-    Potter(s)?  These theories would have to be tweaked to cope with
-    this complication, and these tweaks may end up being just as
+    name.  If there is even one other Harry Potter, then "Harry
+    Potter" can't just mean "the wizard born to ..." (like
+    Descriptivism says), and it can't mean *that* Harry Potter (like
+    Millianism says), because what about the other Harry Potter(s)?
+    These theories would have to be tweaked to cope with this
+    complication, and those tweaks may end up being just as
     unintuitive.)
 
 ### How Nominal Descriptivism avoids the Millian problems
@@ -620,21 +630,21 @@ Descriptivism and Millianism.
     interchangeable everywhere.  But if Nominal Descriptivism is
     correct, then "Mad-Eye Moody" means "the person designated by
     'Mad-Eye Moody'" and "Alastor Moody" means "the person designated
-    by 'Alastor Moody.'"  Now the names are no longer synonymous, and
+    by 'Alastor Moody'."  Now the names are no longer synonymous, and
     there is no mystery as to how Harry could fail to realize that
     Mad-Eye Moody is Alastor Moody.
 
 2.  Millianism also seemed unable to make sense of statements like
     "Harry Potter does not exist."  Nominal Descriptivism has no
     problem with these *negative existentials:* if Harry Potter means
-    "the person designated by 'Harry Potter,'" then everything becomes
+    "the person designated by 'Harry Potter'," then everything becomes
     clear: we are just denying that anyone is designated by "Harry
     Potter".
 
 ### How does the Map work in a Nominal Descriptivist world?
 
 This will be a bit complicated.  Remember that in a (regular)
-Descriptivist world, when the map learns "Harry Potter," it learns
+Descriptivist world, when the map learns "Harry Potter", it learns
 that Harry Potter is the wizard, whoever it is, who was born to James
 and Lily Potter on 31 July 1980, and who survived a Killing Curse cast
 by Voldemort on Hallowe'en in 1981.  In a Millian world, the Map
@@ -649,24 +659,24 @@ will have to look elsewhere for information about who's designated by
 what names.
 
 Where will we look next?  We've been trying to figure out a *semantic*
-fact: what individual(s) are designated by "Harry Potter."  Previously
+fact: what individual(s) are designated by "Harry Potter".  Previously
 we were able to figure this out using another semantic fact---the
-meaning of "Harry Potter."  But now that semantic fact has failed us.
+meaning of "Harry Potter".  But now that semantic fact has failed us.
 So we will have to look at *metasemantic* facts: in particular, the
 facts about *why* "Harry Potter" designates the individuals it does.
-How did it come to be that Harry Potter ("the" Harry Potter, the
+How did it come to be that Harry Potter (*that* Harry Potter; the
 wizard, the hero of our stories) came to be designated by "Harry
 Potter"?  How did he get his name?
 
 #### Semantic and metasemantic facts
 
 I mentioned above that Saul Kripke argued against Descriptivism in a
-series of lectures, later published as *Naming and Necessity.* An
-important feature of his arguments is that while he insists that the
+series of lectures, later published as *Naming and Necessity*. An
+important feature of his argument is that while he insists that the
 meaning of a proper name like "Harry Potter" cannot be some definite
 description like "the wizard who was born to James and Lily Potter on
 31 July 1980 and survived a Killing Curse cast by Voldemort on
-Hallowe'en in 1981," he admits (on pages 57--58) that a description
+Hallowe'en in 1981", he admits (on pages 57--58) that a description
 like that *may* be used to *fix the designation* of "Harry Potter":
 
 > It seems plausible to suppose that, in some cases, the [designation]
@@ -690,14 +700,14 @@ different ways she could do it:
   description).
 
 - She can point at the baby and say "let *that* child be named 'Harry
-  Potter.'"
+  Potter'."
 
 The important point here is that when Lily says these things, she is
-fixing the designation of "Harry Potter," but she is *not* giving a
-*definition* of "Harry Potter."  We've already seen why "Harry Potter"
+fixing the designation of "Harry Potter", but she is *not* giving a
+*definition* of "Harry Potter".  We've already seen why "Harry Potter"
 cannot be defined as meaning "the wizard who was born to James and
 Lily Potter on 31 July 1980 and survived a Killing Curse cast by
-Voldemort on Hallowe'en in 1981," or as meaning the person himself.
+Voldemort on Hallowe'en in 1981", or as meaning the person himself.
 
 The fact that Lily fixed the designation of "Harry Potter" by, let's
 say, pointing and saying "that child shall be 'Harry Potter'" is
@@ -707,29 +717,31 @@ expressed as "'Harry Potter' designates the so-and-so."  It's a
 *metasemantic* fact that tells us *about* the semantic facts.  Knowing
 this metasemantic fact, we can then use it to figure out the semantic
 fact that "Harry Potter" designates the baby that Lily Potter pointed
-at when she said "that child shall be 'Harry Potter.'"  It's this
-semantic fact that the Map needs to know, in order to label Harry when
-he arrives at Hogwarts.
+at when she said "that child shall be 'Harry Potter'."  It's this
+semantic question---who is designated by "Harry Potter"?---that the
+Map needs to answer, in order to label Harry when he arrives at
+Hogwarts.  But it won't be able to answer that question without first
+learning some metasemantic facts about how Harry got his name.
 
 ****
 
 We face again the question of how the Map reaches back into the past.
 How can it know for certain when and how a person was named, so that
-it can learn what name they were given?  This is, again, a question
-for another day.  We know what the Map needs to know.  I will not here
-attempt to answer how it might know it.
+it can learn what name they were given?  I'm afraid this is a question
+for another day.  We now know *what* the Map needs to know.  I won't
+here try to answer *how* it might come to know it.
 
 ## Further reading
 
 - Bach,
-  Kent (2002). ["Giorgione was so-called because of his name,"](http://userwww.sfsu.edu/kbach/Bach.Giorgione.pdf
-  "PDF") *Philosophical Perspectives* volume 16, pages 73--103.
+  Kent (2002). ["Giorgione was so-called because of his name"](http://userwww.sfsu.edu/kbach/Bach.Giorgione.pdf
+  "PDF"), *Philosophical Perspectives* volume 16, pages 73--103.
 
 - Hinchliff, Mark (2012). "Has the theory of reference rested on a mistake?"
-  in *Reference and Referring,* edited by William Kabasenche, Michael
+  in *Reference and Referring*, edited by William Kabasenche, Michael
   O'Rourke, and Matthew Slater, MIT Press.
 
-- Kripke, Saul (1980). *Naming and Necessity,* Harvard University Press.
+- Kripke, Saul (1980). *Naming and Necessity*, Harvard University Press.
 
 - Lycan, William (2008). *Philosophy of Language: A Contemporary
-  Introduction,* Routledge.
+  Introduction*, Routledge.
