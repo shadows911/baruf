@@ -1,13 +1,15 @@
-{
-	"title": "The complete guide to wand ownership in <em>Harry Potter</em>",
-	"a": ["Alex Dunn"],
-	"date": "2013-03-14 08:00:00-07:00",
-	"t": [
-		"wands",
-        "spells"
-		],
-	"description": "To figure out whose wand is whose and what really happened, let's catalog every instance of disarming ever!"
-}
+---
+title: The complete guide to wand ownership in <em>Harry Potter</em>
+a:
+- Alex Dunn
+date: '2013-03-14 08:00:00-07:00'
+t:
+- wands
+- spells
+description: To figure out whose wand is whose and what really happened, let's catalog
+  every instance of disarming ever! 
+---
+
 
 Until *Deathly Hallows*, we all thought *Expelliarmus* was just a
 nifty spell that causes people to drop their wands and sometimes

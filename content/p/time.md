@@ -1,13 +1,16 @@
-{
-	"title": "&#8220;It is too late, you understand me?&#8221;: Time travel in <em>Harry Potter</em>",
-	"a": ["Alex Dunn"],
-	"date": "2014-05-06 21:00:00-07:00",
-	"t": [
-        "time",
-        "philosophy"
-		],
-	"description": "Time travel in <em>Prisoner of Azkaban</em> is a model of consistency, illustrating wonderfully how time travel works&#8212;if it&#8217;s possible at all."
-}
+---
+title: "&#8220;It is too late, you understand me?&#8221;: Time travel in <em>Harry
+  Potter</em>"
+a:
+- Alex Dunn
+date: '2014-05-06 21:00:00-07:00'
+t:
+- time
+- philosophy
+description: Time travel in <em>Prisoner of Azkaban</em> is a model of consistency,
+  illustrating wonderfully how time travel works&#8212;if it&#8217;s possible at all. 
+---
+
 
 Here at *Baruffio* we sometimes cast a critical eye on *Harry Potter,*
 and amuse ourselves by pointing out inconsistencies in the books (then

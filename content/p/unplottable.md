@@ -1,14 +1,17 @@
-{
-	"title": "There are ways to stop even a Hufflepuff from finding",
-	"a": ["Alex Dunn"],
-	"date": "2013-11-21 14:00:00-07:00",
-	"t": [
-		"hogwarts",
-		"maps",
-        "spells"
-		],
-	"description": "Unplottability works not by saying anything about what I can or can&#8217;t draw on a map, or by preventing maps from transmitting information, but rather by preventing us from <em>inferring</em> the location of an Unplottable place."
-}
+---
+title: There are ways to stop even a Hufflepuff from finding
+a:
+- Alex Dunn
+date: '2013-11-21 14:00:00-07:00'
+t:
+- hogwarts
+- maps
+- spells
+description: Unplottability works not by saying anything about what I can or can&#8217;t
+  draw on a map, or by preventing maps from transmitting information, but rather by
+  preventing us from <em>inferring</em> the location of an Unplottable place. 
+---
+
 
 In *Harry Potter*, places like Hogwarts are hidden from unwelcome eyes
 with a number of protective enchantments.  One of these enchantments

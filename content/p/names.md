@@ -1,8 +1,11 @@
 ---
 title: "The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names"
-a: ["Alex Dunn"]
-date: "2014-06-19 20:00:00-07:00"
-t: ["philosophy", "maps"]
+a: 
+- Alex Dunn
+date: 2014-06-19 20:00:00-07:00
+t:
+- philosophy
+- maps
 description: "Snape was wrong when he suggested that the Marauder&#8217;s Map is &#8220;plainly full of Dark Magic,&#8221; but it really is a remarkably powerful artifact and it's not at all obvious how it works."
 ---
 

@@ -1,15 +1,18 @@
-{
-	"title": "There&#8217;s no such thing as the Trace",
-	"a": ["Alex Dunn"],
-	"date": "2013-05-15 12:00:00-07:00",
-	"t": [
-        "conspiracies",
-		"harry",
-		"figg",
-        "spells"
-		],
-	"description": "Much has been made about &#8220;the Trace&#8221;, the charm on underage witches and wizards that is used by the Ministry to detect illegal spellwork.  The problem is that there is no such thing."
-}
+---
+title: There&#8217;s no such thing as the Trace
+a:
+- Alex Dunn
+date: '2013-05-15 12:00:00-07:00'
+t:
+- conspiracies
+- harry
+- figg
+- spells
+description: Much has been made about &#8220;the Trace&#8221;, the charm on underage
+  witches and wizards that is used by the Ministry to detect illegal spellwork.  The
+  problem is that there is no such thing. 
+---
+
 
 Much is made in *Harry Potter* about "the Trace", the charm on
 underage witches and wizards that is used by the Ministry to detect

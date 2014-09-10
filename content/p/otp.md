@@ -1,15 +1,19 @@
-{
-	"title": "You can't spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics",
-	"a": ["Alex Dunn"],
-	"date": "2014-02-21 13:00:00-07:00",
-	"t": [
-		"conspiracies",
-		"luna",
-		"ron",
-		"dumbledore"
-		],
-	"description": "The truth of the Ronbledore Theory has by now been pretty well established, but I would like to shore up its foundations with some new evidence, evidence that will help explain why Ronbledore went back in time, as well as—roughly—when."
-}
+---
+title: 'You can''t spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in
+  Ronbledore apologetics'
+a:
+- Alex Dunn
+date: '2014-02-21 13:00:00-07:00'
+t:
+- conspiracies
+- luna
+- ron
+- dumbledore
+description: The truth of the Ronbledore Theory has by now been pretty well established,
+  but I would like to shore up its foundations with some new evidence, evidence that
+  will help explain why Ronbledore went back in time, as well as—roughly—when. 
+---
+
 
 Earlier this month, J.K. Rowling finally admitted that Ron and
 Hermione should not have ended up together.  While this led us to
