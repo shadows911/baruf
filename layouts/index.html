@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html class="home" lang="en">
 <head>
-  {{ template "global/meta.html" . }}
-  {{ template "global/assets.html" . }}
-
+  {{ partial "meta.html" . }}
+  {{ partial "assets.html" . }}
   <title>Baruffio: a blog about Harry Potter</title>
 </head>
 <body>
@@ -14,10 +13,10 @@
 </header>
 
 <main role="main">
-{{ template "global/pre.html" }}
+{{ partial "pre.html" . }}
 
 <div class="secondary">
-{{ template "global/who.html" }}
+{{ partial "who.html" . }}
 </div>
 
 <section id="content-start" class="primary index">
@@ -27,8 +26,6 @@
 </section>
 
 </main>
-
-{{ template "global/footer.html" }}
-
+{{ partial "footer.html" . }}
 </body>
 </html>

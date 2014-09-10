@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html class="{{ .Type }} single" lang="en">
 <head>
-  {{ template "global/meta.html" . }}
-  {{ template "global/assets.html" . }}
+  {{ partial "meta.html" . }}
+  {{ partial "assets.html" . }}
 
   <title>{{ .Title | safeHtml }} — baruffio.com</title>
 </head>
@@ -15,9 +15,9 @@
 </header>
 
 <main role="main">
-{{ template "global/pre.html" }}
+{{ partial "pre.html" . }}
 <div class="secondary">
-{{ template "global/who.html" }}
+{{ partial "who.html" . }}
 </div>
 
 <section id="content-start" class="primary single">
@@ -31,7 +31,7 @@ Posted in <span class="tags">{{ range .Params.t }}	<a class="tag" href="/t/{{ . 
 </section>
 </main>
 
-{{ template "global/footer.html" }}
+{{ partial "footer.html" . }}
 
 </body>
 </html>

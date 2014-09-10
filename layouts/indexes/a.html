@@ -1,28 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {{ template "global/meta.html" . }}
-  {{ template "global/assets.html" . }}
-
+  {{ partial "meta.html" . }}
+  {{ partial "assets.html" . }}
   <title>{{ if eq .Title "Alex-Dunn" }}Alex Dunn{{ end }} — baruffio.com</title>
 </head>
 <body>
-<!--http://css-tricks.com/snippets/css/sticky-footer/-->
-
 <header class="page-header" role="banner">
 <h1>“{{ if eq .Title "Alex-Dunn" }}Dunn, Alex{{ end }}!”</h1>
 </header>
 
 <main role="main">
-{{ template "global/pre.html" }}
+{{ partial "pre.html" . }}
 
 <div class="secondary">
 <section class="about">
 	<h2>Posts by {{ if eq .Title "Alex-Dunn" }}Alex Dunn{{ end }}</h2>
 	<p>{{ if eq .Title "Alex-Dunn" }}<a href="http://megr.im" title="Author website">Alex Dunn</a> is the founder of <em>Baruffio</em>. He has a cat and a <a href="https://twitter.com/dunndunndunn" title="@dunndunndunn">Twitter account</a>.{{ end }}</p>
-	
 	<hr />
-	
 	<p>This is just a subset of the magical content on <a href="/" title="Baruffio.com"><em>Baruffio</em></a>.  Check out the <a href="/p" title="The Pensieve">whole archive</a>, then follow us on <a href="https://twitter.com/baruffio_txt">Twitter</a> and subscribe to our <a href="/index.xml" title="Main RSS">RSS feed</a> so you don&#8217;t miss new stuff!</p>
 </section>
 	</div>
@@ -34,8 +29,6 @@
 </section>
 
 </main>
-
-{{ template "global/footer.html" }}
-
+{{ partial "footer.html" . }}
 </body>
 </html>

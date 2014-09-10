@@ -1,7 +1,7 @@
 <article role="article">
 <header>
 <h3><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a></h3>
-{{ template "global/byline.html" . }}
+{{ partial "byline.html" . }}
 </header>
 <p>{{ .Description | safeHtml }}</p>
 <p><a href="{{ .Permalink }}" title="Full post">Continue…</a></p>

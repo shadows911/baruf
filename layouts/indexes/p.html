@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {{ template "global/meta.html" . }}
-  {{ template "global/assets.html" . }}
+  {{ partial "meta.html" . }}
+  {{ partial "assets.html" . }}
 
   <title>The Pensieve — baruffio.com</title>
 </head>
@@ -14,7 +14,7 @@
 </header>
 
 <main role="main">
-{{ template "global/pre.html" }}
+{{ partial "pre.html" . }}
 
 <div class="secondary">
 <section class="about">
@@ -31,7 +31,7 @@
 
 </main>
 
-{{ template "global/footer.html" }}
+{{ partial "footer.html" . }}
 
 </body>
 </html>
